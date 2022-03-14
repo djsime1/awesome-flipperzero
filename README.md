@@ -21,7 +21,10 @@
 
 ## Plugins
 - [`floopper-bloopper` LD#47 Game (Uses old firmware.)](https://github.com/glitchcore/floopper-bloopper)
-- [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
 
 ## Modules
 - [`flipperzero-protoboards-kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
+
+## Off-device
+- [`FlipperScripts` Modify the state and level of your dolphin.](https://github.com/DroomOne/FlipperScripts)
+- [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
