@@ -21,6 +21,7 @@
 
 ## Plugins
 - [`floopper-bloopper` LD#47 Game (Uses old firmware.)](https://github.com/glitchcore/floopper-bloopper)
+- [`Sub-GHz Unlocked` (Illegal) firmware that removes the TX restriction.](https://github.com/MuddledBox/flipperzero-firmware/tree/allow_tx_more_freqs)
 
 ## Modules
 - [`flipperzero-protoboards-kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
