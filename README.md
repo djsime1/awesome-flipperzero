@@ -20,7 +20,7 @@
 - [`AmiiboFlipperConverter` Dumps of Amiibo pawns.](https://github.com/Lucaslhm/AmiiboFlipperConverter/tree/377a55ab84040ff1054bb5985c4c40574b6bae3b)
 
 ## Plugins
-- [`floopper-bloopper` LD#47 Game (Uses old firmware.)](https://github.com/glitchcore/floopper-bloopper)
+- [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
 - [`Sub-GHz Unlocked` (Illegal) firmware that removes the TX restriction.](https://github.com/MuddledBox/flipperzero-firmware/tree/allow_tx_more_freqs)
 
 ## Modules
