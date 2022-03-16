@@ -31,11 +31,13 @@
 - [`Trollphin OS` (WIP) Firmware that replaces Flipper with trollfaces.](https://github.com/simsnet/flipperzero-firmware/tree/trollphin-os)
 
 ## Modules & Cases
+- [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases)
 - [`flipperzero-protoboards-kicad` (Unofficial) KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
 
 ## Off-device & Debugging
 - [`FlipperScripts` Modify the state and level of your dolphin.](https://github.com/DroomOne/FlipperScripts)
 - [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
+- [`Viewing system logs` Dump system logs to serial CLI.](https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8)
 
 <!-- DO NOT MODIFY BELOW -->
 
@@ -43,6 +45,6 @@
 <h3 align="center">Want to make changes?</h3>
 <div align="center">
   You can <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
-  or <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">Start a discussion</a></kbd> with your ideas
-  <em>(A GitHub account is required for both).</em>
+  or <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">Start a discussion</a></kbd> with your ideas.<br>
+  <em>(A GitHub account is required for both)</em>
 </div>
