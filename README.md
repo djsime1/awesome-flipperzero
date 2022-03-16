@@ -26,6 +26,10 @@
 ## Modules
 - [`flipperzero-protoboards-kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
 
+## Fun & Games
+- [`"Flipperlovania"` Megalovania remix for Flipper Zero.](https://github.com/simsnet/flipperzero-firmware/tree/flipperlovania-custom-music)
+- [`Trollphin OS" (WIP)` Firmware that replaces Flipper with trollfaces.](https://github.com/simsnet/flipperzero-firmware/tree/trollphin-os)
+
 ## Off-device
 - [`FlipperScripts` Modify the state and level of your dolphin.](https://github.com/DroomOne/FlipperScripts)
 - [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
