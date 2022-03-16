@@ -14,18 +14,22 @@
 </h3>
 <hr>
 
-## Databases
+## Databases & Dumps
 - [`flipperzero-goodies` Intercom keys and other dumps.](https://github.com/wetox-team/flipperzero-goodies)
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/Lucaslhm/Flipper-IRDB)
 - [`AmiiboFlipperConverter` Dumps of Amiibo pawns.](https://github.com/Lucaslhm/AmiiboFlipperConverter/tree/377a55ab84040ff1054bb5985c4c40574b6bae3b)
 
-## Plugins
+## Applications & Plugins
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
-- [`Sub-GHz Unlocked` (Illegal) firmware that removes the TX restriction.](https://github.com/MuddledBox/flipperzero-firmware/tree/allow_tx_more_freqs)
 
-## Modules
-- [`flipperzero-protoboards-kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
+## Firmwares & Tweaks
+- [`Sub-GHz Unlocked` (Illegal) Removes the TX restriction and adds more frequencies.](https://github.com/MuddledBox/flipperzero-firmware/tree/allow_tx_more_freqs)
+- [`Flipperlovania` Megalovania remix for Flipper Zero.](https://github.com/simsnet/flipperzero-firmware/tree/flipperlovania-custom-music)
+- [`Trollphin OS` (WIP) Firmware that replaces Flipper with trollfaces.](https://github.com/simsnet/flipperzero-firmware/tree/trollphin-os)
 
-## Off-device
+## Modules & Cases
+- [`flipperzero-protoboards-kicad` (Unofficial) KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
+
+## Off-device & Debugging
 - [`FlipperScripts` Modify the state and level of your dolphin.](https://github.com/DroomOne/FlipperScripts)
 - [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
