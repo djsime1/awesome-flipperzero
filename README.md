@@ -1,7 +1,8 @@
 <hr>
 <a href="https://github.com/djsime1/awesome-flipperzero">
-  <img src="https://user-images.githubusercontent.com/8518150/158225844-8aa3aff4-145f-49e6-bf7c-f2c5e6e88d69.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
+  <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
 </a>
+
 <hr>
 <h3 align="center">
   A collection of Awesome resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
@@ -13,6 +14,8 @@
   </a>
 </h3>
 <hr>
+
+<!-- DO NOT MODIFY ABOVE -->
 
 ## Databases & Dumps
 - [`flipperzero-goodies` Intercom keys and other dumps.](https://github.com/wetox-team/flipperzero-goodies)
@@ -33,3 +36,13 @@
 ## Off-device & Debugging
 - [`FlipperScripts` Modify the state and level of your dolphin.](https://github.com/DroomOne/FlipperScripts)
 - [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
+
+<!-- DO NOT MODIFY BELOW -->
+
+<hr>
+<h3 align="center">Want to make changes?</h3>
+<div align="center">
+  You can <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
+  or <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">Start a discussion</a></kbd> with your ideas
+  <em>(A GitHub account is required for both).</em>
+</div>
