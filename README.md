@@ -21,6 +21,7 @@
 - [`flipperzero-goodies` Intercom keys and other dumps.](https://github.com/wetox-team/flipperzero-goodies)
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/Lucaslhm/Flipper-IRDB)
 - [`AmiiboFlipperConverter` Dumps of Amiibo pawns.](https://github.com/Lucaslhm/AmiiboFlipperConverter/tree/377a55ab84040ff1054bb5985c4c40574b6bae3b)
+- [`FlipperZeroSub-GHz` Debruin dumps (All possible codes).](https://github.com/MuddledBox/FlipperZeroSub-GHz)
 
 ## Applications & Plugins
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
