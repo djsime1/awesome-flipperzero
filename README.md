@@ -28,7 +28,6 @@
 ## Firmwares & Tweaks
 - [`Sub-GHz Unlocked` (Illegal) Removes the TX restriction and adds more frequencies.](https://github.com/MuddledBox/flipperzero-firmware/tree/allow_tx_more_freqs)
 - [`Flipperlovania` Megalovania remix for Flipper Zero.](https://github.com/simsnet/flipperzero-firmware/tree/flipperlovania-custom-music)
-- [`Trollphin OS` (WIP) Firmware that replaces Flipper with trollfaces.](https://github.com/simsnet/flipperzero-firmware/tree/trollphin-os)
 
 ## Modules & Cases
 - [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases)
