@@ -21,13 +21,14 @@
 - [`flipperzero-goodies` Intercom keys and other dumps.](https://github.com/wetox-team/flipperzero-goodies)
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/Lucaslhm/Flipper-IRDB)
 - [`AmiiboFlipperConverter` Dumps of Amiibo pawns.](https://github.com/Lucaslhm/AmiiboFlipperConverter/tree/377a55ab84040ff1054bb5985c4c40574b6bae3b)
-- [`FlipperZeroSub-GHz` Debruin dumps (All possible codes).](https://github.com/MuddledBox/FlipperZeroSub-GHz)
+- [`FlipperZeroSub-GHz` Debruin & vehicle keyfob dumps.](https://github.com/MuddledBox/FlipperZeroSub-GHz)
+- [`BadUSB Payloads` Generic Duckyscript payloads.](https://github.com/hak5/usbrubberducky-payloads)
 
 ## Applications & Plugins
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
 
 ## Firmwares & Tweaks
-- [`Sub-GHz Unlocked` (Illegal) Removes the TX restriction and adds more frequencies.](https://github.com/MuddledBox/flipperzero-firmware/tree/allow_tx_more_freqs)
+- [`Muddled Forks` A LOT of different firmware tweaks.](https://github.com/MuddledBox/flipperzero-firmware/releases)
 - [`Flipperlovania` Megalovania remix for Flipper Zero.](https://github.com/simsnet/flipperzero-firmware/tree/flipperlovania-custom-music)
 
 ## Modules & Cases
@@ -38,6 +39,7 @@
 - [`FlipperScripts` Modify the state and level of your dolphin.](https://github.com/DroomOne/FlipperScripts)
 - [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
 - [`Viewing system logs` Dump system logs to serial CLI.](https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8)
+- [`Flipper Zero simulator` Simulates the graphics of the Flipper Zero.](https://github.com/andv2/flipperzero_sim)
 
 <!-- DO NOT MODIFY BELOW -->
 
