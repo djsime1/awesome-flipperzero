@@ -23,6 +23,7 @@
 - [`AmiiboFlipperConverter` Dumps of Amiibo pawns.](https://github.com/Lucaslhm/AmiiboFlipperConverter/tree/377a55ab84040ff1054bb5985c4c40574b6bae3b)
 - [`FlipperZeroSub-GHz` Debruin & vehicle keyfob dumps.](https://github.com/MuddledBox/FlipperZeroSub-GHz)
 - [`BadUSB Payloads` Generic Duckyscript payloads.](https://github.com/hak5/usbrubberducky-payloads)
+- [`csv2ir` Full conversion of the IRDB repo to Flipper's format.](https://github.com/Spexivus/csv2ir)
 
 ## Applications & Plugins
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
@@ -40,6 +41,7 @@
 - [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
 - [`Viewing system logs` Dump system logs to serial CLI.](https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8)
 - [`Flipper Zero simulator` Simulates the graphics of the Flipper Zero.](https://github.com/andv2/flipperzero_sim)
+- [`flipper.page` Community-maintained documentation & resources.](https://flipper.page/)
 
 <!-- DO NOT MODIFY BELOW -->
 
