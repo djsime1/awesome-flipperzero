@@ -42,6 +42,7 @@
 - [`Viewing system logs` Dump system logs to serial CLI.](https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8)
 - [`Flipper Zero simulator` Simulates the graphics of the Flipper Zero.](https://github.com/andv2/flipperzero_sim)
 - [`flipper.page` Community-maintained documentation & resources.](https://flipper.page/)
+- [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams.](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55)
 
 <!-- DO NOT MODIFY BELOW -->
 
