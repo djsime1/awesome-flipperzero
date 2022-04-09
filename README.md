@@ -30,11 +30,12 @@
 
 ## Firmwares & Tweaks
 - [`Muddled Forks` A LOT of different firmware tweaks.](https://github.com/MuddledBox/flipperzero-firmware/releases)
-- [`Flipperlovania` Megalovania remix for Flipper Zero.](https://github.com/simsnet/flipperzero-firmware/tree/flipperlovania-custom-music)
+- [`Unleashed` Firmware without legal limitations.](https://github.com/Eng1n33r/flipperzero-firmware)
 
 ## Modules & Cases
 - [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases)
 - [`flipperzero-protoboards-kicad` (Unofficial) KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
+- [`Hard Edgy Case` 3D-Printable solid case with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware/tree/master/Cases/Hard%20Edgy%20Case)
 
 ## Off-device & Debugging
 - [`FlipperScripts` Modify the state and level of your dolphin.](https://github.com/DroomOne/FlipperScripts)
