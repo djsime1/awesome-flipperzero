@@ -24,6 +24,8 @@
 - [`FlipperZeroSub-GHz` Debruin & vehicle keyfob dumps.](https://github.com/MuddledBox/FlipperZeroSub-GHz)
 - [`BadUSB Payloads` Generic Duckyscript payloads.](https://github.com/hak5/usbrubberducky-payloads)
 - [`csv2ir` Full conversion of the IRDB repo to Flipper's format.](https://github.com/Spexivus/csv2ir)
+- [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
+- [`BadUSB WiFi grabber` grabs saved Wi-Fi info & sends the info to email.](https://github.com/Gioman101/BadUSBwifi-grabberFlipper) 
 
 ## Applications & Plugins
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
