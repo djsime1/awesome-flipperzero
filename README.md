@@ -28,6 +28,9 @@
 ## Applications & Plugins
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
 
+## Development
+- [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin .](https://github.com/DroomOne/Flipper-Plugin-Tutorial)
+ 
 ## Firmwares & Tweaks
 - [`Muddled Forks` A LOT of different firmware tweaks.](https://github.com/MuddledBox/flipperzero-firmware/releases)
 - [`Unleashed` Firmware without legal limitations.](https://github.com/Eng1n33r/flipperzero-firmware)
