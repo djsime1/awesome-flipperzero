@@ -18,35 +18,34 @@
 <!-- DO NOT MODIFY ABOVE -->
 
 ## Databases & Dumps
-- [`flipperzero-goodies` Intercom keys and other dumps.](https://github.com/wetox-team/flipperzero-goodies)
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/Lucaslhm/Flipper-IRDB)
-- [`AmiiboFlipperConverter` Dumps of Amiibo pawns.](https://github.com/Lucaslhm/AmiiboFlipperConverter/tree/377a55ab84040ff1054bb5985c4c40574b6bae3b)
-- [`FlipperZeroSub-GHz` Debruin & vehicle keyfob dumps.](https://github.com/MuddledBox/FlipperZeroSub-GHz)
+- [`csv2ir` Full conversion of the IRDB repo to Flipper's format w/ script.](https://github.com/Spexivus/csv2ir)
+- [`FlipperZeroSub-GHz` De-Bruijn & vehicle keyfob dumps.](https://github.com/MuddledBox/FlipperZeroSub-GHz)
+- [`flipperzero-touchtunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes)
+- [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
 - [`BadUSB Payloads` Generic Duckyscript payloads.](https://github.com/hak5/usbrubberducky-payloads)
-- [`csv2ir` Full conversion of the IRDB repo to Flipper's format.](https://github.com/Spexivus/csv2ir)
+- [`flipperzero-goodies` Intercom keys and other dumps.](https://github.com/wetox-team/flipperzero-goodies)
 
 ## Applications & Plugins
+- [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/DroomOne/Flipper-Plugin-Tutorial)
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
-
-## Development
-- [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin .](https://github.com/DroomOne/Flipper-Plugin-Tutorial)
  
 ## Firmwares & Tweaks
-- [`Muddled Forks` A LOT of different firmware tweaks.](https://github.com/MuddledBox/flipperzero-firmware/releases)
-- [`Unleashed` Firmware without legal limitations.](https://github.com/Eng1n33r/flipperzero-firmware)
+- [`Unleashed` Active firmware without legal limitations.](https://github.com/Eng1n33r/flipperzero-firmware)
+- [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
 
 ## Modules & Cases
+- [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
 - [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases)
-- [`flipperzero-protoboards-kicad` (Unofficial) KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
-- [`Hard Edgy Case` 3D-Printable solid case with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware/tree/master/Cases/Hard%20Edgy%20Case)
+- [`flipperzero-protoboards-kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
 
 ## Off-device & Debugging
-- [`FlipperScripts` Modify the state and level of your dolphin.](https://github.com/DroomOne/FlipperScripts)
-- [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
-- [`Viewing system logs` Dump system logs to serial CLI.](https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8)
-- [`Flipper Zero simulator` Simulates the graphics of the Flipper Zero.](https://github.com/andv2/flipperzero_sim)
-- [`flipper.page` Community-maintained documentation & resources.](https://flipper.page/)
 - [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams.](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55)
+- [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
+- [`FlipperScripts` Modify the state and level of your dolphin.](https://github.com/DroomOne/FlipperScripts)
+- [`Viewing system logs` Dump system logs to serial CLI.](https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8)
+- [`AmiiboFlipperConverter` Script that converts Amiibo's to Flipper format.](https://github.com/Lucaslhm/AmiiboFlipperConverter/)
+- [`CLI Tools` Python scripts to screenshot/stream screen.](https://github.com/lomalkin/flipperzero-cli-tools)
 
 <!-- DO NOT MODIFY BELOW -->
 
