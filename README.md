@@ -28,12 +28,13 @@
 ## Applications & Plugins
 - [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/DroomOne/Flipper-Plugin-Tutorial)
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
+- [`Spectrum analyzer` Sub-GHz frequency spectrum analyzer.](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer)
 
 ## Firmwares & Tweaks
 
 <table align="right">
   <tr><th><strong>HEY YOU!</strong></th></tr>
-  <tr><td><em><a href="https://gist.github.com/djsime1/edb8f3a0ab77e563898d1c55f489bf96">Click here</a> for a feature comparison of these firmwares!</em></td></tr>
+  <tr><td>🔰 <em><a href="https://gist.github.com/djsime1/edb8f3a0ab77e563898d1c55f489bf96">Click here</a> for a feature<br>comparison of these firmwares!</em></td></tr>
 </table>
 
 - [`Unleashed` Active firmware without legal limitations.](https://github.com/Eng1n33r/flipperzero-firmware)
@@ -56,9 +57,10 @@
 
 ## Notes & References
 - [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://gist.github.com/djsime1/edb8f3a0ab77e563898d1c55f489bf96)
-- [`Flipper Zero SW&HW keynote` (OUTDATED) Hardware & software architecture document.](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
+- [`Reset forgotten PIN` How to reset your device's PIN code.](https://gist.github.com/djsime1/18d73b981249859f17aab3e2bfd2b600)
 - [`Flipper Zero GPIO Pinout` Official GPIO pinouts.](https://miro.com/app/board/uXjVO_LaYYI=/?moveToWidget=3458764522696947614&cot=10)
 - [`Firmware roadmap` Official stock firmware roadmap.](https://miro.com/app/board/uXjVO_3D6xU=/?moveToWidget=3458764522498020058&cot=14)
+- [`Flipper Zero SW&HW keynote` (OUTDATED) Hardware & software architecture document.](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
 
 <!-- DO NOT MODIFY BELOW -->
 
