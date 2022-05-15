@@ -24,6 +24,7 @@
 - [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
 - [`BadUSB Payloads` Generic Duckyscript payloads.](https://github.com/hak5/usbrubberducky-payloads)
 - [`flipperzero-goodies` Intercom keys and other dumps.](https://github.com/wetox-team/flipperzero-goodies)
+- [`Flipper Maker` Generate Flipper Zero files on the fly.](https://flippermaker.github.io/)
 
 ## Applications & Plugins
 - [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/DroomOne/Flipper-Plugin-Tutorial)
