@@ -18,12 +18,13 @@
 <!-- DO NOT MODIFY ABOVE -->
 
 ## Databases & Dumps
-- [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/Lucaslhm/Flipper-IRDB)
-- [`FlipperZeroSub-GHz` De-Bruijn & vehicle keyfob dumps.](https://github.com/MuddledBox/FlipperZeroSub-GHz)
-- [`flipperzero-touchtunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes)
+- [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
+- [`FlipperZeroSub-GHz` De-Bruijn & vehicle keyfob dumps.](https://github.com/UberGuidoZ/Flipper/tree/main/Sub-GHz)
+- [`FlipperZeroNFC` NFC Keys updates & info.](https://github.com/UberGuidoZ/Flipper/tree/main/NFC)
+- [`FlipperZero-TouchTunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes)
 - [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
 - [`BadUSB Payloads` Generic Duckyscript payloads.](https://github.com/hak5/usbrubberducky-payloads)
-- [`flipperzero-goodies` Intercom keys and other dumps.](https://github.com/wetox-team/flipperzero-goodies)
+- [`FlipperZero-Goodies` Intercom keys and other dumps.](https://github.com/wetox-team/flipperzero-goodies)
 - [`Flipper Maker` Generate Flipper Zero files on the fly.](https://flippermaker.github.io/)
 
 ## Applications & Plugins
@@ -46,7 +47,7 @@
 ## Modules & Cases
 - [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
 - [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases)
-- [`flipperzero-protoboards-kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
+- [`FlipperZero-Protoboards-Kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
 
 ## Off-device & Debugging
 - [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams.](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55)
