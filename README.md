@@ -65,6 +65,7 @@
 
 ## Notes & References
 - [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://gist.github.com/djsime1/edb8f3a0ab77e563898d1c55f489bf96)
+- [`Flipper Zero Hacking 101` Guides with screenshots, files, and general help.](https://flipper.pingywon.com/)
 - [`Reset forgotten PIN` How to reset your device's PIN code.](https://gist.github.com/djsime1/18d73b981249859f17aab3e2bfd2b600)
 - [`Flipper Zero GPIO Pinout` Official GPIO pinouts.](https://miro.com/app/board/uXjVO_LaYYI=/?moveToWidget=3458764522696947614&cot=10)
 - [`Firmware roadmap` Official stock firmware roadmap.](https://miro.com/app/board/uXjVO_3D6xU=/?moveToWidget=3458764522498020058&cot=14)
