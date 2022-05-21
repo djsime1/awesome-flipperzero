@@ -25,7 +25,7 @@
 - [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
 - [`FlipperMusicRTTTL` Collection of musics for FlipperZero Music Player.](https://github.com/neverfa11ing/FlipperMusicRTTTL)
 - [`BadUSB Payloads` Generic Duckyscript payloads.](https://github.com/hak5/usbrubberducky-payloads)
-- [`FlipperZero-Goodies` Intercom keys and other dumps.](https://github.com/wetox-team/flipperzero-goodies)
+- [`FlipperZero-Goodies` Intercom keys, scripts, etc.](https://github.com/wetox-team/flipperzero-goodies)
 
 ## Applications & Plugins
 - [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/DroomOne/Flipper-Plugin-Tutorial)
