@@ -24,7 +24,7 @@
 - [`Flipper Maker` Generate Flipper Zero files on the fly.](https://flippermaker.github.io/)
 - [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
 - [`FlipperMusicRTTTL` Collection of musics for FlipperZero Music Player.](https://github.com/neverfa11ing/FlipperMusicRTTTL)
-- [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
+- [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 - [`BadUSB Payloads` Generic Duckyscript payloads.](https://github.com/hak5/usbrubberducky-payloads)
 - [`FlipperZero-Goodies` Intercom keys and other dumps.](https://github.com/wetox-team/flipperzero-goodies)
 
