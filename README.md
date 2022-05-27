@@ -69,7 +69,8 @@
 - [`Flipper Zero GPIO Pinout` Official GPIO pinouts.](https://miro.com/app/board/uXjVO_LaYYI=/?moveToWidget=3458764522696947614&cot=10)
 - [`Firmware roadmap` Official stock firmware roadmap.](https://miro.com/app/board/uXjVO_3D6xU=/?moveToWidget=3458764522498020058&cot=14)
 - [`Flipper Zero SW&HW keynote` (OUTDATED) Hardware & software architecture document.](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
-- [`Unofficial Community Wiki` To help consolidate all things Flipper (official and unofficial)](https://flipperzero.miraheze.org/wiki/Main_Page)
+- [`Unofficial Community Wiki` To help consolidate all things Flipper (official and unofficial).](https://flipperzero.miraheze.org/wiki/Main_Page)
+- [`Atmanos Flipper Software Docs` Flipper development tutorials and information.](https://flipper.atmanos.com/docs/overview/intro)
 
 <!-- DO NOT MODIFY BELOW -->
 
