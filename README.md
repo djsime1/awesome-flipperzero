@@ -43,7 +43,7 @@
   <tr><td>🔰 <em><a href="https://gist.github.com/djsime1/edb8f3a0ab77e563898d1c55f489bf96">Click here</a> for a feature<br>comparison of these firmwares!</em></td></tr>
 </table>
 
-- [`Firmware with plugins` Stock firmware with assorted community plugins.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
+- [`Firmware with plugins` Frequency-unlocked firmware with assorted community plugins.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 - [`Unleashed` Active firmware without legal limitations.](https://github.com/Eng1n33r/flipperzero-firmware)
 - [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
 - [`Wetox` Very similar to the official branch, with a few small tweaks.](https://github.com/wetox-team/flipperzero-firmware)
