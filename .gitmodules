@@ -1,0 +1,3 @@
+[submodule "infrared"]
+	path = infrared
+	url = https://github.com/logickworkshop/Flipper-IRDB.git
