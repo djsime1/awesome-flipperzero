@@ -69,7 +69,8 @@
   <tr><th><strong>IMPORTANT CHANGES</strong></th></tr>
   <tr><td>⚠️ <em>The Flipper team <a href="https://github.com/flipperdevices/flipperzero-firmware/pull/1269">recently changed</a><br>how the firmware is built. Some docs<br>and tutorials may be outdated!</em></td></tr>
 </table>
-- [`Flipper Zero Disassembly Guide` Difficulty:Moderate, Time: 8-15 MINS](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151331)
+
+- [`Flipper Zero Disassembly Guide` Difficulty: Moderate, Time: 8-15 MINS](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151331)
 - [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://gist.github.com/djsime1/edb8f3a0ab77e563898d1c55f489bf96)
 - [`Flipper Zero Hacking 101` Guides with screenshots, files, and general help.](https://flipper.pingywon.com/)
 - [`Reset forgotten PIN` How to reset your device's PIN code.](https://gist.github.com/djsime1/18d73b981249859f17aab3e2bfd2b600)
