@@ -13,3 +13,6 @@
 [submodule "AmiiboFlipperConverter"]
 	path = AmiiboFlipperConverter
 	url = https://github.com/Lucaslhm/AmiiboFlipperConverter
+[submodule "Flipper-Zero-BadUSB"]
+	path = Flipper-Zero-BadUSB
+	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB
