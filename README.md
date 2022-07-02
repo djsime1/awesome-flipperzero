@@ -58,6 +58,7 @@
 - [`Hard case` Smaller than pelican case, but still bulky.](https://www.thingiverse.com/thing:5387015)
 
 ## Off-device & Debugging
+- [`WiFi Dev Board` with Marauder firmware](https://www.reddit.com/r/flipperzero/comments/vn29z2/wifi_dev_board_with_marauder_firmware/)
 - [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams.](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55)
 - [`csv2ir` Script to convert IRDB CSV's to Flipper .ir files.](https://github.com/Spexivus/csv2ir)
 - [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
