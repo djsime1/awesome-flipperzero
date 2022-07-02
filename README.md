@@ -39,7 +39,7 @@
 ## Firmwares & Tweaks
 
 <table align="right">
-  <tr><th><strong>HEY YOU!</strong></th></tr>
+  <tr><th><strong>Outdated comparisons:</strong></th></tr>
   <tr><td>🔰 <em><a href="https://gist.github.com/djsime1/edb8f3a0ab77e563898d1c55f489bf96">Click here</a> for a feature<br>comparison of these firmwares!</em></td></tr>
 </table>
 
