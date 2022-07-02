@@ -50,6 +50,7 @@
 - [`Wetox` Very similar to the official branch, with a few small tweaks.](https://github.com/wetox-team/flipperzero-firmware)
 
 ## Modules & Cases
+- [`Dying the Flipper Zero Stock Case Black` Using Rit Dyemore Graphite](https://www.reddit.com/r/flipperzero/comments/vhb8hv/with_inspiration_and_info_from_uchillbasss_ive)
 - [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
 - [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases)
 - [`FlipperZero-Protoboards-Kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
