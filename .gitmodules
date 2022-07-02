@@ -19,3 +19,6 @@
 [submodule "FlipperScripts"]
 	path = FlipperScripts
 	url = https://github.com/DroomOne/FlipperScripts
+[submodule "flipperzero-firmware"]
+	path = flipperzero-firmware
+	url = https://github.com/flipperdevices/flipperzero-firmware
