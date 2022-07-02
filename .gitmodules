@@ -1,6 +1,6 @@
-[submodule "infrared"]
-	path = infrared
+[submodule "Flipper-IRDB"]
+	path = Flipper-IRDB
 	url = https://github.com/logickworkshop/Flipper-IRDB.git
-[submodule "UberGuidoZ_playground"]
-	path = UberGuidoZ_playground
+[submodule "Flipper"]
+	path = Flipper
 	url = https://github.com/UberGuidoZ/Flipper.git
