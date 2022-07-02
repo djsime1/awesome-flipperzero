@@ -1,4 +1,4 @@
-[submodule "Flipper-IRDB"]
+[submodule "IRDB"]
 	path = Flipper-IRDB
 	url = https://github.com/logickworkshop/Flipper-IRDB.git
 [submodule "Flipper"]
