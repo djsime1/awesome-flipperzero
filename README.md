@@ -39,11 +39,11 @@
 ## Firmwares & Tweaks
 
 <table align="right">
-  <tr><th><strong>HEY YOU!</strong></th></tr>
+  <tr><th><strong>Hey You!</strong></th></tr>
   <tr><td>🔰 <em><a href="https://gist.github.com/djsime1/edb8f3a0ab77e563898d1c55f489bf96">Click here</a> for a feature<br>comparison of these firmwares!</em></td></tr>
 </table>
 
-- [`Firmware with plugins` Frequency-unlocked firmware with assorted community plugins.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
+- [`The Best, RogueMaster, Firmware with plugins` Unleashed with extra games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 - [`Unleashed` Active firmware without legal limitations.](https://github.com/Eng1n33r/flipperzero-firmware)
 - [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
 - [`Wetox` Very similar to the official branch, with a few small tweaks.](https://github.com/wetox-team/flipperzero-firmware)
@@ -70,6 +70,7 @@
   <tr><td>⚠️ <em>The Flipper team <a href="https://github.com/flipperdevices/flipperzero-firmware/pull/1269">recently changed</a><br>how the firmware is built. Some docs<br>and tutorials may be outdated!</em></td></tr>
 </table>
 
+- [`Flipper Zero Disassembly Guide` Difficulty: Moderate, Time: 8-15 MINS](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151331)
 - [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://gist.github.com/djsime1/edb8f3a0ab77e563898d1c55f489bf96)
 - [`Flipper Zero Hacking 101` Guides with screenshots, files, and general help.](https://flipper.pingywon.com/)
 - [`Reset forgotten PIN` How to reset your device's PIN code.](https://gist.github.com/djsime1/18d73b981249859f17aab3e2bfd2b600)
