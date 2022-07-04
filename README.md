@@ -63,6 +63,7 @@
 - [`Viewing system logs` Dump system logs to serial CLI.](https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8)
 - [`AmiiboFlipperConverter` Script that converts Amiibo's to Flipper format.](https://github.com/Lucaslhm/AmiiboFlipperConverter/)
 - [`CLI Tools` Python scripts to screenshot/stream screen.](https://github.com/lomalkin/flipperzero-cli-tools)
+- [`Flipper File Toolbox` Scripts for generating Flipper data files](https://github.com/evilpete/flipper_toolbox)
 
 ## Notes & References
 <table align="right">
