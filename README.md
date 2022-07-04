@@ -1,22 +1,17 @@
 <hr>
-<a href="https://github.com/djsime1/awesome-flipperzero">
+
   <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
-</a>
 
 <hr>
 <h3 align="center">
   A collection of Awesome resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br>
   <h2 align="center">... and every repo you need to clone...</h2><br>
-  <a href="#">
     <img src="https://awesome.re/badge.svg" alt="Awesome" height=24>
     <img src="https://img.shields.io/badge/Powered%20by-Dolphins-blue" alt="Powered by dolphins" height=24>
     <img src="https://img.shields.io/badge/Approved%20by-Lurat-brightgreen" alt="Approved by Lurat" height=24 title="Lurat is my Flipper">
     <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
-  </a>
 </h3>
 <hr>
-
-<!-- DO NOT MODIFY ABOVE -->
 
 ## Databases & Dumps
 - [`UberGuidoZ Playground` Large collection of dumps.](https://github.com/UberGuidoZ/Flipper)
@@ -30,6 +25,12 @@
 - [`FlipperZero-Goodies` Intercom keys, scripts, etc.](https://github.com/wetox-team/flipperzero-goodies)
 
 ## Applications & Plugins
+
+<table align="right">
+  <tr><th><strong>OwO whats this?</strong></th></tr>
+  <tr><td>✨ <em>This section will be succeeded by<br><a href="https://github.com/flipper-aquarium">Aquarium</a> once SD-Card apps are released.</em></td></tr>
+</table>
+
 - [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/DroomOne/Flipper-Plugin-Tutorial)
 - [`Spectrum analyzer` Sub-GHz frequency spectrum analyzer.](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer)
 - [`Tetris` A rudimentary Tetris game.](https://github.com/jeffplang/flipperzero-firmware/tree/tetris_game/applications/tetris_game)
@@ -66,11 +67,11 @@
 - [`AmiiboFlipperConverter` Script that converts Amiibo's to Flipper format.](https://github.com/Lucaslhm/AmiiboFlipperConverter/)
 - [`CLI Tools` Python scripts to screenshot/stream screen.](https://github.com/lomalkin/flipperzero-cli-tools)
 - [`Flipper File Toolbox` Scripts for generating Flipper data files](https://github.com/evilpete/flipper_toolbox)
-- [`Marauder for Wifi Dev Board` See Flipper.bin in Releases by JustCallMeKoko](https://github.com/justcallmekoko/ESP32Marauder)
+- [`Marauder for Wifi Dev Board` See Flipper.bin in Releases by JustCallMeKoko.](https://github.com/justcallmekoko/ESP32Marauder)
 
 ## Notes & References
 <table align="right">
-  <tr><th><strong>IMPORTANT CHANGES</strong></th></tr>
+  <tr><th><strong>Important notice.</strong></th></tr>
   <tr><td>⚠️ <em>The Flipper team <a href="https://github.com/flipperdevices/flipperzero-firmware/pull/1269">recently changed</a><br>how the firmware is built. Some docs<br>and tutorials may be outdated!</em></td></tr>
 </table>
 
@@ -84,6 +85,8 @@
 - [`Flipper Zero SW&HW keynote` (OUTDATED) Hardware & software architecture document.](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
 - [`WiFi Dev Board How To` with Marauder firmware by JustCallMeKoko](https://www.reddit.com/r/flipperzero/comments/vn29z2/wifi_dev_board_with_marauder_firmware/)
 - [`Unofficial Community Wiki` To help consolidate all things Flipper (official and unofficial).](https://flipperzero.miraheze.org/wiki/Main_Page)
+- [`WiFi Dev Board How To` with Marauder firmware by JustCallMeKoko.](https://www.reddit.com/r/flipperzero/comments/vn29z2/wifi_dev_board_with_marauder_firmware/)
+- [`Flipper Zero Disassembly Guide` Difficulty: Moderate, Time: 8-15 Minutes.](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151331)
 
 <!-- DO NOT MODIFY BELOW -->
 
