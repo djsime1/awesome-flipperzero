@@ -60,6 +60,8 @@
 - [`FlipperZero-Protoboards-Kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
 - [`Pelican case` Big case to hold Flipper and USB.](https://www.printables.com/model/204882-flipper-zero-case)
 - [`Hard case` Smaller than pelican case, but still bulky.](https://www.thingiverse.com/thing:5387015)
+- [`WiFi Module v1 Case` Small cover for the WiFi dev board.](https://www.printables.com/model/179910-case-for-flipper-zero-wi-fi-module-v1)
+- [`Flipper screen protector` A screen protector for Flipper.](https://www.photodon.com/p/2419-01.html)
 
 ## Off-device & Debugging
 - [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams.](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55)
@@ -69,8 +71,9 @@
 - [`Viewing system logs` Dump system logs to serial CLI.](https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8)
 - [`AmiiboFlipperConverter` Script that converts Amiibo's to Flipper format.](https://github.com/Lucaslhm/AmiiboFlipperConverter/)
 - [`CLI Tools` Python scripts to screenshot/stream screen.](https://github.com/lomalkin/flipperzero-cli-tools)
-- [`Flipper File Toolbox` Scripts for generating Flipper data files](https://github.com/evilpete/flipper_toolbox)
+- [`Flipper File Toolbox` Scripts for generating Flipper data files.](https://github.com/evilpete/flipper_toolbox)
 - [`Marauder for Wifi Dev Board` See Flipper.bin in Releases by JustCallMeKoko.](https://github.com/justcallmekoko/ESP32Marauder)
+- [`VertProntoIR2FlipperIR` Converts Vert Pronto IR codes to Flipper format.](https://github.com/SkeletonMan03/VertProntoIR2FlipperIR)
 
 ## Notes & References
 <table align="right">
@@ -78,6 +81,8 @@
   <tr><td>⚠️ <em>The Flipper team <a href="https://github.com/flipperdevices/flipperzero-firmware/pull/1269">recently changed</a><br>how the firmware is built. Some docs<br>and tutorials may be outdated!</em></td></tr>
 </table>
 
+- [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
+- [`Official firmware recovery guide` How to troubleshoot firmware issues.](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
 - [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://gist.github.com/djsime1/edb8f3a0ab77e563898d1c55f489bf96)
 - [`Flipper Zero Hacking 101` Guides with screenshots, files, and general help.](https://flipper.pingywon.com/)
 - [`Reset forgotten PIN` How to reset your device's PIN code.](https://gist.github.com/djsime1/18d73b981249859f17aab3e2bfd2b600)
@@ -86,8 +91,10 @@
 - [`Firmware roadmap` Official stock firmware roadmap.](https://miro.com/app/board/uXjVO_3D6xU=/?moveToWidget=3458764522498020058&cot=14)
 - [`Flipper Zero SW&HW keynote` (OUTDATED) Hardware & software architecture document.](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
 - [`Unofficial Community Wiki` To help consolidate all things Flipper (official and unofficial).](https://flipperzero.miraheze.org/wiki/Main_Page)
-- [`WiFi Dev Board How To` with Marauder firmware by JustCallMeKoko.](https://www.reddit.com/r/flipperzero/comments/vn29z2/wifi_dev_board_with_marauder_firmware/)
-- [`Flipper Zero Disassembly Guide` Difficulty: Moderate, Time: 8-15 Minutes.](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151331)
+- [`Flipper Zero disassembly guide` Difficulty: Moderate, Time: 8-15 Minutes.](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151331)
+- [`Alternative disassembly video` Third-party video for disassembling the Flipper.](https://youtu.be/38pHe7M4vl8)
+- [`ESP32 Marauder on WiFi dev board` Portable WiFi/Bluetooth pentesting.](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)
+- [`ESP32 Marauder guide video` Companion video for the above link.](https://youtu.be/_YLTpNo5xa0)
 
 <!-- DO NOT MODIFY BELOW -->
 
