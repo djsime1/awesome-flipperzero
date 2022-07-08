@@ -91,7 +91,7 @@
 - [`Firmware roadmap` Official stock firmware roadmap.](https://miro.com/app/board/uXjVO_3D6xU=/?moveToWidget=3458764522498020058&cot=14)
 - [`Flipper Zero SW&HW keynote` (OUTDATED) Hardware & software architecture document.](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
 - [`Unofficial Community Wiki` To help consolidate all things Flipper (official and unofficial).](https://flipperzero.miraheze.org/wiki/Main_Page)
-- [`Flipper Zero disassembly guide` Difficulty: Moderate, Time: 8-15 Minutes.](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151331)
+- [`Flipper Zero disassembly guide` Difficulty: Moderate, Time: 8-15 Minutes.](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151455)
 - [`Alternative disassembly video` Third-party video for disassembling the Flipper.](https://youtu.be/38pHe7M4vl8)
 - [`ESP32 Marauder on WiFi dev board` Portable WiFi/Bluetooth pentesting.](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)
 - [`ESP32 Marauder guide video` Companion video for the above link.](https://youtu.be/_YLTpNo5xa0)
