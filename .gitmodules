@@ -19,3 +19,6 @@
 [submodule "flipperzero-firmware"]
 	path = flipperzero-firmware
 	url = https://github.com/flipperdevices/flipperzero-firmware
+[submodule "nfc/Amiibo"]
+	path = nfc/Amiibo
+	url = https://github.com/RogueMaster/FlipperAmiibo
