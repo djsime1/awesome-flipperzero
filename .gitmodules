@@ -19,6 +19,3 @@
 [submodule "flipperzero-firmware"]
 	path = flipperzero-firmware
 	url = https://github.com/flipperdevices/flipperzero-firmware
-[submodule "FlipperAmiibo"]
-	path = FlipperAmiibo
-	url = https://github.com/RogueMaster/FlipperAmiibo
