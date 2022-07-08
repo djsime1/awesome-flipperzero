@@ -7,9 +7,6 @@
 [submodule "flipperzero-firmware-wPlugins"]
 	path = flipperzero-firmware-wPlugins
 	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins
-[submodule "FlipperAmiibo"]
-	path = FlipperAmiibo
-	url = https://github.com/RogueMaster/FlipperAmiibo
 [submodule "AmiiboFlipperConverter"]
 	path = AmiiboFlipperConverter
 	url = https://github.com/Lucaslhm/AmiiboFlipperConverter
