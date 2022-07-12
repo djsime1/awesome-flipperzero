@@ -7,3 +7,18 @@
 [submodule "badusb"]
 	path = badusb
 	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB
+[submodule "nfc/Amiibo"]
+	path = nfc/Amiibo
+	url = https://github.com/RogueMaster/FlipperAmiibo
+[submodule "firmware/OFW"]
+	path = firmware/OFW
+	url = https://github.com/flipperdevices/flipperzero-firmware
+[submodule "firmware/RogueMaster"]
+	path = firmware/RogueMaster
+	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins
+[submodule "scripts/AmiiboConverter"]
+	path = scripts/AmiiboConverter
+	url = https://github.com/Lucaslhm/AmiiboFlipperConverter
+[submodule "scripts/dolphin_state"]
+	path = scripts/dolphin_state
+	url = https://github.com/DroomOne/FlipperScripts
