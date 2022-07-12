@@ -22,3 +22,6 @@
 [submodule "scripts/dolphin_state"]
 	path = scripts/dolphin_state
 	url = https://github.com/DroomOne/FlipperScripts
+[submodule "music_player"]
+	path = music_player
+	url = https://github.com/neverfa11ing/FlipperMusicRTTTL
