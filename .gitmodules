@@ -1,6 +1,3 @@
-[submodule "nfc/Amiibo"]
-	path = nfc/Amiibo
-	url = https://github.com/RogueMaster/FlipperAmiibo
 [submodule "infrared"]
 	path = infrared
 	url = https://github.com/logickworkshop/Flipper-IRDB.git
