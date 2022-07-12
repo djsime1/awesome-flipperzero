@@ -25,3 +25,15 @@
 [submodule "infrared"]
 	path = infrared
 	url = https://github.com/logickworkshop/Flipper-IRDB.git
+[submodule "PLAYGROUND"]
+	path = PLAYGROUND
+	url = https://github.com/UberGuidoZ/Flipper.git
+[submodule "nfc/AmiiboConverter"]
+	path = nfc/AmiiboConverter
+	url = https://github.com/Lucaslhm/AmiiboFlipperConverter
+[submodule "badusb"]
+	path = badusb
+	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/DroomOne/FlipperScripts
