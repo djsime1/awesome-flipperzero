@@ -10,12 +10,6 @@
 [submodule "nfc/Amiibo"]
 	path = nfc/Amiibo
 	url = https://github.com/RogueMaster/FlipperAmiibo
-[submodule "fw/OFW"]
-	path = fw/OFW
-	url = https://github.com/flipperdevices/flipperzero-firmware
-[submodule "fw/RogueMaster"]
-	path = fw/RogueMaster
-	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins
 [submodule "scripts/AmiiboConverter"]
 	path = scripts/AmiiboConverter
 	url = https://github.com/Lucaslhm/AmiiboFlipperConverter
