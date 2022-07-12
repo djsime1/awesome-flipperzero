@@ -1,24 +1,3 @@
-[submodule "Flipper-IRDB"]
-	path = Flipper-IRDB
-	url = https://github.com/logickworkshop/Flipper-IRDB.git
-[submodule "Flipper"]
-	path = Flipper
-	url = https://github.com/UberGuidoZ/Flipper.git
-[submodule "flipperzero-firmware-wPlugins"]
-	path = flipperzero-firmware-wPlugins
-	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins
-[submodule "AmiiboFlipperConverter"]
-	path = AmiiboFlipperConverter
-	url = https://github.com/Lucaslhm/AmiiboFlipperConverter
-[submodule "Flipper-Zero-BadUSB"]
-	path = Flipper-Zero-BadUSB
-	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB
-[submodule "FlipperScripts"]
-	path = FlipperScripts
-	url = https://github.com/DroomOne/FlipperScripts
-[submodule "flipperzero-firmware"]
-	path = flipperzero-firmware
-	url = https://github.com/flipperdevices/flipperzero-firmware
 [submodule "nfc/Amiibo"]
 	path = nfc/Amiibo
 	url = https://github.com/RogueMaster/FlipperAmiibo
@@ -28,12 +7,6 @@
 [submodule "PLAYGROUND"]
 	path = PLAYGROUND
 	url = https://github.com/UberGuidoZ/Flipper.git
-[submodule "nfc/AmiiboConverter"]
-	path = nfc/AmiiboConverter
-	url = https://github.com/Lucaslhm/AmiiboFlipperConverter
 [submodule "badusb"]
 	path = badusb
 	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB
-[submodule "scripts"]
-	path = scripts
-	url = https://github.com/DroomOne/FlipperScripts
