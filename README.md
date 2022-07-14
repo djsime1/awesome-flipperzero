@@ -42,6 +42,7 @@
 - [`Mouse jiggler` Keeps PC screens on by acting as a moving mouse.](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler)
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
 - [`NRF24 & Mousejacking` PoC NRF24 library and mousejack exploitation app.](https://github.com/mothball187/flipperzero-nrf24)
+- [`WiFi Scanner Module` Based on ESP8266. You'll need to solder a board for this one.](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module-ESP8266)
 
 ## Firmwares & Tweaks
 
