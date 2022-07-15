@@ -77,6 +77,7 @@
 - [`Marauder for Wifi Dev Board` See Flipper.bin in Releases by JustCallMeKoko.](https://github.com/justcallmekoko/ESP32Marauder)
 - [`VertProntoIR2FlipperIR` Converts Vert Pronto IR codes to Flipper format.](https://github.com/SkeletonMan03/VertProntoIR2FlipperIR)
 - [`FlippMibo` Yet another Amiibo to Flipper conversion script.](https://github.com/0xz00n/FlipMiibo)
+- [`mfkey32v2` Using math to crack mifare classic keys! / alternate key recovery for mfc](https://github.com/equipter/mfkey32v2)
 
 ## Notes & References
 <table align="right">
