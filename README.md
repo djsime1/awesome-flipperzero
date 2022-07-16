@@ -65,6 +65,7 @@
 - [`WiFi Module v1 Case` Small cover for the WiFi dev board.](https://www.printables.com/model/179910-case-for-flipper-zero-wi-fi-module-v1)
 - [`Flipper screen protector` An alternative screen protector for Flipper.](https://www.photodon.com/p/2419-01.html)
 - [`WiFi Scanner Module` Based on ESP8266. You'll need to solder a board for this one.](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module-ESP8266)
+- [`Skadis holder` Flipper Zero holder for Ikea Skadis.](https://www.thingiverse.com/thing:5434476)
 
 ## Off-device & Debugging
 - [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams.](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55)
