@@ -26,6 +26,7 @@
   <tr><td>✨ <em>This section will be succeeded by<br><a href="https://github.com/flipper-aquarium">Aquarium</a> once SD-Card apps are released.</em></td></tr>
 </table>
 
+- [`Web Flasher` Flash latest FW from your browser without qFlipper, also lets you paint](https://my.flipp.dev/)
 - [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/DroomOne/Flipper-Plugin-Tutorial)
 - [`Spectrum analyzer` Sub-GHz frequency spectrum analyzer.](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer)
 - [`Tetris` A rudimentary Tetris game.](https://github.com/jeffplang/flipperzero-firmware/tree/tetris_game/applications/tetris_game)
