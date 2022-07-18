@@ -1,9 +1,11 @@
 <hr>
+
 <a href="https://github.com/djsime1/awesome-flipperzero">
   <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
 </a>
 
 <hr>
+
 <h3 align="center">
   A collection of Awesome resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
   <a href="#">
@@ -13,6 +15,14 @@
     <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
   </a>
 </h3>
+
+<table align="center"><tr><td>
+  <h3 align="center">
+  👋 New to Flipper Zero? Got questions?<br>
+  Check out the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md">FAQ Document</a>❗
+  </h3>
+</td></tr></table>
+
 <hr>
 
 <!-- DO NOT MODIFY ABOVE -->
