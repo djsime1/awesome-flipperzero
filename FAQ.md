@@ -78,7 +78,7 @@ Example: 365, 136, and 650 can all be found in 13650 by looking at 3 digits indi
 | Mifare Ultralight | X    |       | X    | X       | Non-password protected |
 | EMV Cards         | X    |       |      |         | Can read bank cards    |
 | NTAG-21X          | X    |       | X    | X       |                        |
-| iClass/PicoPass   | X    |       |      |         | Third-party app        |
+| iClass/PicoPass   | X    |       | X    |         |                        |
 | EM4100/EM4102     | X    |       | X    | X       |                        |
 | H10301            | X    |       | X    | X       |                        |
 | Indala            | X    |       | X    | X       |                        |
