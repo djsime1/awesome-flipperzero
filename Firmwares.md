@@ -2,7 +2,7 @@
 
 <h1>Flipper Zero firmware differences</h1>
 <h3>
-  <code>::</code> Last updated July 10 2022. <code>::</code>
+  <code>::</code> Last updated July 27 2022. <code>::</code>
 </h3>
 <p>This document will <em>(hopefully)</em> maintain a list of differences between various forks of the <a
     href="#official">Flipper Zero firmware</a>. <br>If I had a dollar for every time I&#39;ve seen this question asked,
@@ -18,6 +18,7 @@
       <td><a href="#unleashed">Unleashed</a></td>
       <td><a href="#wetox">Wetox</a></td>
       <td><a href="#muddledbox">MuddledBox</a></td>
+      <td><a href="#v1nc">v1nc</a></td>
       <td><a href="#summary">Summary / TL; DR</a></td>
     </tr></table>
 <h2 id="official">Official <kbd>
@@ -83,6 +84,15 @@
   <li>Removes Sub-GHz regional transmission restrictions.</li>
   <li>Adds self-promo images to about page in settings.</li>
   <li>Adds a few extra common Sub-GHz frequencies to capture on.</li>
+</ul>
+<h2 id="v1nc">v1nc <kbd>
+    <a href="https://github.com/v1nc/flipperzero-firmware">v1nc/flipperzero-firmware</a>
+  </kbd>
+</h2>
+<ul>
+  <li>Supports different keyboard layouts for Duckyscripts via the script keyword <code>DUCKY_LANG</code></li>
+  <li>Up to date fork of the Unleashed firmware</li>
+  <li>Includes community plugins & games </li>
 </ul>
 <h2 id="summary">Summary <kbd>(TL; DR)</kbd></h2>
 <ul>
