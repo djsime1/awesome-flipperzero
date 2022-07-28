@@ -71,9 +71,20 @@ After you've ignored the previous sentences, make sure there's a working MicroSD
 If there was no pre-compiled update file/package, you'll have to build the firmware yourself. See the next question for details.
 For more information, read the [official documentation](https://docs.flipperzero.one/basics/firmware-update).
 
-### How do I compile my own firmware/applications?
+### How do I compile my own firmware/applications/assets?
 (WIP)
+  
+### Can I make my own Flipper instead of buying one?
+Probably not. While the firwmare and schematics are mostly public, actually sourcing the components is extremely difficult. Multiple core pieces, such as the screen, were specficially produced to be used in Flipper manufacturing.
+  
+### How do I get a black-case Flipper?
+This is no longer possible, they were Kickstarter-backer exclusives.
+  
+### How do I invert the screen/change backlight color/change case cover, etc.
+These are all hardware mods, inaccessible to the average user. Look up/ask around on how to do them.
 
+### Will there be future hardware revisions?
+[Not for the Flipper Zero.](https://discord.com/channels/740930220399525928/746304505879986267/1001167062728720395) While there are concepts for a [Flipper One](https://flipperzero.one/one), there is not any timeline for release.
 
 
 ## Sub-GHz
