@@ -142,6 +142,7 @@ Example: 365, 136, and 650 can all be found in 13650 by looking at groups of 3 d
 | H10301            | X    |       | X    | X       |                        |
 | Indala            | X    |       | X    | X       |                        |
 | T5577             | X    | X     | X    | X       |                        |
+| Paxton Net2       |      |       |      |         | Hitag2: no support     |
 
 ### How do I identify which type of card/tag I have?
 To determine the protocol (NFC, RFID, or iClass/PicoPass) you'll need to attempt reading in each corresponding app. If nothing works, check the tag/card for any markings or indications. As a last resort, take a picture and ask in the [Flipper Discord server](https://flipperzero.one/discord).
