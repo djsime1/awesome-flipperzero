@@ -1,9 +1,11 @@
 <hr>
+
 <a href="https://github.com/djsime1/awesome-flipperzero">
   <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
 </a>
 
 <hr>
+
 <h3 align="center">
   A collection of Awesome resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
   <a href="#">
@@ -13,6 +15,14 @@
     <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
   </a>
 </h3>
+
+<table align="center"><tr><td>
+  <h3 align="center">
+  👋 New to Flipper Zero? Got questions?<br>
+  Check out the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md">FAQ Document</a>❗
+  </h3>
+</td></tr></table>
+
 <hr>
 
 <!-- DO NOT MODIFY ABOVE -->
@@ -55,6 +65,7 @@
 - [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
 - [`Wetox` Very similar to the official branch, with a few small tweaks.](https://github.com/wetox-team/flipperzero-firmware)
 - [`OpenHaystack BLE mod` Very old PoC that makes Flipper behave like an AirTag.](https://github.com/AlexStrNik/flipperzero-firmware)
+- [`v1nc flipper zero firmware` Unleashed fork with support for different Duckyscript keyboard layouts & community plugins](https://github.com/v1nc/flipperzero-firmware)
 
 ## Modules & Cases
 - [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
@@ -64,7 +75,7 @@
 - [`Hard case` Smaller than pelican case, but still bulky.](https://www.thingiverse.com/thing:5387015)
 - [`WiFi Module v1 Case` Small cover for the WiFi dev board.](https://www.printables.com/model/179910-case-for-flipper-zero-wi-fi-module-v1)
 - [`Flipper screen protector` An alternative screen protector for Flipper.](https://www.photodon.com/p/2419-01.html)
-- [`WiFi Scanner Module` Based on ESP8266. You'll need to solder a board for this one.](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module-ESP8266)
+- [`WiFi Scanner Module` You'll need to solder a board for this one.](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module)
 - [`Skadis holder` Flipper Zero holder for Ikea Skadis.](https://www.thingiverse.com/thing:5434476)
 
 ## Off-device & Debugging
