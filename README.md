@@ -91,6 +91,7 @@
 - [`VertProntoIR2FlipperIR` Converts Vert Pronto IR codes to Flipper format.](https://github.com/SkeletonMan03/VertProntoIR2FlipperIR)
 - [`FlippMibo` Yet another Amiibo to Flipper conversion script.](https://github.com/0xz00n/FlipMiibo)
 - [`mfkey32v2` MFC key recovery reader attack.](https://github.com/equipter/mfkey32v2)
+- [`Fztea` Connect to your Flipper's UI over serial or make it accessible via SSH.](https://github.com/jon4hz/fztea)
 
 ## Notes & References
 <table align="right">
