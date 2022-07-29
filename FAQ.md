@@ -145,7 +145,7 @@ Example: 365, 136, and 650 can all be found in 13650 by looking at groups of 3 d
 | Paxton Net2       |      |       |      |         | Hitag2: no support     |
 
 ### How do I identify which type of card/tag I have?
-To determine the protocol (NFC, RFID, or iClass/PicoPass) you'll need to attempt reading in each corresponding app. If nothing works, check the tag/card for any markings or indications. As a last resort, take a picture and ask in the [Flipper Discord server](https://flipperzero.one/discord).
+To determine the protocol (NFC, RFID, or iClass/PicoPass) you'll need to attempt reading in each corresponding app. If nothing works, check the tag/card for any markings or indications. As a last resort, take a picture of the card/fob and the reader and ask in the [Flipper Discord server](https://flipperzero.one/discord).
 
 ### How do I identify which type of NFC tag I have?
 Run the "Read card" action in the NFC app. If you don't see "NFC-A", your card is unfortunately unsupported.
@@ -158,16 +158,14 @@ Currently unsupported, but is being worked on.
 This happens when the tag is password protected. There's no quick fix for this, but solutions are in the works.
 
 ### Why does it take so long to read a Mifare Classic?
-The data on Mifare Classic cards is split up into sections, and each section is protected by a key.
-Flipper attempts to read the card by preforming a dictionary attack on the card using a bunch of common keys.
-Some sectors will be unlocked, others won't be.
+Mifare classics are split up into sectors, these sectors are protected by two keys, the attack "read mifare classic" uses is called a dictionary attack, this attack takes a big list, currently comprised of about 2000 common keys and checks them individually against each sector on the card. if your keys are in the dictionary it may take some time to read the whole card, if you keys are not in the dictionary it will take hours and give you no useful output. 
 
 ### What does it mean when no sectors could be read on a Mifare Classic?
-The data on Mifare Classic cards is split up into sections, and each section is protected by a key.
-The read has failed, meaning the card didn't use any common keys. Workarounds are being developed.
+The data on Mifare Classic cards is split up into sectors, and each section is protected by two keys.
+The read has failed, meaning the card didn't use any common keys. The only other attack currently available is "Detect Reader" which you need to use alongside Mfkey32v2 on an external device. [Link to mfkey32v2](https://github.com/equipter/mfkey32v2)
 
 ### What does it mean when some but not all sectors could be read on a Mifare Classic?
-The data on Mifare Classic cards is split up into sections, and each section is protected by a key.
+The data on Mifare Classic cards is split up into sectors, and each sector is protected by two keys.
 The read wasn't successful, but it didn't fail either. Some of the card's data was read and saved, but not all.
 Even if not all sectors were read, it's still worth trying to use the partial save.
 
@@ -177,9 +175,15 @@ Most prominently, the Flipper's NFC chip doesn't have hardware support for Mifar
 However, the CPU's clock cycle can't conform to the exact (and strict) timings that Mifare Classics communicate with.
 This means that some readers will respond to emulation, while others won't. This can not be fixed with firmware.
 
+another reason emulation may not be working for you may be because you do not have a complete dump of the card thus preventing the reader from accessing the areas of the card it wishes to read. some readers care for just the UID others require more. ensuring you have a full dump with all keys collected will be beneficial to you. 
+
 ### Why can't I save/emulate Mifare DESFire?
-DESFire is a very complicated and much more secure protocol. There are no known attacks against it yet.
+DESFire is a very complicated and much more secure chipset. There are no known attacks against it yet.
 
 ### What are the .sha files in the NFC directory?
 These are shadow files, and they're created whenever an emulated tag is written to. 
 They store a copy of the original file with whatever was written. This way, the original file remains untouched.
+
+### Why doesnt my bank card work when i emulate it?
+credit cards are encrypted, the information you saw when you read and saved your card is the unencrypted portion of the card. this information is not enough to emulate and complete a transaction. you cannot emulate the encrypted portion. 
+
