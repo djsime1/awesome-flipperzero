@@ -37,6 +37,7 @@
 - [`Generic BadUSB Payloads` Hak5 Duckyscript payloads.](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads)
 - [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 - [`FlipperZero-Goodies` Intercom keys, scripts, etc.](https://github.com/wetox-team/flipperzero-goodies)
+- [`irplus database` Ripped from irplus App.](https://github.com/sasiplavnik/Flipper-IRDB)
 
 ## Applications & Plugins
 
@@ -75,7 +76,8 @@
 - [`Hard case` Smaller than pelican case, but still bulky.](https://www.thingiverse.com/thing:5387015)
 - [`WiFi Module v1 Case` Small cover for the WiFi dev board.](https://www.printables.com/model/179910-case-for-flipper-zero-wi-fi-module-v1)
 - [`Flipper screen protector` An alternative screen protector for Flipper.](https://www.photodon.com/p/2419-01.html)
-- [`WiFi Scanner Module` You'll need to solder a board for this one.](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module)
+- [`WiFi Scanner Module` Scans for WiFi networks via a custom Wemos module board.](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module)
+- [`WiFi DSTIKE Deauther` Preforms WiFi deauth attacks via a custom ESP8266 module board.](https://github.com/SequoiaSan/FlipperZero-Wifi-ESP8266-Deauther-Module)
 - [`Skadis holder` Flipper Zero holder for Ikea Skadis.](https://www.thingiverse.com/thing:5434476)
 
 ## Off-device & Debugging
@@ -91,6 +93,7 @@
 - [`VertProntoIR2FlipperIR` Converts Vert Pronto IR codes to Flipper format.](https://github.com/SkeletonMan03/VertProntoIR2FlipperIR)
 - [`FlippMibo` Yet another Amiibo to Flipper conversion script.](https://github.com/0xz00n/FlipMiibo)
 - [`mfkey32v2` MFC key recovery reader attack.](https://github.com/equipter/mfkey32v2)
+- [`Fztea` Connect to your Flipper's UI over serial or make it accessible via SSH.](https://github.com/jon4hz/fztea)
 
 ## Notes & References
 <table align="right">
@@ -112,6 +115,7 @@
 - [`Alternative disassembly video` Third-party video for disassembling the Flipper.](https://youtu.be/38pHe7M4vl8)
 - [`ESP32 Marauder on WiFi dev board` Portable WiFi/Bluetooth pentesting.](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)
 - [`ESP32 Marauder guide video` Companion video for the above link.](https://youtu.be/_YLTpNo5xa0)
+- [`Flipper Skylanders` How to read a Skylanders figure with Flipper.](https://github.com/V0lk3n/Flipper-Skylanders)
 
 <!-- DO NOT MODIFY BELOW -->
 
