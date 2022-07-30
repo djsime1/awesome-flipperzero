@@ -158,11 +158,11 @@ Currently unsupported, but is being worked on.
 This happens when the tag is password protected. There's no quick fix for this, but solutions are in the works.
 
 ### Why does it take so long to read a Mifare Classic?
-Mifare classics are split up into sectors, these sectors are protected by two keys, the attack "read mifare classic" uses is called a dictionary attack, this attack takes a big list, currently comprised of about 2000 common keys and checks them individually against each sector on the card. if your keys are in the dictionary it may take some time to read the whole card, if you keys are not in the dictionary it will take hours and give you no useful output. 
+Mifare classics are split up into sectors, these sectors are protected by two keys. To read a Mifare Classic, Flipper uses a dictionary attack, which takes a big list currently comprised of about 2000 common keys, and checks them individually against each sector on the card. If you know the keys, they can be manually added to the User Dictionary under the "Extra Actions" menu.
 
 ### What does it mean when no sectors could be read on a Mifare Classic?
 The data on Mifare Classic cards is split up into sectors, and each section is protected by two keys.
-The read has failed, meaning the card didn't use any common keys. The only other attack currently available is "Detect Reader" which you need to use alongside Mfkey32v2 on an external device. [Link to mfkey32v2](https://github.com/equipter/mfkey32v2)
+The read has failed, meaning the card didn't use any common keys. If you have access to the card reader, [mfkey32v2](https://github.com/equipter/mfkey32v2) can be used to pull keys from it.
 
 ### What does it mean when some but not all sectors could be read on a Mifare Classic?
 The data on Mifare Classic cards is split up into sectors, and each sector is protected by two keys.
@@ -170,12 +170,9 @@ The read wasn't successful, but it didn't fail either. Some of the card's data w
 Even if not all sectors were read, it's still worth trying to use the partial save.
 
 ### Why isn't Mifare Classic emulation working?
-There are a number of reasons, some of which can be fixed while others can't.
-Most prominently, the Flipper's NFC chip doesn't have hardware support for Mifare Classic, so it's been offloaded to the CPU.
-However, the CPU's clock cycle can't conform to the exact (and strict) timings that Mifare Classics communicate with.
-This means that some readers will respond to emulation, while others won't. This can not be fixed with firmware.
-
-another reason emulation may not be working for you may be because you do not have a complete dump of the card thus preventing the reader from accessing the areas of the card it wishes to read. some readers care for just the UID others require more. ensuring you have a full dump with all keys collected will be beneficial to you. 
+There are a number of reasons, some of which can be fixed while others can't. The first thing you should check is that all sectors were read from the card. If not, look at the questions above.
+On the hardware side: Mifare Classic emulation is handled by the CPU, except the clock cycle can't conform to the exact (and strict) timings that these tags communicate with.
+On the software side: Some rarely used card commands (counters, restore, and transfer) haven't been implimented, thus they will always fail during emulation.
 
 ### Why can't I save/emulate Mifare DESFire?
 DESFire is a very complicated and much more secure chipset. There are no known attacks against it yet.
@@ -184,6 +181,6 @@ DESFire is a very complicated and much more secure chipset. There are no known a
 These are shadow files, and they're created whenever an emulated tag is written to. 
 They store a copy of the original file with whatever was written. This way, the original file remains untouched.
 
-### Why doesnt my bank card work when i emulate it?
-credit cards are encrypted, the information you saw when you read and saved your card is the unencrypted portion of the card. this information is not enough to emulate and complete a transaction. you cannot emulate the encrypted portion. 
+### Why doesn't my bank card work when I emulate it?
+EMV Credit/Debit cards are mostly encrypted. The information Flipper reads is the unencrypted portion of the card. This alone is not enough to emulate and complete a transaction. It is impossible to read the encrypted parts. 
 
