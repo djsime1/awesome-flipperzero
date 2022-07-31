@@ -145,7 +145,7 @@ Example: 365, 136, and 650 can all be found in 13650 by looking at groups of 3 d
 | Paxton Net2       |      |       |      |         | Hitag2: no support     |
 
 ### How do I identify which type of card/tag I have?
-To determine the protocol (NFC, RFID, or iClass/PicoPass) you'll need to attempt reading in each corresponding app. If nothing works, check the tag/card for any markings or indications. As a last resort, take a picture and ask in the [Flipper Discord server](https://flipperzero.one/discord).
+To determine the protocol (NFC, RFID, or iClass/PicoPass) you'll need to attempt reading in each corresponding app. If nothing works, check the tag/card for any markings or indications. As a last resort, take a picture of the card/fob and the reader and ask in the [Flipper Discord server](https://flipperzero.one/discord).
 
 ### How do I identify which type of NFC tag I have?
 Run the "Read card" action in the NFC app. If you don't see "NFC-A", your card is unfortunately unsupported.
@@ -158,28 +158,29 @@ Currently unsupported, but is being worked on.
 This happens when the tag is password protected. There's no quick fix for this, but solutions are in the works.
 
 ### Why does it take so long to read a Mifare Classic?
-The data on Mifare Classic cards is split up into sections, and each section is protected by a key.
-Flipper attempts to read the card by preforming a dictionary attack on the card using a bunch of common keys.
-Some sectors will be unlocked, others won't be.
+Mifare classics are split up into sectors, these sectors are protected by two keys. To read a Mifare Classic, Flipper uses a dictionary attack, which takes a big list currently comprised of about 2000 common keys, and checks them individually against each sector on the card. If you know the keys, they can be manually added to the User Dictionary under the "Extra Actions" menu.
 
 ### What does it mean when no sectors could be read on a Mifare Classic?
-The data on Mifare Classic cards is split up into sections, and each section is protected by a key.
-The read has failed, meaning the card didn't use any common keys. Workarounds are being developed.
+The data on Mifare Classic cards is split up into sectors, and each section is protected by two keys.
+The read has failed, meaning the card didn't use any common keys. If you have access to the card reader, [mfkey32v2](https://github.com/equipter/mfkey32v2) can be used to pull keys from it.
 
 ### What does it mean when some but not all sectors could be read on a Mifare Classic?
-The data on Mifare Classic cards is split up into sections, and each section is protected by a key.
+The data on Mifare Classic cards is split up into sectors, and each sector is protected by two keys.
 The read wasn't successful, but it didn't fail either. Some of the card's data was read and saved, but not all.
 Even if not all sectors were read, it's still worth trying to use the partial save.
 
 ### Why isn't Mifare Classic emulation working?
-There are a number of reasons, some of which can be fixed while others can't.
-Most prominently, the Flipper's NFC chip doesn't have hardware support for Mifare Classic, so it's been offloaded to the CPU.
-However, the CPU's clock cycle can't conform to the exact (and strict) timings that Mifare Classics communicate with.
-This means that some readers will respond to emulation, while others won't. This can not be fixed with firmware.
+There are a number of reasons, some of which can be fixed while others can't. The first thing you should check is that all sectors were read from the card. If not, look at the questions above.
+On the hardware side: Mifare Classic emulation is handled by the CPU, except the clock cycle can't conform to the exact (and strict) timings that these tags communicate with.
+On the software side: Some rarely used card commands (counters, restore, and transfer) haven't been implimented, thus they will always fail during emulation.
 
 ### Why can't I save/emulate Mifare DESFire?
-DESFire is a very complicated and much more secure protocol. There are no known attacks against it yet.
+DESFire is a very complicated and much more secure chipset. There are no known attacks against it yet.
 
 ### What are the .sha files in the NFC directory?
 These are shadow files, and they're created whenever an emulated tag is written to. 
 They store a copy of the original file with whatever was written. This way, the original file remains untouched.
+
+### Why doesn't my bank card work when I emulate it?
+EMV Credit/Debit cards are mostly encrypted. The information Flipper reads is the unencrypted portion of the card. This alone is not enough to emulate and complete a transaction. It is impossible to read the encrypted parts. 
+
