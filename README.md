@@ -62,6 +62,8 @@
 - [`Mouse jiggler` Keeps PC screens on by acting as a moving mouse.](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler)
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
 - [`NRF24 & Mousejacking` PoC NRF24 library and mousejack exploitation app.](https://github.com/mothball187/flipperzero-nrf24)
+- [`UPC-A Barcode Generator` Can be used to create any UPC-A barcode.](https://github.com/McAzzaMan/flipperzero-firmware/tree/UPC-A_Barcode_Generator/applications/barcode_generator)
+- [`Sentry Safe` Plugin that can open any Sentry Safe and Master Lock electronic safe without entering pin code.](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin)
 
 ## Firmwares & Tweaks
 
@@ -72,10 +74,10 @@
 
 - [`Unleashed` Frequency-unlocked firmware with rolling codes support & community plugins.](https://github.com/Eng1n33r/flipperzero-firmware)
 - [`RogueMaster` Unleashed + Official FW fork with assorted community plugins, tweaks, & games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
-- [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
-- [`Wetox` Very similar to the official branch, with a few small tweaks.](https://github.com/wetox-team/flipperzero-firmware)
-- [`OpenHaystack BLE mod` Very old PoC that makes Flipper behave like an AirTag.](https://github.com/AlexStrNik/flipperzero-firmware)
 - [`v1nc flipper zero firmware` Unleashed fork with support for different Duckyscript keyboard layouts & community plugins](https://github.com/v1nc/flipperzero-firmware)
+- [`Wetox` Very similar to the official branch, with a few small tweaks.](https://github.com/wetox-team/flipperzero-firmware)
+- [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
+- [`OpenHaystack BLE mod` Very old PoC that makes Flipper behave like an AirTag.](https://github.com/AlexStrNik/flipperzero-firmware)
 
 ## Modules & Cases
 - [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
