@@ -9,7 +9,7 @@
     <td><a href="#general">General</a></td>
     <td><a href="#sub-ghz">Sub-GHz</a></td>
     <td><a href="#nfc--rfid">NFC & RFID</a></td>
-    <td>Infrared</td>
+    <td><a href="#infrared">Infrared</a></td>
     <td>iButton</td>
     <td>BadUSB</td>
     <td>WiFi board</td>
@@ -38,35 +38,35 @@ Open a [new discussion](https://github.com/djsime1/awesome-flipperzero/discussio
 
 ## General
 
-### What MicroSD card should I use?
+### What MicroSD Card should I use?
 - It should be a reputable brand (Like SanDisk, Sony, etc.) because often cheaper cards don't fully support the communication protocol Flipper uses. 
 - The card should have a capacity between 4 and 64 GB, but an 8 GB card is MORE than enough.
 - After inserting the card, use the Flipper's setting menu to format (clear) and test the card.
 - Before ejecting the card, unmount it via the Settings menu to ensure data isn't corrupted.
-- Note: You might need a paperclip or similar object to push the SD card in and out of the device.
+- Note: You might need a paperclip or similar object to push the SD Card in and out of the device.
 - Read the [official documentation](https://docs.flipperzero.one/basics/sd-card) for more information!
 
 ### How do I install databases and dumps?
-Make sure there's a working MicroSD card in the device first by following the steps above.
-Once you download the dump, you can use qFlipper or the Flipper mobile app to transfer them. If you're transfering a large file or many at once, you can also eject the SD card from Flipper and insert it in your computer for faster transfers.
-- In qFlipper: Plug your device in, go to the file browser tab, navigate into the SD card, and drop files in their corresponding folders (The folder names are similar to the file extensions).
+Make sure there's a working MicroSD Card in the device first by following the steps above.
+Once you download the dump, you can use qFlipper or the Flipper mobile app to transfer them. If you're transfering a large file or many at once, you can also eject the SD Card from Flipper and insert it in your computer for faster transfers.
+- In qFlipper: Plug your device in, go to the file browser tab, navigate into the SD Card, and drop files in their corresponding folders (The folder names are similar to the file extensions).
 - For mobile apps: Make sure you're connected via Bluetooth, save the file to the app's archive, and synchronize it back to the device.
-- For plugging the SD card into your PC, drop files in their corresponding folders (The folder names are similar to the file extensions).
+- For plugging the SD Card into your PC, drop files in their corresponding folders (The folder names are similar to the file extensions).
 
 ### How do I install applications and plugins?
 The links listed in this repo can't be installed as easily as drag-and-drop.
 Most of them have to be manually merged into the firmware and fully recompiled. (Documentation coming soon)
 As for ELF/FAP's, they're in a very early stage of development and require a special version of the firmware to be installed. I DO NOT recommend using them until they are officially merged into the main firmware.
-*If you're really insistent, install the firmware from [this comment](https://github.com/flipperdevices/flipperzero-firmware/pull/1387#issuecomment-1182470778), place the `.elf` or `.fap` file in the `apps` directory on the SD card (create it if necessary), and use the ELF loader application to run them.*
+*If you're really insistent, install the firmware from [this comment](https://github.com/flipperdevices/flipperzero-firmware/pull/1387#issuecomment-1182470778), place the `.elf` or `.fap` file in the `apps` directory on the SD Card (create it if necessary), and use the ELF loader application to run them.*
 
 ### How do I write my own applications/plugins/firmware?
 (WIP)
 
 ### How do I install custom firmwares?
 First, ask yourself if you really need to. Sure, it might be fun to break out of Sub-GHz transmission restrictions, but how often are you actually going to do that? Is it really worth breaking the law?
-After you've ignored the previous sentences, make sure there's a working MicroSD card in your Flipper and head over to the repository of your perferred firmware. Look for releases and find the `.dfu` file or updater package (typically a `.tar` or `.zip` file, always contains a file named `update.fuf`).
+After you've ignored the previous sentences, make sure there's a working MicroSD Card in your Flipper and head over to the repository of your perferred firmware. Look for releases and find the `.dfu` file or updater package (typically a `.tar` or `.zip` file, always contains a file named `update.fuf`).
 - If you only have a `.dfu`, it can be installed using the "Install from file" option in qFlipper. Select the file and begin the installation.
-- If you have an updater package, extract and transfer the folder (not the original archive file) to the `update` folder on the SD card (create if needed). Once transferred, go to the idle screen of the Flipper, press down to access the file browser, then left to view all folders. From there, open the `update` folder (typically at the bottom of the list) and find the folder you just transferred. Lastly, select the file named `update` and choose "Run in app" to install the firmware.
+- If you have an updater package, extract and transfer the folder (not the original archive file) to the `update` folder on the SD Card (create if needed). Once transferred, go to the idle screen of the Flipper, press down to access the file browser, then left to view all folders. From there, open the `update` folder (typically at the bottom of the list) and find the folder you just transferred. Lastly, select the file named `update` and choose "Run in app" to install the firmware.
 
 If there was no pre-compiled update file/package, you'll have to build the firmware yourself. See the next question for details.
 For more information, read the [official documentation](https://docs.flipperzero.one/basics/firmware-update).
@@ -85,6 +85,21 @@ These are all hardware mods, inaccessible to the average user. Look up/ask aroun
 
 ### Will there be future hardware revisions?
 [Not for the Flipper Zero.](https://discord.com/channels/740930220399525928/746304505879986267/1001167062728720395) While there are concepts for a [Flipper One](https://flipperzero.one/one), there is not any timeline for release.
+
+### What is DUMB mode?
+It's a yet to be implimented mode that would hide all of the potentially malicious apps/features of Flipper.
+
+### My device is frozen, how do I reboot/fix it?
+- To reboot the device: hold the BACK and LEFT buttons, then release simultaneously. If that didn't work, *disconnect the USB cable* and hold BACK for 30 seconds. This will preform a normal reboot.
+- To enter DFU/Recovery mode: Hold BACK and LEFT, then release BACK while still holding LEFT after a few seconds. When the screen lights up, you can release LEFT.
+- To exit DFU/Recovery mode: Follow steps for a normal reboot under the first bullet point.
+
+If nothing works or the device is completely bricked, first make sure it's charged by plugging it in for 15-30 minutes. As a final resort, if you can't get it to turn on after charging, *unplug the USB cable* and hold OK plus BACK for 30 seconds. **There will be no indication**, but the device is now in recovery mode. Plug it in to a PC and use qFlipper to recover the firmware.
+Read the official docs for [Control](https://docs.flipperzero.one/basics/control), [Reboot](https://docs.flipperzero.one/basics/reboot), and [Firmware recovery](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery).
+
+### How do I access the CLI/Logs?
+(WIP)
+
 
 
 ## Sub-GHz
@@ -167,7 +182,7 @@ The read has failed, meaning the card didn't use any common keys. If you have ac
 ### What does it mean when some but not all sectors could be read on a Mifare Classic?
 The data on Mifare Classic cards is split up into sectors, and each sector is protected by two keys.
 The read wasn't successful, but it didn't fail either. Some of the card's data was read and saved, but not all.
-Even if not all sectors were read, it's still worth trying to use the partial save.
+Even if not all sectors were read, there's a slim chance a partial save will work with emulation.
 
 ### Why isn't Mifare Classic emulation working?
 There are a number of reasons, some of which can be fixed while others can't. The first thing you should check is that all sectors were read from the card. If not, look at the questions above.
@@ -177,10 +192,26 @@ On the software side: Some rarely used card commands (counters, restore, and tra
 ### Why can't I save/emulate Mifare DESFire?
 DESFire is a very complicated and much more secure chipset. There are no known attacks against it yet.
 
-### What are the .sha files in the NFC directory?
+### What are the .shd files in the NFC directory?
 These are shadow files, and they're created whenever an emulated tag is written to. 
 They store a copy of the original file with whatever was written. This way, the original file remains untouched.
+
+### How do I edit the data in a saved tag?
+You'll need to use a NFC-enabled smartphone with an app that can write tags. One of the easiest to use apps is called NFC Tools, available for both [Android](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc) and [iOS](https://apps.apple.com/us/app/nfc-tools/id1252962749). Due to Mifare Classic emulation quirks, you can only edit the data of saved NTAG and Mifare Ultralight tags. Create an empty NTAG216 with the "Add Manually" action in the NFC app if you don't have one already. Save that tag, then open it from the list. Once you start emulating the tag, you can use the NFC Tools smartphone app to write information on to the emulated tag. This is saved to a .shd file with the same name as the emulated tag. If you need a quick way to generate a tag containing a URL, you can use [Flipper Maker's NFC Creator tool](https://flippermaker.github.io/) online.
 
 ### Why doesn't my bank card work when I emulate it?
 EMV Credit/Debit cards are mostly encrypted. The information Flipper reads is the unencrypted portion of the card. This alone is not enough to emulate and complete a transaction. It is impossible to read the encrypted parts. 
 
+
+
+## Infrared
+
+### How do I add more devices to the "Universal Remotes" menu?
+While it isn't possible to add new items under the universal menu, there exist plenty of repositories containing many dumps of IR remotes. The most popular is [Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB).
+(Note: When downloading, it's *highly recommended* to unmount the SD Card from your Flipper and directly plug it in to your computer.)
+
+### The universal TV remote doesn't work besides the power button.
+The stock universal tv remote database mostly contains power codes, and very few of everything else. This file (Located at `infrared/assets/tv.ir` on the SD Card) be manually replaced with one containing extra codes for all buttons. To do so, download [this file](https://raw.githubusercontent.com/UberGuidoZ/Flipper/main/Infrared/tv.ir) and use qFlipper to transfer it into the path from the previous sentence.
+
+### What are CSV/Pronto/IR Plus codes?
+All three are different formats of infrared databases. They are not natively compatible with Flipper, but repositories exist that hold converted and compatible versions, such as [Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB).
