@@ -16,12 +16,20 @@
   </a>
 </h3>
 
-<table align="center"><tr><td>
-  <h3 align="center">
-  👋 New to Flipper Zero? Got questions?<br>
-  Check out the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md">FAQ Document</a>❗
-  </h3>
-</td></tr></table>
+<table align="center"><tr>
+  <td>
+    <h3 align="center">
+    👋 New to Flipper Zero? Got questions?<br>
+    Check out the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md">FAQ Document</a>❗
+    </h3>
+  </td>
+  <td>
+    <h3 align="center">
+    🚫 Not affiliated with<br>
+    <a href="https://www.flipperdevices.com/">Flipper Devices Inc.</a>
+    </h3>
+  </td>
+</tr></table>
 
 <hr>
 
@@ -127,4 +135,8 @@
   You can <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
   or <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">Start a discussion</a></kbd> with your ideas.<br>
   <em>(A GitHub account is required for both)</em>
+    <details>
+        <summary><em>Why so many umerged pull requests?</em></summary>
+        If there's multiple small pull requests open at the same time, I'll often merge them together as a single update. Due to the way GitHub works, I'm unable to mark them as merged when I do this. To compensate, I include the contributors as co-authors on the commit, and mention the Pull Request ID's as part of the update message.
+  </details>
 </div>
