@@ -216,18 +216,19 @@
 ### Feature/Compatability table
 
 | Card name/type    | Read | Write | Save | Emulate | Notes                  |
-| :---------------: | :--: | :---: | :--: | :-----: | :--------------------: |
-| Mifare Classic    | X    |       | X    | X       | Emulation is hit/miss  |
-| Mifare DESFire    | X    |       |      |         |                        |
-| Mifare Ultralight | X    |       | X    | X       | Non-password protected |
-| EMV Cards         | X    |       |      |         | Can read bank cards    |
-| NTAG-21X          | X    |       | X    | X       |                        |
-| iClass/PicoPass   | X    |       | X    |         |                        |
-| EM4100/EM4102     | X    |       | X    | X       |                        |
-| H10301            | X    |       | X    | X       |                        |
-| Indala            | X    |       | X    | X       |                        |
-| T5577             | X    | X     | X    | X       |                        |
-| Paxton Net2       |      |       |      |         | Hitag2: no support     |
+| :--------------- | :--: | :---: | :--: | :-----: | :-------------------- |
+| Mifare Classic    | ✅    |       | ✅    | ✅     | Emulation is hit/miss  |
+| Mifare DESFire    | ✅    |       |      |        |                        |
+| Mifare Ultralight | ✅    |       | ✅    | ✅     | Non-password protected |
+| EMV Cards         | ✅    |       |      |         | Can read bank cards    |
+| NTAG-21X          | ✅    |       | ✅    | ✅     |                        |
+| NFC-B             |       |       |      | ❌      | No hardware support for emulation     |
+| iClass/PicoPass   | ✅    |       | ✅    | ❌      | No STM SDK support for emulation     |
+| EM4100/EM4102     | ✅    |       | ✅    | ✅      |                        |
+| H10301            | ✅    |       | ✅    | ✅      |                        |
+| Indala            | ✅    |       | ✅    | ✅      |                        |
+| T5577             | ✅    | ✅     | ✅   | ✅      |                        |
+| Paxton Net2       | ❌    | ❌     | ❌    | ❌       | Hitag2: no support     |
 
 ### How do I identify which type of card/tag I have?
 > To determine the protocol (NFC, RFID, or iClass/PicoPass) you'll need to attempt reading in each corresponding app. If nothing works, check the tag/card for any markings or indications. As a last resort, take a picture of the card/fob and the reader and ask in the [Flipper Discord server](https://flipperzero.one/discord).
