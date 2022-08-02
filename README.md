@@ -70,8 +70,8 @@
   <tr><td>🔰 <em><a href="https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md">Click here</a> for a feature<br>comparison of these firmwares!</em></td></tr>
 </table>
 
-- [`Firmware with plugins` Frequency-unlocked firmware with assorted community plugins.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
-- [`Unleashed` Active firmware without legal limitations.](https://github.com/Eng1n33r/flipperzero-firmware)
+- [`Unleashed` Frequency-unlocked firmware with rolling codes support & community plugins.](https://github.com/Eng1n33r/flipperzero-firmware)
+- [`RogueMaster` Unleashed + Official FW fork with assorted community plugins, tweaks, & games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 - [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
 - [`Wetox` Very similar to the official branch, with a few small tweaks.](https://github.com/wetox-team/flipperzero-firmware)
 - [`OpenHaystack BLE mod` Very old PoC that makes Flipper behave like an AirTag.](https://github.com/AlexStrNik/flipperzero-firmware)
