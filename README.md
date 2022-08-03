@@ -47,6 +47,7 @@
 - [`FlipperZero-Goodies` Intercom keys, scripts, etc.](https://github.com/wetox-team/flipperzero-goodies)
 - [`irplus database` Ripped from irplus App.](https://github.com/sasiplavnik/Flipper-IRDB)
 - [`T119 bruteforcer` Triggers Retekess T119 restaurant pagers.](https://github.com/xb8/t119bruteforcer)
+- [`flipperzero-bruteforce` Generate `.sub` files to brute force subghz OOK.](https://github.com/tobiabocchi/flipperzero-bruteforce)
 
 ## Applications & Plugins
 
