@@ -14,12 +14,12 @@
         <strong>Jump to:</strong>
       </td>
       <td><a href="#official">Official</a></td>
-      <td><a href="#plugins">RogueMaster</a></td>
       <td><a href="#unleashed">Unleashed</a></td>
+      <td><a href="#plugins">RogueMaster</a></td>
+      <td><a href="#v1nc">v1nc</a></td>
       <td><a href="#wetox">Wetox</a></td>
       <td><a href="#muddledbox">MuddledBox</a></td>
-      <td><a href="#v1nc">v1nc</a></td>
-      <td><a href="#summary">Summary / TL; DR</a></td>
+      <td><a href="#summary">Summary (TL;DR)</a></td>
     </tr></table>
 <h2 id="official">Official <kbd>
     <a href="https://github.com/flipperdevices/flipperzero-firmware">flipperdevices/flipperzero-firmware</a>
@@ -44,7 +44,7 @@
   <li>Removes Sub-GHz regional transmission restrictions.</li>
   <li>Adds extra Sub-GHz frequencies.</li>
   <li>Adds extra mifare classic keys.</li>
-  <li>Can be used to capture and send dynamic encrypted protocols/rolling codes. <em>(Modern grage doors, car fobs,
+  <li>Can be used to capture and send dynamic encrypted protocols/rolling codes. <em>(Modern garage doors, car fobs,
       etc.)</em></li>
   <li>Encrypted Sub-GHz signals/codes can be manually added.</li>
   <li><a href="https://github.com/Eng1n33r/flipperzero-firmware#current-modified-and-new-subghz-protocols-list">Current modified and new Sub-GHz protocols list</a>.</li>
@@ -64,6 +64,15 @@
   <li>Has some other small changes.</li>
   <li>Most known community plugins & games have been added.</li>
   <ul><li>Full list in their <a href="https://github.com/RogueMaster/flipperzero-firmware-wPlugins#readme">README</a>.</li></ul>
+</ul>
+<h2 id="v1nc">v1nc <kbd>
+    <a href="https://github.com/v1nc/flipperzero-firmware">v1nc/flipperzero-firmware</a>
+  </kbd>
+</h2>
+<ul>
+  <li>Supports different keyboard layouts for Duckyscripts via the script keyword <code>DUCKY_LANG</code></li>
+  <li>Up to date fork of the Unleashed firmware</li>
+  <li>Includes community plugins & games </li>
 </ul>
 <h2 id="wetox">Wetox <kbd>
     <a href="https://github.com/wetox-team/flipperzero-firmware">wetox-team/flipperzero-firmware</a>
@@ -85,16 +94,7 @@
   <li>Adds self-promo images to about page in settings.</li>
   <li>Adds a few extra common Sub-GHz frequencies to capture on.</li>
 </ul>
-<h2 id="v1nc">v1nc <kbd>
-    <a href="https://github.com/v1nc/flipperzero-firmware">v1nc/flipperzero-firmware</a>
-  </kbd>
-</h2>
-<ul>
-  <li>Supports different keyboard layouts for Duckyscripts via the script keyword <code>DUCKY_LANG</code></li>
-  <li>Up to date fork of the Unleashed firmware</li>
-  <li>Includes community plugins & games </li>
-</ul>
-<h2 id="summary">Summary <kbd>(TL; DR)</kbd></h2>
+<h2 id="summary">Summary <kbd>(TL;DR)</kbd></h2>
 <ul>
   <li>Staying up to date with upstream (official) firmware is important.</li>
   <li>TX restriction removal is illegal in most circumstances, use at your own risk.</li>
