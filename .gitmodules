@@ -28,3 +28,6 @@
 [submodule "wifiPenTool"]
 	path = wifiPenTool
 	url = https://github.com/FroggMaster/ESP32-Wi-Fi-Penetration-Tool
+[submodule "MARAUDER"]
+	path = MARAUDER
+	url = https://github.com/justcallmekoko/ESP32Marauder.git
