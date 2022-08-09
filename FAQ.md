@@ -228,7 +228,8 @@
 | H10301            | ✅    |       | ✅    | ✅      |                        |
 | Indala            | ✅    |       | ✅    | ✅      |                        |
 | T5577             | ✅    | ✅     | ✅   | ✅      |                        |
-| Paxton Net2       | ❌    | ❌     | ❌    | ❌       | Hitag2: no support     |
+| Paxton Net2       | ❌    | ❌     | ❌    | ❌      | Hitag2: no support     |
+| Legic Prime       | ❌    | ❌     | ❌    | ❌      | 13.56mhz, but proprietary|
 
 ### How do I identify which type of card/tag I have?
 > To determine the protocol (NFC, RFID, or iClass/PicoPass) you'll need to attempt reading in each corresponding app. If nothing works, check the tag/card for any markings or indications. As a last resort, take a picture of the card/fob and the reader and ask in the [Flipper Discord server](https://flipperzero.one/discord).
