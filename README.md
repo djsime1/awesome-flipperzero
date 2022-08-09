@@ -42,6 +42,7 @@
 - [`Flipper Maker` Generate Flipper Zero files on the fly.](https://flippermaker.github.io/)
 - [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
 - [`FlipperMusicRTTTL` Collection of musics for FlipperZero Music Player.](https://github.com/neverfa11ing/FlipperMusicRTTTL)
+- [`flipper-music-files` Much smaller collection of musics for FlipperZero Music Player.](https://github.com/Tonsil/flipper-music-files)
 - [`Generic BadUSB Payloads` Hak5 Duckyscript payloads.](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads)
 - [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 - [`FlipperZero-Goodies` Intercom keys, scripts, etc.](https://github.com/wetox-team/flipperzero-goodies)
@@ -112,6 +113,7 @@
 - [`pyFlipper` Unofficial CLI wrapper writter in Python](https://github.com/wh00hw/pyFlipper)
 - [`SUB Plotters / comparers` Python package to plot and compare multiple .sub files.](https://github.com/ShotokanZH/flipper_sub_plotters_comparers)
 - [`ClassicConverted` Converts Mifare Classic binary files to Flipper.](https://github.com/equipter/ClassicConverter)
+- [`musicxml2fmf` Converts MusicXML files to Flipper Music Format.](https://github.com/white-gecko/musicxml2fmf)
 
 ## Notes & References
 <table align="right">
