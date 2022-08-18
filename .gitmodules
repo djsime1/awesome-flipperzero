@@ -31,3 +31,6 @@
 [submodule "MARAUDER"]
 	path = MARAUDER
 	url = https://github.com/justcallmekoko/ESP32Marauder.git
+[submodule "fw/unleashed"]
+	path = fw/unleashed
+	url = https://github.com/Eng1n33r/flipperzero-firmware.git
