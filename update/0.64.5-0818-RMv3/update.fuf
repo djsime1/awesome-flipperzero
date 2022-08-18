@@ -1,11 +1,11 @@
 Filetype: Flipper firmware upgrade configuration
 Version: 2
-Info: dev-17082022-9b138424
+Info: local
 Target: 7
-Loader: flipper-z-f7-updater-dev-17082022-9b138424.bin
+Loader: flipper-z-f7-updater-local.bin
 # little-endian hex!
-Loader CRC: 05 93 AE A1
-Firmware: flipper-z-f7-full-dev-17082022-9b138424.dfu
+Loader CRC: 83 06 46 E3
+Firmware: flipper-z-f7-full-local.dfu
 Radio: stm32wb5x_BLE_Stack_light_fw.bin
 Radio address: 00 70 0D 08
 Radio version: 01 0D 03 00 02 03
