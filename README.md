@@ -1,17 +1,16 @@
 <hr>
 
-<a href="https://github.com/djsime1/awesome-flipperzero">
-  <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
+<a href="https://github.com/flipperzerofrancophone/awesome-flipperzero-french/">
+  <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero en français" title="Awesome Flipper Zero en français">
 </a>
 
 <hr>
 
 <h3 align="center">
-  A collection of Awesome resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
+  Une collection de resources pour le <a href="https://flipperzero.one">Flipper Zero</a>.<br><br>
   <a href="#">
     <img src="https://awesome.re/badge.svg" alt="Awesome" height=24>
     <img src="https://img.shields.io/badge/Powered%20by-Dolphins-blue" alt="Powered by dolphins" height=24>
-    <img src="https://img.shields.io/badge/Approved%20by-Lurat-brightgreen" alt="Approved by Lurat" height=24 title="Lurat is the name of my Flipper">
     <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
   </a>
 </h3>
@@ -19,13 +18,13 @@
 <table align="center"><tr>
   <td>
     <h3 align="center">
-    👋 New to Flipper Zero? Got questions?<br>
-    Check out the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md">FAQ Document</a>❗
+    👋 Vous d&eacute;butez avec le Flipper zero ? Des questions?<br>
+    Allez consulter la <a href="https://github.com/flipperzerofrancophone/awesome-flipperzero-french/blob/main/FAQ.md">Foire aux questions</a>❗
     </h3>
   </td>
   <td>
     <h3 align="center">
-    🚫 Not affiliated with<br>
+    🚫 Pas affili&eacute; avec<br>
     <a href="https://www.flipperdevices.com/">Flipper Devices Inc.</a>
     </h3>
   </td>
@@ -35,44 +34,49 @@
 
 <!-- DO NOT MODIFY ABOVE -->
 
-## Databases & Dumps
-- [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
-- [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
-- [`FlipperZero-TouchTunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes)
-- [`Flipper Maker` Generate Flipper Zero files on the fly.](https://flippermaker.github.io/)
-- [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
-- [`FlipperMusicRTTTL` Collection of musics for FlipperZero Music Player.](https://github.com/neverfa11ing/FlipperMusicRTTTL)
-- [`flipper-music-files` Much smaller collection of musics for FlipperZero Music Player.](https://github.com/Tonsil/flipper-music-files)
+## Tutos / docs francophones
+
+- [`Plugin BT remote` Doc pour utiliser le plugin de la télécommande bluetooth](https://github.com/flipperzerofrancophone/awesome-flipperzero-french/blob/main/T%C3%A9l%C3%A9commandeBluetooth.md)
+
+## Bases de données & Dumps
+
+- [`UberGuidoZ Playground` &eacute;norme collection de fichiers, docs, et dumps de toutes sortes.](https://github.com/UberGuidoZ/Flipper)
+- [`Flipper-IRDB` Nombreux IR dumps pour divers appareils.](https://github.com/logickworkshop/Flipper-IRDB)
+- [`FlipperZero-TouchTunes` Des dumps de t&eacute;l&eacute;commandes 'TouchTune'.](https://github.com/jimilinuxguy/flipperzero-touchtunes)
+- [`Flipper Maker` G&eacute;n&eacute;rer des fichiers Flipper Zero &agrave; la vol&eacute;e.](https://flippermaker.github.io/)
+- [`FlipperAmiibo` Amiibos au format Flipper.](https://github.com/Gioman101/FlipperAmiibo)
+- [`FlipperMusicRTTTL` Collection de musiques pour le FlipperZero Music Player.](https://github.com/neverfa11ing/FlipperMusicRTTTL)
+- [`flipper-music-files` Collection de musiques pour le FlipperZero Music Player.](https://github.com/Tonsil/flipper-music-files)
 - [`Generic BadUSB Payloads` Hak5 Duckyscript payloads.](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads)
-- [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
-- [`FlipperZero-Goodies` Intercom keys, scripts, etc.](https://github.com/wetox-team/flipperzero-goodies)
-- [`irplus database` Ripped from irplus App.](https://github.com/sasiplavnik/Flipper-IRDB)
-- [`T119 bruteforcer` Triggers Retekess T119 restaurant pagers.](https://github.com/xb8/t119bruteforcer)
-- [`flipperzero-bruteforce` Generate `.sub` files to brute force subghz OOK.](https://github.com/tobiabocchi/flipperzero-bruteforce)
+- [`Flipper BadUSB Payloads` Collection de payloads format&eacute;s pour &ecirc;tre utilis&eacute;s avec le Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
+- [`FlipperZero-Goodies` Cl&eacute;s Intercom, scripts, etc.](https://github.com/wetox-team/flipperzero-goodies)
+- [`irplus database` Ripp&eacute;e depuis l'app. irplus.](https://github.com/sasiplavnik/Flipper-IRDB)
+- [`T119 bruteforcer` D&eacute;clencher les pagers T119 Retekess de restaurants.](https://github.com/xb8/t119bruteforcer)
+- [`flipperzero-bruteforce` Générer des fichiers `.sub` pour brute forcer les subghz OOK.](https://github.com/tobiabocchi/flipperzero-bruteforce)
 
 ## Applications & Plugins
 
 <table align="right">
-  <tr><th><strong>OwO whats this?</strong></th></tr>
-  <tr><td>✨ <em>This section will be succeeded by<br><a href="https://github.com/flipper-aquarium">Aquarium</a> once SD-Card apps are released.</em></td></tr>
+  <tr><th><strong>OwO c'est quoi &ccedil;a ?</strong></th></tr>
+  <tr><td>✨ <em>Cette section sera remplac&eacute;e par<br><a href="https://github.com/flipper-aquarium">Aquarium</a> quand les applications par cartes SD seront pr&ecirc;tes.</em></td></tr>
 </table>
 
-- [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/mfulz/Flipper-Plugin-Tutorial)
-- [`Spectrum analyzer` Sub-GHz frequency spectrum analyzer.](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer)
-- [`Tetris` A rudimentary Tetris game.](https://github.com/jeffplang/flipperzero-firmware/tree/tetris_game/applications/tetris_game)
-- [`Flappy Bird` The name says it all.](https://github.com/DroomOne/flipperzero-firmware/tree/dev/applications%2Fflappy_bird)
-- [`Mouse jiggler` Keeps PC screens on by acting as a moving mouse.](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler)
-- [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
-- [`NRF24 & Mousejacking` PoC NRF24 library and mousejack exploitation app.](https://github.com/mothball187/flipperzero-nrf24)
-- [`UPC-A Barcode Generator` Can be used to create any UPC-A barcode.](https://github.com/McAzzaMan/flipperzero-firmware/tree/UPC-A_Barcode_Generator/applications/barcode_generator)
+- [`Flipper-Plugin-Tutorial` Comment faire un plugin personnalis&eacute; "Hello world".](https://github.com/mfulz/Flipper-Plugin-Tutorial)
+- [`Spectrum analyzer` Analyseur de spectre pour les fréquences Sub-GHz.](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer)
+- [`Tetris` Un jeu T&eacute;tris rudimentaire.](https://github.com/jeffplang/flipperzero-firmware/tree/tetris_game/applications/tetris_game)
+- [`Flappy Bird` Comme son nom l'indique.](https://github.com/DroomOne/flipperzero-firmware/tree/dev/applications%2Fflappy_bird)
+- [`Mouse jiggler` Garder l'&eacute;cran du pc allum&eacute; en simulant des mouvements de la souris.](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler)
+- [`floopper-bloopper` Jeu LD#47.](https://github.com/glitchcore/floopper-bloopper)
+- [`NRF24 & Mousejacking` PoC biblioth&egrave;que NRF24 et exploit mousejack.](https://github.com/mothball187/flipperzero-nrf24)
+- [`UPC-A Barcode Generator` Générer des codes barres UPC-A.](https://github.com/McAzzaMan/flipperzero-firmware/tree/UPC-A_Barcode_Generator/applications/barcode_generator)
 - [`Sentry Safe` Plugin that can open any Sentry Safe and Master Lock electronic safe without entering pin code.](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin)
-- [`Dec/Hex Converter` Small "real time" decimal/hexadecimal converter.](https://github.com/theisolinearchip/flipperzero_stuff/tree/main/applications/dec_hex_converter)
+- [`Dec/Hex Converter` Convertisseur 'temps r&eacute;el' d&eacute;cimal/hexad&eacute;cimal.](https://github.com/theisolinearchip/flipperzero_stuff/tree/main/applications/dec_hex_converter)
 
-## Firmwares & Tweaks
+## Firmwares & Modifications
 
 <table align="right">
-  <tr><th><strong>Hey you!</strong></th></tr>
-  <tr><td>🔰 <em><a href="https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md">Click here</a> for a feature<br>comparison of these firmwares!</em></td></tr>
+  <tr><th><strong>Hey toi!</strong></th></tr>
+  <tr><td>🔰 <em><a href="https://github.com/flipperzerofrancophone/awesome-flipperzero-french/blob/main/Firmwares.md">Cliquez</a> pour une comparaison<br>des fonctionnalit&eacute;s de ces firmwares!</em></td></tr>
 </table>
 
 - [`Unleashed` Frequency-unlocked firmware with rolling codes support & community plugins.](https://github.com/Eng1n33r/flipperzero-firmware)
@@ -82,7 +86,8 @@
 - [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
 - [`OpenHaystack BLE mod` Very old PoC that makes Flipper behave like an AirTag.](https://github.com/AlexStrNik/flipperzero-firmware)
 
-## Modules & Cases
+## Modules & Boîtiers
+
 - [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
 - [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases)
 - [`FlipperZero-Protoboards-Kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
@@ -97,7 +102,8 @@
 - [`Skadis holder` Flipper Zero holder for Ikea Skadis.](https://www.thingiverse.com/thing:5434476)
 - [`Flipper Zero Boards` ESP32 and NRF24 daughterboards for the Flipper.](https://github.com/DrB0rk/Flipper-Zero-Boards)
 
-## Off-device & Debugging
+## Outils & Débogage
+
 - [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams.](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55)
 - [`csv2ir` Script to convert IRDB CSV's to Flipper .ir files.](https://github.com/Spexivus/csv2ir)
 - [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
@@ -116,7 +122,8 @@
 - [`ClassicConverted` Converts Mifare Classic binary files to Flipper.](https://github.com/equipter/ClassicConverter)
 - [`musicxml2fmf` Converts MusicXML files to Flipper Music Format.](https://github.com/white-gecko/musicxml2fmf)
 
-## Notes & References
+## Notes & Références
+
 <table align="right">
   <tr><th><strong>Important notice.</strong></th></tr>
   <tr><td>⚠️ <em>The Flipper team <a href="https://github.com/flipperdevices/flipperzero-firmware/pull/1269">recently changed</a><br>how the firmware is built. Some docs<br>and tutorials may be outdated!</em></td></tr>
@@ -124,7 +131,7 @@
 
 - [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
 - [`Official firmware recovery guide` How to troubleshoot firmware issues.](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
-- [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md)
+- [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://github.com/flipperzerofrancophone/awesome-flipperzero-french/blob/main/Firmwares.md)
 - [`Flipper Zero Hacking 101` Guides with screenshots, files, and general help.](https://flipper.pingywon.com/)
 - [`Reset forgotten PIN` How to reset your device's PIN code.](https://gist.github.com/djsime1/18d73b981249859f17aab3e2bfd2b600)
 - [`Atmanos Flipper Software Docs` Flipper development tutorials and information.](https://flipper.atmanos.com/docs/overview/intro)
@@ -139,16 +146,16 @@
 - [`ESP32 Marauder guide video` Companion video for the above link.](https://youtu.be/_YLTpNo5xa0)
 - [`Flipper Skylanders` How to read a Skylanders figure with Flipper.](https://github.com/V0lk3n/Flipper-Skylanders)
 
-<!-- DO NOT MODIFY BELOW -->
+## Credits
+
+- Traduction initiale de la page ['awesome flipper zero'](https://github.com/djsime1/awesome-flipperzero/) par djsime1
+- Contributeurs et contributrices bienvenues.
+  <!-- DO NOT MODIFY BELOW -->
 
 <hr>
-<h3 align="center">Want to make changes?</h3>
+<h3 align="center">Vous voulez faire des changements ?</h3>
 <div align="center">
-  You can <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
-  or <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">Start a discussion</a></kbd> with your ideas.<br>
-  <em>(A GitHub account is required for both)</em>
-    <details>
-        <summary><em>Why so many umerged pull requests?</em></summary>
-        If there's multiple small pull requests open at the same time, I'll often merge them together as a single update. Due to the way GitHub works, I'm unable to mark them as merged when I do this. To compensate, I include the contributors as co-authors on the commit, and mention the Pull Request ID's as part of the update message.
-  </details>
+  Vous pouvez <kbd><a href="https://github.com/flipperzerofrancophone/awesome-flipperzero-french/edit/main/README.md">&eacute;diter ce fichier</a></kbd> et ouvrir un Pull Request,
+  ou <kbd><a href="https://github.com/flipperzerofrancophone/awesome-flipperzero-french/discussions">Commencer une discussion</a></kbd> avec vos id&eacute;es.<br>
+  <em>(Un compte GitHub est requis pour chacun)</em>
 </div>
