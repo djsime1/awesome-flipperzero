@@ -8,12 +8,13 @@ Entrez avec le bouton "du milieu" et choisissez la fonction "Bluetooth Remote"
 
 ![BTRemote](https://user-images.githubusercontent.com/829842/187900232-493a33a1-b461-44fc-b91d-1fe17e65eaa1.png)
 
-From this menu (**and only this one**), you will find a new bluetooth device named _Remote "Flipper Name"_
-Depuis ce menu (**et uniquement celui-ci**), vous trouverez un nouvel périphérique Bluetooth nommé _Remote "Nom de votre Flipper"_
+Depuis ce menu (**et uniquement celui-ci**), un nouveau périphérique Bluetooth nommé _Remote "Nom de votre Flipper"_ sera disponible pour vous connecter.
 
 Appairez votre téléphone/tablette/ordinateur/... à ce périphérique et vous êtes prêt à contrôler vos appareils distants ! (Je saute la doc sur la façon d'appairer 2 appareils Bluetooth ...)
 
-Vous trouverez le menu principal avec les différents types de télécommandes disponibles
+Une fois appairé, la led du Flipper restera bleu/fixe durant toute la session dans le menu "Bluetooth Remote". Si vous quittez le menu, la led s'etteind/la connection Bluetooth disparait : La led bleue est un bon moyen de savoir si vous êtes connecté ou non. 
+
+Vous trouverez dans le menu principal, les différents types de télécommandes disponibles
 
 ![Menu](https://user-images.githubusercontent.com/829842/187900725-791d2be5-75c5-45f5-8baf-19af0026e341.png)
 
