@@ -54,4 +54,4 @@ Pour **sortir** de chaque menu, il vous suffit d'appuyer **longuement sur le bou
 
 ![Close](https://user-images.githubusercontent.com/829842/187904268-66bb2f50-10cb-4959-b0bb-7b30d18374e0.png)
 
-Doc par Foul (2002).
+Foul (2002).
