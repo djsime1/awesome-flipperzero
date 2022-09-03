@@ -1,19 +1,18 @@
-<em>(Adapted from <a href="discord.com/users/597435984925294620">Nano&#39;s</a> <a href="https://discord.com/channels/937479784148115456/937489970007003166/970666146804170792">original</a> <a href="https://discord.com/channels/937479784148115456/937489970007003166/970666162247581806">messages</a> in the Unleashed firmware Discord.)</em>
+<em>(Adapté des <a href="https://discord.com/channels/937479784148115456/937489970007003166/970666146804170792">messages</a> <a href="https://discord.com/channels/937479784148115456/937489970007003166/970666162247581806">originaux</a> <a href="discord.com/users/597435984925294620">de Nano</a> dans le Discord Unleashed firmware.)</em>
 
-<h1>Flipper Zero firmware differences</h1>
+<h1>Différences entre les firmwares du Flipper Zero</h1>
 <h3>
-  <code>::</code> Last updated Aug 3 2022. <code>::</code>
+  <code>::</code> Dernière mise à jour : 3 août 2022. <code>::</code>
 </h3>
-<p>This document will <em>(hopefully)</em> maintain a list of differences between various forks of the <a
-    href="#official">Flipper Zero firmware</a>. <br>If I had a dollar for every time I&#39;ve seen this question asked,
-  I wouldn&#39;t be in college debt. ¯\_(ツ)_/¯ <br>Also consider checking out the <a
-    href="https://github.com/djsime1/awesome-flipperzero">Awesome Flipper Zero list</a>, and my <a
-    href="https://gist.github.com/djsime1/73adaaf24f20b8bb70c4d4854431b0f1">rant about the two types of Flipper users</a>. </p>
+<p>Ce document tiendra <em>(nous l'espérons)</em> une liste des différences entre les différentes branches du <a
+    href="#official">firmware du Flipper Zero</a>. <br>Si j'avais eu un dollar à chaque fois que j'ai vu cette question posée, je ne serais pas endetté pour mes études.. ¯\_(ツ)_/¯ <br>Pensez également à consulter la liste <a
+    href="https://github.com/djsime1/awesome-flipperzero">Awesome Flipper Zero</a>, ainsi que mon <a
+    href="https://gist.github.com/djsime1/73adaaf24f20b8bb70c4d4854431b0f1">discours sur les deux types d'utilisateurs de Flipper.</a>. </p>
     <table><tr>
       <td>
-        <strong>Jump to:</strong>
+        <strong>Aller à:</strong>
       </td>
-      <td><a href="#official">Official</a></td>
+      <td><a href="#official">Officiel</a></td>
       <td><a href="#unleashed">Unleashed</a></td>
       <td><a href="#plugins">RogueMaster</a></td>
       <td><a href="#v1nc">v1nc</a></td>
@@ -21,17 +20,17 @@
       <td><a href="#muddledbox">MuddledBox</a></td>
       <td><a href="#summary">Summary (TL;DR)</a></td>
     </tr></table>
-<h2 id="official">Official <kbd>
+<h2 id="official">Officiel <kbd>
     <a href="https://github.com/flipperdevices/flipperzero-firmware">flipperdevices/flipperzero-firmware</a>
   </kbd>
 </h2>
 <ul>
-  <li>Has region-locked Sub-GHz transmission because of legal limitations.</li>
-  <li>Has no ability to save and send rolling codes (dynamic encrypted) in Sub-GHz, only shows them in captured list.
+  <li>La transmission Sub-GHz est verrouillée par région en raison de limitations légales..</li>
+  <li>Ne permet pas de sauvegarder et d'envoyer des rolling codes (cryptés dynamiques) en Sub-GHz, mais les affiche uniquement dans la liste des captures..
   </li>
-  <li>Factory-set device name that shows everywhere (Bluetooth broadcast, USB connection, etc) that cannot be changed.</li>
+  <li>Nom d'appareil réglé en usine qui apparaît partout (diffusion Bluetooth, connexion USB, etc.) et qui ne peut pas être modifié.</li>
   <ul>
-    <li><em>The Flipper team has a list of device names with their corresponding production information <a href="https://discord.com/channels/740930220399525928/765282833744265246/971881286543224852">(No shipping address)</a> so they can assist you easier in case of an RMA.</em></li>
+    <li><em>L'équipe Flipper dispose d'une liste de noms d'appareils avec les informations de production correspondantes <a href="https://discord.com/channels/740930220399525928/765282833744265246/971881286543224852">(Pas d'adresse de livraison)</a> afin qu'ils puissent vous aider plus facilement en cas de RMA.</em></li>
   </ul>
 </ul>
 <h2 id="unleashed">Unleashed <kbd>
