@@ -38,17 +38,17 @@
   </kbd>
 </h2>
 <ul>
-  <li><em>(AKA Code Grabber firmware.)</em></li>
-  <li>Very active development and Discord community.</li>
-  <li>Removes Sub-GHz regional transmission restrictions by default.</li>
-  <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>dangerous_settings</em> file.</li>
-  <li>Adds extra Sub-GHz frequencies by default through Official <em>setting_user</em> file.</li>
-  <li>Adds extra Mifare classic keys.</li>
-  <li>Can be used to capture and send dynamic encrypted protocols/rolling codes. <em>(Modern garage doors, etc.)</em></li>
-  <li>Encrypted Sub-GHz signals and codes can be added manually.</li>
-  <li>Current modified and new Sub-GHz protocols list <a href="https://github.com/Eng1n33r/flipperzero-firmware#current-modified-and-new-subghz-protocols-list">can be found here</a>.</li>
-  <li>Comes with proven-stable extra apps and plugins from the general community.
-  <ul><li>More details and full list of changes can be found in their <a href="https://github.com/Eng1n33r/flipperzero-firmware#readme">README</a>.</li></ul>
+  <li><em>(ALIAS Code Grabber firmware.)</em></li>
+  <li>Communauté de développement et Discord très active.</li>
+  <li>Supprime les restrictions de transmission régionales Sub-GHz par défaut.</li>
+  <li>Autorise une gamme de fréquences étendue Sub-GHz(ex. les téléavertisseurs de restaurant) par le biais du fichier <em>dangerous_settings</em>.</li>
+  <li>Ajoute des fréquences Sub-GHz supplémentaires par défaut via le fichier officiel <em>setting_user</em>.</li>
+  <li>Ajoute des clés Mifare classiques supplémentaires.</li>
+  <li>Peut être utilisé pour capturer et envoyer des protocoles cryptés dynamiques/codes roulants. <em>(portes de garage modernes, etc.)</em></li>
+  <li>Les signaux et les codes Sub-GHz cryptés peuvent être ajoutés manuellement.</li>
+  <li>La liste des protocoles Sub-GHz actuels, modifiés et nouveaux <a href="https://github.com/Eng1n33r/flipperzero-firmware#current-modified-and-new-subghz-protocols-list">peuvent être trouvés ici</a>.</li>
+  <li>Livré avec des applications et des plugins supplémentaires stables et éprouvés provenant de la communauté générale.
+  <ul><li>Vous trouverez plus de détails et la liste complète des changements dans le document suivant <a href="https://github.com/Eng1n33r/flipperzero-firmware#readme">LISEZMOI</a>.</li></ul>
 </ul>
 <h2 id="plugins">RogueMaster <kbd>
     <a href="https://github.com/RogueMaster/flipperzero-firmware-wPlugins">RogueMaster/flipperzero-firmware-wPlugins</a>
