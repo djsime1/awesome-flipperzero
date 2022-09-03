@@ -58,7 +58,7 @@
 
 <table align="right">
   <tr><th><strong>OwO c'est quoi &ccedil;a ?</strong></th></tr>
-  <tr><td>✨ <em>Cette section sera remplac&eacute;e par<br><a href="https://github.com/flipper-aquarium">Aquarium</a> quand les applications par cartes SD seront pr&ecirc;tes.</em></td></tr>
+  <tr><td>✨ <em>Cette section sera remplac&eacute;e par <a href="https://github.com/flipper-aquarium">Aquarium</a> quand<br> les applications par cartes SD seront pr&ecirc;tes.</em></td></tr>
 </table>
 
 - [`Flipper-Plugin-Tutorial` Comment faire un plugin personnalis&eacute; "Hello world".](https://github.com/mfulz/Flipper-Plugin-Tutorial)
@@ -67,7 +67,7 @@
 - [`Flappy Bird` Comme son nom l'indique.](https://github.com/DroomOne/flipperzero-firmware/tree/dev/applications%2Fflappy_bird)
 - [`Mouse jiggler` Garder l'&eacute;cran du pc allum&eacute; en simulant des mouvements de la souris.](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler)
 - [`floopper-bloopper` Jeu LD#47.](https://github.com/glitchcore/floopper-bloopper)
-- [`NRF24 & Mousejacking` PoC biblioth&egrave;que NRF24 et exploit mousejack.](https://github.com/mothball187/flipperzero-nrf24)
+- [`NRF24 & Mousejacking` Preuve De Concept biblioth&egrave;que NRF24 et exploit mousejack.](https://github.com/mothball187/flipperzero-nrf24)
 - [`UPC-A Barcode Generator` Générer des codes barres UPC-A.](https://github.com/McAzzaMan/flipperzero-firmware/tree/UPC-A_Barcode_Generator/applications/barcode_generator)
 - [`Sentry Safe` Plugin qui peut ouvrir n'importe quel coffre-fort électronique Sentry Safe et Master Lock sans entrer de code PIN..](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin)
 - [`Dec/Hex Converter` Convertisseur 'temps r&eacute;el' d&eacute;cimal/hexad&eacute;cimal.](https://github.com/theisolinearchip/flipperzero_stuff/tree/main/applications/dec_hex_converter)
@@ -84,12 +84,12 @@
 - [`v1nc flipper zero firmware` Fork Unleashed avec le support de différentes dispositions de clavier Duckyscript et de plugins communautaires](https://github.com/v1nc/flipperzero-firmware)
 - [`Wetox` Très similaire à la branche officielle, avec quelques petits ajustements.](https://github.com/wetox-team/flipperzero-firmware)
 - [`Muddled Forks` Modifications moins actives du firmware.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
-- [`OpenHaystack Mod BLE` Très ancien Preuve De Concept qui fait que Flipper se comporte comme un AirTag.](https://github.com/AlexStrNik/flipperzero-firmware)
+- [`OpenHaystack Mod BLE` Très ancienne Preuve De Concept qui fait que Flipper se comporte comme un AirTag.](https://github.com/AlexStrNik/flipperzero-firmware)
 
 ## Modules & Boîtiers
 
 - [`FlipperZero-Hardware` Coques imprimables en 3D avec interface iButton personnalisée.](https://github.com/s0ko1ex/FlipperZero-Hardware)
-- [``Flipper Zero Cases` Modèles d'étuis et coques imprimables en 3D.](https://github.com/MuddledBox/FlipperZeroCases)
+- [`Flipper Zero Cases` Modèles d'étuis et coques imprimables en 3D.](https://github.com/MuddledBox/FlipperZeroCases)
 - [`FlipperZero-Protoboards-Kicad` Cartes prototypes KiCad.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
 - [`Pelican case` Grand étui pour contenir Flipper et USB.](https://www.printables.com/model/204882-flipper-zero-case)
 - [`Hard case` Plus petit que l'étui pélican, mais toujours volumineux.](https://www.thingiverse.com/thing:5387015)
