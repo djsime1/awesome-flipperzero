@@ -125,26 +125,26 @@
 ## Notes & Références
 
 <table align="right">
-  <tr><th><strong>Important notice.</strong></th></tr>
-  <tr><td>⚠️ <em>The Flipper team <a href="https://github.com/flipperdevices/flipperzero-firmware/pull/1269">recently changed</a><br>how the firmware is built. Some docs<br>and tutorials may be outdated!</em></td></tr>
+  <tr><th><strong>Avis important.</strong></th></tr>
+  <tr><td>⚠️ <em>L'équipe de Flipper <a href="https://github.com/flipperdevices/flipperzero-firmware/pull/1269">a récemment changé</a> la façon <br>dont le firmware est construit. Certains documents <br>et tutoriels peuvent être dépassés !</em></td></tr>
 </table>
 
-- [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
-- [`Official firmware recovery guide` How to troubleshoot firmware issues.](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
-- [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://github.com/flipperzerofrancophone/awesome-flipperzero-french/blob/main/Firmwares.md)
-- [`Flipper Zero Hacking 101` Guides with screenshots, files, and general help.](https://flipper.pingywon.com/)
-- [`Reset forgotten PIN` How to reset your device's PIN code.](https://gist.github.com/djsime1/18d73b981249859f17aab3e2bfd2b600)
-- [`Atmanos Flipper Software Docs` Flipper development tutorials and information.](https://flipper.atmanos.com/docs/overview/intro)
-- [`Flipper Zero GPIO Pinout` Official GPIO pinouts.](https://miro.com/app/board/uXjVO_LaYYI=/?moveToWidget=3458764522696947614&cot=10)
+- [`Official battery self-repair guide` Comment résoudre les problèmes de batterie.](https://cdn.flipperzero.one/self-repair-guide.pdf)
+- [`Official firmware recovery guide` Comment résoudre les problèmes de firmware.](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
+- [`FZ Firmware Comparisons` Comparaison des firmwares personnalisés listés dans ce repo.](https://github.com/flipperzerofrancophone/awesome-flipperzero-french/blob/main/Firmwares.md)
+- [`Flipper Zero Hacking 101` Guides avec captures d'écran, fichiers et aide générale.](https://flipper.pingywon.com/)
+- [`Reset forgotten PIN` Comment réinitialiser le code PIN de votre appareil ?.](https://gist.github.com/djsime1/18d73b981249859f17aab3e2bfd2b600)
+- [`Atmanos Flipper Software Docs` Tutoriels et informations sur le développement de Flipper.](https://flipper.atmanos.com/docs/overview/intro)
+- [`Flipper Zero GPIO Pinout` Brochage officiel des GPIO.](https://miro.com/app/board/uXjVO_LaYYI=/?moveToWidget=3458764522696947614&cot=10)
 - [`Add-on Modules GPIO Pinouts` ESP32, ESP8266, ESP32-CAM, ESP32-WROOM, NRF24](https://github.com/UberGuidoZ/Flipper/tree/main/GPIO)
-- [`Firmware roadmap` Official stock firmware roadmap.](https://miro.com/app/board/uXjVO_3D6xU=/?moveToWidget=3458764522498020058&cot=14)
-- [`Flipper Zero SW&HW keynote` (OUTDATED) Hardware & software architecture document.](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
-- [`Unofficial Community Wiki` To help consolidate all things Flipper (official and unofficial).](https://flipperzero.miraheze.org/wiki/Main_Page)
-- [`Flipper Zero disassembly guide` Difficulty: Moderate, Time: 8-15 Minutes.](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151455)
-- [`Alternative disassembly video` Third-party video for disassembling the Flipper.](https://youtu.be/38pHe7M4vl8)
-- [`ESP32 Marauder on WiFi dev board` Portable WiFi/Bluetooth pentesting.](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)
-- [`ESP32 Marauder guide video` Companion video for the above link.](https://youtu.be/_YLTpNo5xa0)
-- [`Flipper Skylanders` How to read a Skylanders figure with Flipper.](https://github.com/V0lk3n/Flipper-Skylanders)
+- [`Firmware roadmap` Feuille de route officielle du firmware d'origine.](https://miro.com/app/board/uXjVO_3D6xU=/?moveToWidget=3458764522498020058&cot=14)
+- [`Flipper Zero SW&HW keynote` (OUTDATED) Document sur l'architecture matérielle et logicielle.](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
+- [`Unofficial Community Wiki` Pour aider à consolider tout ce qui concerne Flipper (officiel et non officiel).](https://flipperzero.miraheze.org/wiki/Main_Page)
+- [`Flipper Zero disassembly guide` Difficulté : Modérée, Temps : 8-15 Minutes.](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151455)
+- [`Alternative disassembly video` Vidéo d'un tiers pour le démontage du Flipper.](https://youtu.be/38pHe7M4vl8)
+- [`ESP32 Marauder on WiFi dev board` Pentesting WiFi/Bluetooth portable.](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)
+- [`ESP32 Marauder guide video` Vidéo d'accompagnement pour le lien mentionné.](https://youtu.be/_YLTpNo5xa0)
+- [`Flipper Skylanders` Comment lire une figurine Skylanders avec Flipper.](https://github.com/V0lk3n/Flipper-Skylanders)
 
 ## Credits
 
