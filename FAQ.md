@@ -3,7 +3,7 @@
 </a>
 
 <table align="center">
-  <tr><th colspan="8">Table of Contents</th></tr>
+  <tr><th colspan="8">Table des matières</th></tr>
   <tr>
     <td><a href="#meta-">Meta</a></td>
     <td><a href="#general-">General</a></td>
@@ -16,22 +16,21 @@
   </tr>
 <table>
 
-## Preamble [🔝](#top)
-- *This is a community FAQ. Please consider also reading the [Official docs](https://docs.flipperzero.one/).*
-- *This FAQ is still being worked on, and contributions are welcome.*
-- *If your question isn't answered here, **SEARCH** the [Discord](https://flipperzero.one/discord) and check pinned messages before asking there.*
+## Préambule [🔝](#top)
+- *Il s'agit d'une FAQ communautaire. Veuillez envisager de lire également la [doc Officielle](https://docs.flipperzero.one/).*
+- *Cette FAQ est toujours en cours d'élaboration et les contributions sont les bienvenues.*
+- *Si votre question ne trouve pas de réponse ici, **RECHERCHEZ** sur le [Discord](https://flipperzero.one/discord) et vérifier les messages épinglés avant d'y poser des questions.*
 
 
-
-## Meta [🔝](#top)
+## Méta [🔝](#top)
 
 ### What is Awesome Flipper Zero?
 > It's an [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) that I ([djsime1](https://dj.je)) created shortly after receiving Lurat, my lovely dolphin sidekick.
 
-### How can I contribute to this repo?
+### Comment puis-je contribuer à ce dépôt ?
 > Perferably, open a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with your changes, or use one of the methods in the next question to contact me.
 
-### I found a mistake, broken link, or something else. What should I do?
+### J'ai trouvé une erreur, un lien brisé ou autre chose. Que dois-je faire ?
 > Open a [new discussion](https://github.com/djsime1/awesome-flipperzero/discussions/new) on this repo, Message me on Discord ([`@DJ#9822`](https://discord.gg/9rduBhctJ6)), Telegram ([`djsime1`](https://t.me/djsime1)), or email me (![dj at dj.je](https://user-images.githubusercontent.com/8518150/180326401-1408742a-124c-49a7-9818-60c31d0e0d28.png)).
 
 ### Why are there so many unmerged pull requests?
