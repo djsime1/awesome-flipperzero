@@ -1,4 +1,4 @@
-<em>(Adapté des <a href="https://discord.com/channels/937479784148115456/937489970007003166/970666146804170792">messages</a> <a href="https://discord.com/channels/937479784148115456/937489970007003166/970666162247581806">originaux</a> <a href="discord.com/users/597435984925294620">de Nano</a> dans le Discord Unleashed firmware.)</em>
+<em>(Adapté des <a href="https://discord.com/channels/937479784148115456/937489970007003166/970666146804170792">messages</a> <a href="https://discord.com/channels/937479784148115456/937489970007003166/970666162247581806">originaux</a> <a href="discord.com/users/597435984925294620">de Nano</a> dans le Unleashed firmware Discord.)</em>
 
 <h1>Différences entre les firmwares du Flipper Zero</h1>
 <h3>
@@ -55,52 +55,52 @@
   </kbd>
 </h2>
 <ul>
-  <li>Built off Unleashed as the base firmware (which is a fork of Official dev firmware.)</li>
-  <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
-    <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
-  <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
-  <li>Adds extra custom assets <em>(Mifare classic dict, example files, etc)</em>.</li>
-  <li>Includes some PRs from Official firmware that are not yet merged in Official firmware <em>(bleeding edge)</em>.</li>
-  <li>Includes a number of games, some experimental only, as well as "Games Only Mode" (aka Dumb Mode).</li>
-  <li>Includes an enhanced, but experimental, new "Dolphin Level" system.</li>
-  <li>Has added most known community tweaks, plugins & games (some may be unstable or incomplete.)</li>
-  <li>Also includes a number of other small tweaks and changes.</li>
-  <ul><li>More details and full list in their <a href="https://github.com/RogueMaster/flipperzero-firmware-wPlugins#readme">README</a>.</li></ul>
+  <li>Construit à partir de Unleashed comme firmware de base (qui est un fork du firmware de développement officiel.)</li>
+  <li>Supprime les restrictions de transmission régionale Sub-GHz après les modifications apportées au fichier <em>extend_range.txt</em>.</li>
+    <li>Autorise une gamme de fréquences étendue Sub-GHz (ex. les téléavertisseurs de restaurant) par le biais du fichier <em>extend_range.txt</em>.</li>
+  <li>Possède les protocoles Sub-GHz et la plupart des autres changements pris dans FW Unleashed. (voir <a href="#unleashed">changements</a>).</li>
+  <li>Ajout d'actifs supplémentaires personnalisés <em>(Dict Mifare classic, fichiers d'exemples, etc.)</em>.</li>
+  <li>Inclut certains PRs du firmware officiel qui ne sont pas encore fusionnés dans le firmware officiel <em>(bleeding edge)</em>.</li>
+  <li>Comprend un certain nombre de jeux, dont certains ne sont qu'expérimentaux, ainsi que le "mode jeux seulement" (alias mode débile).</li>
+  <li>Inclut un nouveau système "Dolphin Level" amélioré mais expérimental.</li>
+  <li>A ajouté les ajustements, plugins et jeux les plus connus de la communauté (certains peuvent être instables ou incomplets.)</li>
+  <li>Comprend également un certain nombre d'autres petits ajustements et modifications.</li>
+  <ul><li>Plus de détails et liste complète dans leur <a href="https://github.com/RogueMaster/flipperzero-firmware-wPlugins#readme">LISEZMOI</a>.</li></ul>
 </ul>
 <h2 id="v1nc">v1nc <kbd>
     <a href="https://github.com/v1nc/flipperzero-firmware">v1nc/flipperzero-firmware</a>
   </kbd>
 </h2>
 <ul>
-  <li>Supports different keyboard layouts for Duckyscripts via the script keyword <code>DUCKY_LANG</code></li>
-  <li>Up to date fork of the Unleashed firmware</li>
-  <li>Includes community plugins & games </li>
+  <li>Prise en charge de différentes dispositions de clavier pour les Duckyscripts via le mot clé de script <code>DUCKY_LANG</code></li>
+  <li>Une version actualisée du firmware Unleashed.</li>
+  <li>Comprend des plugins et des jeux communautaires. </li>
 </ul>
 <h2 id="wetox">Wetox <kbd>
     <a href="https://github.com/wetox-team/flipperzero-firmware">wetox-team/flipperzero-firmware</a>
   </kbd>
 </h2>
 <ul>
-  <li>The dev branch is intended for public use, while others are either testing or archived hackathon submissions.</li>
-  <li>Cracking T5577 RFID passwords via dictionary attack.</li>
-  <li>Desktop header branding [WTX].</li>
-  <li>Has some frequently updated interesting experimental stuff in different <a href="https://github.com/wetox-team/flipperzero-firmware/branches">branches</a>.</li>
+  <li>La branche de développement est destinée à un usage public, tandis que d'autres testent ou archivent les soumissions de hackathon.</li>
+  <li>Craquage des mots de passe RFID T5577 via une attaque par dictionnaire.</li>
+  <li>Marquage de l'en-tête du bureau [WTX].</li>
+  <li>A des trucs expérimentaux intéressants fréquemment mis à jour dans différentes <a href="https://github.com/wetox-team/flipperzero-firmware/branches">branches</a>.</li>
 </ul>
 <h2 id="muddledbox">MuddledBox <kbd>
     <a href="https://github.com/MuddledBox/flipperzero-firmware">MuddledBox/flipperzero-firmware</a>
   </kbd>
 </h2>
 <ul>
-  <li><b>Abandoned. Not updated for more than 2 months.</b></li>
-  <li>Removes Sub-GHz regional transmission restrictions.</li>
-  <li>Adds self-promo images to about page in settings.</li>
-  <li>Adds a few extra common Sub-GHz frequencies to capture on.</li>
+  <li><b>Abandonné. Pas mis à jour depuis plus de 2 mois.</b></li>
+  <li>Supprime les restrictions de transmission régionales Sub-GHz.</li>
+  <li>Ajoute des images d'auto-promotion à la page à propos dans les paramètres.</li>
+  <li>Ajoute quelques fréquences sub-GHz communes supplémentaires à capturer.</li>
 </ul>
-<h2 id="summary">Summary <kbd>(TL;DR)</kbd></h2>
+<h2 id="summary">Sommaire <kbd>(TL;DR)</kbd></h2>
 <ul>
-  <li>Staying up to date with upstream (official) firmware is important.</li>
-  <li>TX restriction removal is illegal in most circumstances, use at your own risk.</li>
-  <li>MuddledBox was the first popular firmware fork, but didn't grow up.</li>
-  <li>Unleashed is more focused on core functionality, stability, and Sub-GHz protocols.</li>
-  <li>RogueMaster has more community plugins, visual tweaks, games, and changes (some experimental).</li>
+  <li>Rester à jour avec le firmware en amont (officiel) est important.</li>
+  <li>La suppression de la restriction TX est illégale dans la plupart des cas, utilisez-la à vos risques et périls.</li>
+  <li>MuddledBox a été le premier fork de firmware populaire, mais n'a pas grandi.</li>
+  <li>Unleashed est davantage axé sur les fonctionnalités de base, la stabilité et les protocoles Sub-GHz.</li>
+  <li>RogueMaster a plus de plugins communautaires, d'ajustements visuels, de jeux et de changements (certains expérimentaux).</li>
 </ul>
