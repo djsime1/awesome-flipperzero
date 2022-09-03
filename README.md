@@ -69,7 +69,7 @@
 - [`floopper-bloopper` Jeu LD#47.](https://github.com/glitchcore/floopper-bloopper)
 - [`NRF24 & Mousejacking` PoC biblioth&egrave;que NRF24 et exploit mousejack.](https://github.com/mothball187/flipperzero-nrf24)
 - [`UPC-A Barcode Generator` Générer des codes barres UPC-A.](https://github.com/McAzzaMan/flipperzero-firmware/tree/UPC-A_Barcode_Generator/applications/barcode_generator)
-- [`Sentry Safe` Plugin that can open any Sentry Safe and Master Lock electronic safe without entering pin code.](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin)
+- [`Sentry Safe` Plugin qui peut ouvrir n'importe quel coffre-fort électronique Sentry Safe et Master Lock sans entrer de code PIN..](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin)
 - [`Dec/Hex Converter` Convertisseur 'temps r&eacute;el' d&eacute;cimal/hexad&eacute;cimal.](https://github.com/theisolinearchip/flipperzero_stuff/tree/main/applications/dec_hex_converter)
 
 ## Firmwares & Modifications
@@ -79,28 +79,28 @@
   <tr><td>🔰 <em><a href="https://github.com/flipperzerofrancophone/awesome-flipperzero-french/blob/main/Firmwares.md">Cliquez</a> pour une comparaison<br>des fonctionnalit&eacute;s de ces firmwares!</em></td></tr>
 </table>
 
-- [`Unleashed` Frequency-unlocked firmware with rolling codes support & community plugins.](https://github.com/Eng1n33r/flipperzero-firmware)
-- [`RogueMaster` Unleashed + Official FW fork with assorted community plugins, tweaks, & games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
-- [`v1nc flipper zero firmware` Unleashed fork with support for different Duckyscript keyboard layouts & community plugins](https://github.com/v1nc/flipperzero-firmware)
-- [`Wetox` Very similar to the official branch, with a few small tweaks.](https://github.com/wetox-team/flipperzero-firmware)
-- [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
-- [`OpenHaystack BLE mod` Very old PoC that makes Flipper behave like an AirTag.](https://github.com/AlexStrNik/flipperzero-firmware)
+- [`Unleashed` Firmware non verrouillé en fréquence avec support des rolling codes et plugins communautaires.](https://github.com/Eng1n33r/flipperzero-firmware)
+- [`RogueMaster` Unleashed + Fork Firmware officiel avec des plugins communautaires assortis, des ajustements et des jeux.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
+- [`v1nc flipper zero firmware` Fork Unleashed avec le support de différentes dispositions de clavier Duckyscript et de plugins communautaires](https://github.com/v1nc/flipperzero-firmware)
+- [`Wetox` Très similaire à la branche officielle, avec quelques petits ajustements.](https://github.com/wetox-team/flipperzero-firmware)
+- [`Muddled Forks` Modifications moins actives du firmware.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
+- [`OpenHaystack Mod BLE` Très ancien Preuve De Concept qui fait que Flipper se comporte comme un AirTag.](https://github.com/AlexStrNik/flipperzero-firmware)
 
 ## Modules & Boîtiers
 
-- [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
-- [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases)
-- [`FlipperZero-Protoboards-Kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
-- [`Pelican case` Big case to hold Flipper and USB.](https://www.printables.com/model/204882-flipper-zero-case)
-- [`Hard case` Smaller than pelican case, but still bulky.](https://www.thingiverse.com/thing:5387015)
-- [`WiFi Module v1 Case` Small cover for the WiFi dev board.](https://www.printables.com/model/179910-case-for-flipper-zero-wi-fi-module-v1)
-- [`Flipper screen protector` An alternative screen protector for Flipper.](https://www.photodon.com/p/2419-01.html)
-- [`WiFi Scanner Module` Scans for WiFi networks via a custom Wemos module board.](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module)
-- [`WiFi Scanner Module Flasher` Web flasher for module firmware above.](https://sequoiasan.github.io/FlipperZero-WiFi-Scanner_Module/)
-- [`WiFi DSTIKE Deauther` Preforms WiFi deauth attacks via a custom ESP8266 module board.](https://github.com/SequoiaSan/FlipperZero-Wifi-ESP8266-Deauther-Module)
-- [`WiFi Deauther Module Flasher` Web flasher for module firmware above.](https://sequoiasan.github.io/FlipperZero-Wifi-ESP8266-Deauther-Module/)
-- [`Skadis holder` Flipper Zero holder for Ikea Skadis.](https://www.thingiverse.com/thing:5434476)
-- [`Flipper Zero Boards` ESP32 and NRF24 daughterboards for the Flipper.](https://github.com/DrB0rk/Flipper-Zero-Boards)
+- [`FlipperZero-Hardware` Coques imprimables en 3D avec interface iButton personnalisée.](https://github.com/s0ko1ex/FlipperZero-Hardware)
+- [``Flipper Zero Cases` Modèles d'étuis et coques imprimables en 3D.](https://github.com/MuddledBox/FlipperZeroCases)
+- [`FlipperZero-Protoboards-Kicad` Cartes prototypes KiCad.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
+- [`Pelican case` Grand étui pour contenir Flipper et USB.](https://www.printables.com/model/204882-flipper-zero-case)
+- [`Hard case` Plus petit que l'étui pélican, mais toujours volumineux.](https://www.thingiverse.com/thing:5387015)
+- [`WiFi Module v1 Case` Petit étuit pour la carte de développement WiFi.](https://www.printables.com/model/179910-case-for-flipper-zero-wi-fi-module-v1)
+- [`Flipper screen protector` Un protecteur d'écran alternatif pour Flipper.](https://www.photodon.com/p/2419-01.html)
+- [`WiFi Scanner Module` Analyse les réseaux WiFi via une carte de module Wemos personnalisée.](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module)
+- [`WiFi Scanner Module Flasher` Flasheur Web pour le firmware du module ci-mentionné.](https://sequoiasan.github.io/FlipperZero-WiFi-Scanner_Module/)
+- [`WiFi DSTIKE Deauther` Réalisation d'attaques de déauth en WiFi via une carte module ESP8266 personnalisée..](https://github.com/SequoiaSan/FlipperZero-Wifi-ESP8266-Deauther-Module)
+- [`WiFi Deauther Module Flasher` Flasheur Web pour le firmware du module ci-mentionné.](https://sequoiasan.github.io/FlipperZero-Wifi-ESP8266-Deauther-Module/)
+- [`Skadis holder` Support Flipper Zero pour Ikea Skadis.](https://www.thingiverse.com/thing:5434476)
+- [`Flipper Zero Boards` Cartes filles ESP32 et NRF24 pour le Flipper.](https://github.com/DrB0rk/Flipper-Zero-Boards)
 
 ## Outils & Débogage
 
