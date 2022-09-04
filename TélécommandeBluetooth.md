@@ -8,7 +8,7 @@ Entrez avec le bouton "du milieu" et choisissez la fonction "Bluetooth Remote"
 
 ![BTRemote](https://user-images.githubusercontent.com/829842/187900232-493a33a1-b461-44fc-b91d-1fe17e65eaa1.png)
 
-Depuis ce menu (**et uniquement celui-ci**), un nouveau périphérique Bluetooth nommé _Remote "Nom de votre Flipper"_ sera disponible pour vous connecter.
+Depuis ce menu (**et uniquement celui-ci**), un nouveau périphérique Bluetooth nommé _Control "Nom de votre Flipper"_ sera disponible pour vous connecter.
 
 Appairez votre téléphone/tablette/ordinateur/... à ce périphérique et vous êtes prêt à contrôler vos appareils distants ! (Je saute la doc sur la façon d'appairer 2 appareils Bluetooth ...)
 
