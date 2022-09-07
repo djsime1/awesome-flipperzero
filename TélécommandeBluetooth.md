@@ -1,10 +1,10 @@
-_### Comment utiliser la fonction de télécommande Bluetooth de votre Flipper :_
+### Comment utiliser la fonction de télécommande Bluetooth de votre Flipper :_
 
-Une fois votre Flipper allumé, naviguez avec les boutons "haut" et "bas" jusqu'à atteindre le menu "Plugins"
+Une fois votre Flipper allumé, naviguez avec les boutons "haut" et "bas" jusqu'à atteindre le menu `Plugins`
 
 ![Plugins](https://user-images.githubusercontent.com/829842/187899947-29c8d41a-fc61-4a0e-85a6-6bc8b04e60cd.png)
 
-Entrez avec le bouton "du milieu" et choisissez la fonction "Bluetooth Remote"
+Entrez avec le bouton "du milieu" et choisissez la fonction `Bluetooth Remote`
 
 ![BTRemote](https://user-images.githubusercontent.com/829842/187900232-493a33a1-b461-44fc-b91d-1fe17e65eaa1.png)
 
@@ -12,7 +12,7 @@ Depuis ce menu (**et uniquement celui-ci**), un nouveau périphérique Bluetooth
 
 Appairez votre téléphone/tablette/ordinateur/... à ce périphérique et vous êtes prêt à contrôler vos appareils distants ! (Je saute la doc sur la façon d'appairer 2 appareils Bluetooth ...)
 
-Une fois appairé, la led du Flipper restera bleu/fixe durant toute la session dans le menu "Bluetooth Remote". Si vous quittez le menu, la led s'etteind/la connection Bluetooth disparait : La led bleue est un bon moyen de savoir si vous êtes connecté ou non. 
+Une fois appairé, la led du Flipper restera bleu/fixe durant toute la session dans le menu `Bluetooth Remote`. Si vous quittez le menu, la led s'etteind/la connection Bluetooth disparait : La led bleue est un bon moyen de savoir si vous êtes connecté ou non. 
 
 Vous trouverez dans le menu principal, les différents types de télécommandes disponibles
 
@@ -54,5 +54,10 @@ Retour : Bouton droit de la souris
 Pour **sortir** de chaque menu, il vous suffit d'appuyer **longuement sur le bouton "retour"**, ce qui vous donne la possibilité de choisir de quitter définitivement le menu Bluetooth, de choisir une autre télécommande ou de rester sur celle sur laquelle vous étiez.
 
 ![Close](https://user-images.githubusercontent.com/829842/187904268-66bb2f50-10cb-4959-b0bb-7b30d18374e0.png)
+
+### Paramètre Bluetooth du flipper
+
+Dans le menu `Settings`, `Bluetooth`, la sélection ON/OFF n'a pas d'effet sur le plugin `Bluetooth Remote`. Vous n'avez donc pas besoin de mettre à ON pour utiliser le plugin pour contrôler vos appareils.
+Quand c'est à ON, un nouveau périphérique Bluetooth nommé _"Nom de votre Flipper"_ (sans "Control") sera disponible. Il permet d'appairer à un smartphone pour mettre à jour le flipper via l'application mobile.
 
 Foul (2022).
