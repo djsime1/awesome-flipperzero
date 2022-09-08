@@ -274,6 +274,9 @@
 ### Why doesn't my bank card work when I emulate it?
 > EMV Credit/Debit cards are mostly encrypted. The information Flipper reads is the unencrypted portion of the card. This alone is not enough to emulate and complete a transaction. It is impossible to read the encrypted parts. 
 
+### Where is the "USB NFC Reader" feature mentioned in the [september blog post](https://blog.flipperzero.one/september-progress/)?
+> This was scrapped due to timing issues, more details in [this GitHub issue](https://github.com/flipperdevices/flipperzero-firmware/issues/1173#issuecomment-1127728562).
+
 
 
 ## Infrared [🔝](#top)
