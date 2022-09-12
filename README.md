@@ -46,7 +46,6 @@
 - [`Generic BadUSB Payloads` Hak5 Duckyscript payloads.](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads)
 - [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 - [`FlipperZero-Goodies` Intercom keys, scripts, etc.](https://github.com/wetox-team/flipperzero-goodies)
-- [`irplus database` Ripped from irplus App.](https://github.com/sasiplavnik/Flipper-IRDB)
 - [`T119 bruteforcer` Triggers Retekess T119 restaurant pagers.](https://github.com/xb8/t119bruteforcer)
 - [`flipperzero-bruteforce` Generate `.sub` files to brute force subghz OOK.](https://github.com/tobiabocchi/flipperzero-bruteforce)
 
