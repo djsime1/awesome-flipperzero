@@ -46,7 +46,6 @@
 - [`Generic BadUSB Payloads` Hak5 Duckyscript payloads.](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads)
 - [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 - [`FlipperZero-Goodies` Intercom keys, scripts, etc.](https://github.com/wetox-team/flipperzero-goodies)
-- [`irplus database` Ripped from irplus App.](https://github.com/sasiplavnik/Flipper-IRDB)
 - [`T119 bruteforcer` Triggers Retekess T119 restaurant pagers.](https://github.com/xb8/t119bruteforcer)
 - [`flipperzero-bruteforce` Generate `.sub` files to brute force subghz OOK.](https://github.com/tobiabocchi/flipperzero-bruteforce)
 
@@ -98,6 +97,7 @@
 - [`Skadis holder` Flipper Zero holder for Ikea Skadis.](https://www.thingiverse.com/thing:5434476)
 - [`Flipper Zero Boards` ESP32 and NRF24 daughterboards for the Flipper.](https://github.com/DrB0rk/Flipper-Zero-Boards)
 - [`Flipper Zero Car Mount` Uses foam from the original box.](https://www.thingiverse.com/thing:5464899)
+- [`Soft TPU cover` Similar to the official silicone case.](https://www.printables.com/en/model/272676-soft-tpu-flipper-zero-cover)
 
 ## Off-device & Debugging
 - [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams.](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55)
