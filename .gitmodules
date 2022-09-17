@@ -31,3 +31,6 @@
 [submodule "fw/unleashed"]
 	path = fw/unleashed
 	url = https://github.com/Eng1n33r/flipperzero-firmware.git
+[submodule "fw/RogueMasterWApps"]
+	path = fw/RogueMasterWApps
+	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins.git
