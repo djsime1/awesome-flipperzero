@@ -19,9 +19,6 @@
 [submodule "music_player"]
 	path = music_player
 	url = https://github.com/neverfa11ing/FlipperMusicRTTTL
-[submodule "fw/RogueMaster"]
-	path = fw/RogueMaster
-	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins
 [submodule "fw/OFW"]
 	path = fw/OFW
 	url = https://github.com/flipperdevices/flipperzero-firmware
