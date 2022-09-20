@@ -53,7 +53,7 @@
 
 <table align="right">
   <tr><th><strong>OwO whats this?</strong></th></tr>
-  <tr><td>✨ <em>This section will be succeeded by<br><a href="https://github.com/flipper-aquarium">Aquarium</a> once SD-Card apps are released.</em></td></tr>
+  <tr><td>✨ <em>This section will be succeeded by<br><a href="https://github.com/flipper-aquarium">Aquarium</a> in the near future.</em></td></tr>
 </table>
 
 - [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/mfulz/Flipper-Plugin-Tutorial)
@@ -119,11 +119,6 @@
 - [`musicxml2fmf` Converts MusicXML files to Flipper Music Format.](https://github.com/white-gecko/musicxml2fmf)
 
 ## Notes & References
-<table align="right">
-  <tr><th><strong>Important notice.</strong></th></tr>
-  <tr><td>⚠️ <em>The Flipper team <a href="https://github.com/flipperdevices/flipperzero-firmware/pull/1269">recently changed</a><br>how the firmware is built. Some docs<br>and tutorials may be outdated!</em></td></tr>
-</table>
-
 - [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
 - [`Official firmware recovery guide` How to troubleshoot firmware issues.](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
 - [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md)
@@ -148,9 +143,5 @@
 <div align="center">
   You can <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
   or <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">Start a discussion</a></kbd> with your ideas.<br>
-  <em>(A GitHub account is required for both)</em>
-    <details>
-        <summary><em>Why so many umerged pull requests?</em></summary>
-        If there's multiple small pull requests open at the same time, I'll often merge them together as a single update. Due to the way GitHub works, I'm unable to mark them as merged when I do this. To compensate, I include the contributors as co-authors on the commit, and mention the Pull Request ID's as part of the update message.
-  </details>
+  Read the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md#meta-">Meta FAQ section</a> for more info.
 </div>
