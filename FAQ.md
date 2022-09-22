@@ -18,6 +18,7 @@
 
 ## Preamble [🔝](#top)
 - *This is a community FAQ. Please consider also reading the [Official docs](https://docs.flipperzero.one/).*
+- *It is written with information from the latest dev firmware, you may have to wait for a firmware (pre)release before some of the questions/answers become relevant.*
 - *This FAQ is still being worked on, and contributions are welcome.*
 - *If your question isn't answered here, **SEARCH** the [Discord](https://flipperzero.one/discord) and check pinned messages before asking there.*
 
@@ -36,6 +37,11 @@
 
 ### Why are there so many unmerged pull requests?
 > If there's multiple small pull requests open at the same time, I'll often merge them together as a single update. Due to the way GitHub works, I'm unable to mark them as merged when I do this. To compensate, I include the contributors as co-authors on the commit, and mention the Pull Request ID's as part of the update message.
+
+### This is really cool! Is there a way I can donate to you?
+> I really appreciate the kind words, however I'm not accepting personal monetary donations.
+> If you're really insistent, I'll accept a Discord Nitro gift ([`@DJ#9822`](https://discord.gg/9rduBhctJ6)) or Steam Game ([`/id/djsime1`](https://steamcommunity.com/id/djsime1/))!
+> Besides that, why not support a local charity/organization instead? My personal recommendation is the [Electronic Frontier Foundation](https://supporters.eff.org/donate).
 
 
 
@@ -57,40 +63,43 @@
 > - For plugging the SD Card into your PC, drop files in their corresponding folders (The folder names are similar to the file extensions).
 
 ### How do I install applications and plugins?
-> The links listed in this repo can't be installed as easily as drag-and-drop.
-> Most of them have to be manually merged into the firmware and fully recompiled. (Documentation coming soon)
-> As for ELF/FAP's, they're in a very early stage of development and require a special version of the firmware to be installed. I DO NOT recommend using them until they are officially merged into the main firmware.
-> *If you're really insistent, install the firmware from [this comment](https://github.com/flipperdevices/flipperzero-firmware/pull/1387#issuecomment-1182470778), place the `.elf` or `.fap` file in the `apps` directory on the SD Card (create it if necessary), and use the ELF loader application to run them.*
-
-### How do I write my own applications/plugins/firmware?
-> *(WIP)*
+> Assuming the application has been packaged as a `.fap` file, installing it is as easy as placing it inside the `apps` directory on your Flipper's SD card. You can launch the app from the `Applications` app. If the app hasn't been compiled into a `.fap`, either *kindly* ask the author or compile it yourself.
 
 ### How do I install custom firmwares?
 > First, ask yourself if you really need to. Sure, it might be fun to break out of Sub-GHz transmission restrictions, but how often are you actually going to do that? Is it really worth breaking the law?
-> After you've ignored the previous sentences, make sure there's a working MicroSD Card in your Flipper and head over to the repository of your perferred firmware. Look for releases and find the `.dfu` file or updater package (typically a `.tar` or `.zip` file, always contains a file named `update.fuf`).
+> After you've ignored the previous sentences, make sure there's a working MicroSD Card in your Flipper and head over to the repository of your perferred firmware. Look for releases and find the `.dfu` file or updater package (typically a `.tar` or `.zip` file, it always contains a file named `update.fuf`).
 > - If you only have a `.dfu`, it can be installed using the "Install from file" option in qFlipper. Select the file and begin the installation.
-> - If you have an updater package, extract and transfer the folder (not the original archive file) to the `update` folder on the SD Card (create if needed). Once transferred, go to the idle screen of the Flipper, press down to access the file browser, then left to view all folders. From there, open the `update` folder (typically at the bottom of the list) and find the folder you just transferred. Lastly, select the file named `update` and choose "Run in app" to install the firmware.
+> - If you have an updater package, extract and transfer the folder (not the original archive file) to the `update` folder on the SD Card (create the folder if it doesn't already exist). Once transferred, go to the desktop/idle screen of the Flipper, press down to access the file browser, then left to view all folders. From there, open the `update` folder (typically at the bottom of the list) and find the folder you just transferred. Lastly, select the file named `update` and choose "Run in app" to install the firmware.
 > 
 > If there was no pre-compiled update file/package, you'll have to build the firmware yourself. See the next question for details.
 > For more information, read the [official documentation](https://docs.flipperzero.one/basics/firmware-update).
 
-### How do I compile my own firmware/applications/assets?
-> *(WIP)*
+### How do I write/compile my own applications/plugins/firmware/assets?
+<blockquote>
+  <em>(The following is a summary of the <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md">official FBT docs</a>.)</em><br>
+  Since the introduction of <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md">Flipper Build Tool (FBT)</a>, this has become very easy! You should have a basic understanding of working on a command line before proceeding. The only prerequisite install is <a href="https://git-scm.com/downloads">Git</a>. You should also have an IDE installed, <a href="https://code.visualstudio.com/">VSCode</a> is recommended since the <a href="https://github.com/flipperdevices/flipperzero-firmware">firmware repo</a> has <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md#vscode-integration">config files</a> for it.
+  <details>
+    <summary>Expand me for the rest of the steps.</summary>
+    <em>(WIP, sorry to curb your enthusiasm.)</em>
+  </details>
+</blockquote>
   
 ### Can I make my own Flipper instead of buying one?
-> Probably not. While the firwmare and schematics are mostly public, actually sourcing the components is extremely difficult. Multiple core pieces, such as the screen, were specficially produced to be used in Flipper manufacturing.
+> Probably not. While the firmware and schematics are mostly public, actually sourcing the components is extremely difficult. Multiple core pieces, such as the screen, were specifically produced to be used in Flipper manufacturing.
   
-### How do I get a black-case Flipper?
-> This is no longer possible, they were Kickstarter-backer exclusives.
+### How do I get a black-shell Flipper?
+> This is no longer possible*, they were Kickstarter-backer exclusives.
+> (*No longer possible unless you're willing to shill out hundreds of dollars for one on eBay.)
   
 ### How do I invert the screen/change backlight color/change case cover, etc.
-> These are all hardware mods, inaccessible to the average user. Look up/ask around on how to do them.
+> These are all hardware mods, generally inaccessible to the average user. Look up/ask around on how to do them if you're really interested, [r/flipperzero](https://old.reddit.com/r/flipperzero/) is a good place to start.
 
 ### Will there be future hardware revisions?
-> [Not for the Flipper Zero.](https://discord.com/channels/740930220399525928/746304505879986267/1001167062728720395) While there are concepts for a [Flipper One](https://flipperzero.one/one), there is not any timeline for release.
+> Technically speaking, there's going to be a **very minor** hardware revision in the near future. Functionally speaking, it will be identical to every other Flipper Zero already sold. The revision only replaces a few internal components and doesn't offer any new features compared to existing devices, so don't bother waiting to buy it.
+> Besides that, there are concepts for a [Flipper One](https://flipperzero.one/one), but without a timeline for release.
 
-### What is DUMB mode?
-> It's a yet to be implimented mode that would hide all of the potentially malicious apps/features of Flipper.
+### What is Dummy Mode?
+> It's a work-in-progress feature that hides every app except games, in case your device is ever seized.
 
 ### My device is frozen, how do I reboot/fix it?
 > - To reboot the device: hold the BACK and LEFT buttons, then release simultaneously. If that didn't work, *disconnect the USB cable* and hold BACK for 30 seconds. This will preform a normal reboot.
@@ -178,9 +187,8 @@
 > Short answer: You don't. That's illegal, and NOT what Flipper was designed for.
 
 ### What does "This frequency can only be used for RX in your region" mean?
-> Due to legal regulations, Flipper is not allowed to transmit on certain frequencies depending on your order location.
-> For more information, referr to the [official documentation](https://docs.flipperzero.one/sub-ghz/frequencies) 
-> If you have no regard for laws, you can use custom firmwares such as Unleashed to bypass this restriction **at your own risk.**
+> Due to legal regulations, Flipper is not allowed to transmit on certain frequencies depending on your device's provisioned location.
+> Provisioning occurs whenever you update your firmware via qFlipper or the mobile app and is based on your rough location.
 
 ### How do I find the frequency of a device/transponder?
 > If it's a commonly used frequency, bring the device *really close* to the Flipper and use the Frequency analyzer.
@@ -188,7 +196,8 @@
 > Then, look up that ID on [FCC ID.io](https://fccid.io). 
 
 ### I can't tune Flipper to capture a specific frequency.
-> *(WIP)*
+> You'll need to edit the `setting_user` and `setting_frequency_analyzer_user` to change the frequencies available for selection in the app. The files are located in `subghz/assets` on the SD card.
+> Note that this won't magically unlock those frequencies, you're still bound by the device's limitations.
 
 ### I captured a garage/car/etc. signal, but it doesn't work when I replay it.
 > Unless the item of interest is extremely old, it probably uses rolling codes. Read more below.
@@ -209,6 +218,10 @@
 > Debruin sequences are more efficient by merging multiple codes together.
 > Example: 365, 136, and 650 can all be found in 13650 by looking at groups of 3 digits individually.
 
+### Can I attach a more powerful antenna?
+> Yes and no. You can't just attach any antenna directly via the GPIO pins, however you could use a separate processor on a protoboard and control it from Flipper, assuming you write your own code to do that.
+> For example, you could write your own code on a NRF24 and accompanying Flipper app to control it over GPIO. 
+
 
 
 ## NFC & RFID [🔝](#top)
@@ -224,12 +237,15 @@
 | NTAG-21X          | ✅    |       | ✅    | ✅     |                        |
 | NFC-B             |       |       |      | ❌      | No hardware support for emulation     |
 | iClass/PicoPass   | ✅    |       | ✅    | ❌      | No STM SDK support for emulation     |
-| EM4100/EM4102     | ✅    |       | ✅    | ✅      |                        |
-| H10301            | ✅    |       | ✅    | ✅      |                        |
-| Indala            | ✅    |       | ✅    | ✅      |                        |
-| T5577             | ✅    | ✅     | ✅   | ✅      |                        |
+| EM4100/EM4102     | ✅    | ❌     | ✅    | ✅      |                        |
+| H10301            | ✅    | ❌     | ✅    | ✅      |                        |
+| Indala            | ✅    | ❌     | ✅    | ✅      |                        |
+| T5577             | ✅    | ✅     | ✅    | ✅      |                        |
+| EM4305            | ✅    | ✅     | ✅    | ✅      |                        |
 | Paxton Net2       | ❌    | ❌     | ❌    | ❌      | Hitag2: no support     |
 | Legic Prime       | ❌    | ❌     | ❌    | ❌      | 13.56mhz, but proprietary|
+
+***Note:*** *While T5577 and EM4305's can be written, they are rarely handed out as ID badges.*
 
 ### How do I identify which type of card/tag I have?
 > To determine the protocol (NFC, RFID, or iClass/PicoPass) you'll need to attempt reading in each corresponding app. If nothing works, check the tag/card for any markings or indications. As a last resort, take a picture of the card/fob and the reader and ask in the [Flipper Discord server](https://flipperzero.one/discord).
@@ -239,22 +255,29 @@
 > Note that you've only read the card UID and type, *not the actual data.* For that you need to select the "Run compatible app" option.
 
 ### Why can't I write an NFC tag?
-> Currently unsupported, but is being worked on.
+> This will become possible in the near future with a firmware update.
 
-### Mifare Ultralight/NTAG was detected, but nothing happens when I'm trying to read the data.
-> This happens when the tag is password protected. There's no quick fix for this, but solutions are in the works.
+### I was told a Mifare Ultralight/NTAG tag has password-protected sectors. What does that mean?
+> Either the read was interrupted, or the tag is actually password protected.
+> First, try reading the tag again but make sure it stays on the back of the device until the info screen pops up.
+> If you're still seeing the warning, Flipper can unlock Amiibo and some Xaomi tags, but be warned that there's a risk of **bricking** your tag if you use the wrong password too many times.
 
 ### Why does it take so long to read a Mifare Classic?
-> Mifare classics are split up into sectors, these sectors are protected by two keys. To read a Mifare Classic, Flipper uses a dictionary attack, which takes a big list currently comprised of about 2000 common keys, and checks them individually against each sector on the card. If you know the keys, they can be manually added to the User Dictionary under the "Extra Actions" menu.
+> Mifare classics are split up into sectors, these sectors are protected by two keys. To read a Mifare Classic, Flipper uses a dictionary attack, which takes a big list currently comprised of 1241 common keys, and checks them individually against each sector on the card. If you know the keys, they can be manually added to the User Dictionary under the "Extra Actions" menu.
 
 ### What does it mean when no sectors could be read on a Mifare Classic?
-> The data on Mifare Classic cards is split up into sectors, and each section is protected by two keys.
-> The read has failed, meaning the card didn't use any common keys. If you have access to the card reader, [mfkey32v2](https://github.com/equipter/mfkey32v2) can be used to pull keys from it.
+> The data on Mifare Classic cards is split up into sectors, and each sector is protected by two keys.
+> If no sectors were read, then Flipper's dictionary attack has failed to find any valid keys.
+> If you know the keys, you can manually input them under the "Extra Actions" menu of the NFC app. Otherwise, try attacking the reader with mfkey32v2 as described a few questions down.
 
 ### What does it mean when some but not all sectors could be read on a Mifare Classic?
 > The data on Mifare Classic cards is split up into sectors, and each sector is protected by two keys.
 > The read wasn't successful, but it didn't fail either. Some of the card's data was read and saved, but not all.
-> Even if not all sectors were read, there's a slim chance a partial save will work with emulation.
+> Even if not all sectors were read, you should inspect the dump with the mobile app to see if the missing data is necessary or not. In a few rare cases, semi-read cards can be emulated in place of the original without issue.
+> If you still need the rest of the keys, read the next question.
+
+### How to I get Mifare Classic keys from a reader with [mfkey32v2](https://github.com/equipter/mfkey32v2)?
+> (WIP, Note to self: https://regex101.com/r/iXmE2N/2)
 
 ### Why isn't Mifare Classic emulation working?
 > There are a number of reasons, some of which can be fixed while others can't. The first thing you should check is that all sectors were read from the card. If not, look at the questions above.
@@ -274,7 +297,7 @@
 ### Why doesn't my bank card work when I emulate it?
 > EMV Credit/Debit cards are mostly encrypted. The information Flipper reads is the unencrypted portion of the card. This alone is not enough to emulate and complete a transaction. It is impossible to read the encrypted parts. 
 
-### Where is the "USB NFC Reader" feature mentioned in the [september blog post](https://blog.flipperzero.one/september-progress/)?
+### Where is the "USB/LibNFC NFC Reader" feature mentioned in the [September blog post](https://blog.flipperzero.one/september-progress/)?
 > This was scrapped due to timing issues, more details in [this GitHub issue](https://github.com/flipperdevices/flipperzero-firmware/issues/1173#issuecomment-1127728562).
 
 
@@ -294,4 +317,14 @@
 
 
 ## BadUSB [🔝](#top)
+> *(WIP)*
+
+
+
+## iButton [🔝](#top)
+> *(WIP)*
+
+
+
+## WiFi board [🔝](#top)
 > *(WIP)*
