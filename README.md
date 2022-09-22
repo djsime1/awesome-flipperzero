@@ -52,6 +52,7 @@
 - [`Web Flasher` Flash latest FW from your browser without qFlipper, also lets you paint](https://my.flipp.dev/)
 - [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/mfulz/Flipper-Plugin-Tutorial)
 - [`Spectrum analyzer` Sub-GHz frequency spectrum analyzer.](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer)
+- [`Doom` Doom Flipper Zero edition.](https://github.com/p4nic4ttack/doom-flipper-zero)
 - [`Tetris` A rudimentary Tetris game.](https://github.com/jeffplang/flipperzero-firmware/tree/tetris_game/applications/tetris_game)
 - [`Flappy Bird` The name says it all.](https://github.com/DroomOne/flipperzero-firmware/tree/dev/applications%2Fflappy_bird)
 - [`Mouse jiggler` Keeps PC screens on by acting as a moving mouse.](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler)
