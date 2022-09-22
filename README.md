@@ -1,6 +1,6 @@
 <hr>
 
-<a href="https://github.com/djsime1/awesome-flipperzero">
+<a href="https://github.com/RogueMaster/awesome-flipperzero-withModules">
   <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
 </a>
 
@@ -19,7 +19,7 @@
   <td>
     <h3 align="center">
     👋 New to Flipper Zero? Got questions?<br>
-    Check out the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md">FAQ Document</a>❗
+    Check out the <a href="https://github.com/RogueMaster/awesome-flipperzero-withModules/blob/rogue_main/FAQ.md">FAQ Document</a>❗
     </h3>
   </td>
   <td>
@@ -137,7 +137,6 @@
 <hr>
 <h3 align="center">Want to make changes?</h3>
 <div align="center">
-  You can <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
-  or <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">Start a discussion</a></kbd> with your ideas.<br>
-  Read the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md#meta-">Meta FAQ section</a> for more info.
+  You can <kbd><a href="https://github.com/RogueMaster/awesome-flipperzero-withModules/edit/rogue_main/README.md">Edit this file</a></kbd> and open a Pull Request.<br>
+  Read the <a href="https://github.com/RogueMaster/awesome-flipperzero-withModules/blob/rogue_main/FAQ.md#meta-">Meta FAQ section</a> for more info.
 </div>
