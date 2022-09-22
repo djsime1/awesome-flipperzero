@@ -46,7 +46,6 @@
 - [`Generic BadUSB Payloads` Hak5 Duckyscript payloads.](https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads)
 - [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 - [`FlipperZero-Goodies` Intercom keys, scripts, etc.](https://github.com/wetox-team/flipperzero-goodies)
-- [`irplus database` Ripped from irplus App.](https://github.com/sasiplavnik/Flipper-IRDB)
 - [`T119 bruteforcer` Triggers Retekess T119 restaurant pagers.](https://github.com/xb8/t119bruteforcer)
 - [`flipperzero-bruteforce` Generate `.sub` files to brute force subghz OOK.](https://github.com/tobiabocchi/flipperzero-bruteforce)
 
@@ -54,7 +53,7 @@
 
 <table align="right">
   <tr><th><strong>OwO whats this?</strong></th></tr>
-  <tr><td>✨ <em>This section will be succeeded by<br><a href="https://github.com/flipper-aquarium">Aquarium</a> once SD-Card apps are released.</em></td></tr>
+  <tr><td>✨ <em>This section will be succeeded by<br><a href="https://github.com/flipper-aquarium">Aquarium</a> in the near future.</em></td></tr>
 </table>
 
 - [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/mfulz/Flipper-Plugin-Tutorial)
@@ -67,6 +66,7 @@
 - [`UPC-A Barcode Generator` Can be used to create any UPC-A barcode.](https://github.com/McAzzaMan/flipperzero-firmware/tree/UPC-A_Barcode_Generator/applications/barcode_generator)
 - [`Sentry Safe` Plugin that can open any Sentry Safe and Master Lock electronic safe without entering pin code.](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin)
 - [`Dec/Hex Converter` Small "real time" decimal/hexadecimal converter.](https://github.com/theisolinearchip/flipperzero_stuff/tree/main/applications/dec_hex_converter)
+- [`MultiConverter` Multi-unit converter that can be easily expanded with new units and conversion methods.](https://github.com/theisolinearchip/flipperzero_stuff/tree/main/applications/multi_converter)
 
 ## Firmwares & Tweaks
 
@@ -95,6 +95,9 @@
 - [`WiFi DSTIKE Deauther` Preforms WiFi deauth attacks via a custom ESP8266 module board.](https://github.com/SequoiaSan/FlipperZero-Wifi-ESP8266-Deauther-Module)
 - [`WiFi Deauther Module Flasher` Web flasher for module firmware above.](https://sequoiasan.github.io/FlipperZero-Wifi-ESP8266-Deauther-Module/)
 - [`Skadis holder` Flipper Zero holder for Ikea Skadis.](https://www.thingiverse.com/thing:5434476)
+- [`Flipper Zero Boards` ESP32 and NRF24 daughterboards for the Flipper.](https://github.com/DrB0rk/Flipper-Zero-Boards)
+- [`Flipper Zero Car Mount` Uses foam from the original box.](https://www.thingiverse.com/thing:5464899)
+- [`Soft TPU cover` Similar to the official silicone case.](https://www.printables.com/en/model/272676-soft-tpu-flipper-zero-cover)
 
 ## Off-device & Debugging
 - [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams.](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55)
@@ -116,11 +119,6 @@
 - [`musicxml2fmf` Converts MusicXML files to Flipper Music Format.](https://github.com/white-gecko/musicxml2fmf)
 
 ## Notes & References
-<table align="right">
-  <tr><th><strong>Important notice.</strong></th></tr>
-  <tr><td>⚠️ <em>The Flipper team <a href="https://github.com/flipperdevices/flipperzero-firmware/pull/1269">recently changed</a><br>how the firmware is built. Some docs<br>and tutorials may be outdated!</em></td></tr>
-</table>
-
 - [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
 - [`Official firmware recovery guide` How to troubleshoot firmware issues.](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
 - [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md)
@@ -145,9 +143,5 @@
 <div align="center">
   You can <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
   or <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">Start a discussion</a></kbd> with your ideas.<br>
-  <em>(A GitHub account is required for both)</em>
-    <details>
-        <summary><em>Why so many umerged pull requests?</em></summary>
-        If there's multiple small pull requests open at the same time, I'll often merge them together as a single update. Due to the way GitHub works, I'm unable to mark them as merged when I do this. To compensate, I include the contributors as co-authors on the commit, and mention the Pull Request ID's as part of the update message.
-  </details>
+  Read the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md#meta-">Meta FAQ section</a> for more info.
 </div>
