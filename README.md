@@ -51,9 +51,9 @@
 
 ## Applications & Plugins
 
-<table align="right">
-  <tr><th><strong>OwO whats this?</strong></th></tr>
-  <tr><td>✨ <em>This section will be succeeded by<br><a href="https://github.com/flipper-aquarium">Aquarium</a> in the near future.</em></td></tr>
+<table align="center">
+  <tr><th><h3 align="center">📞 Calling all app developers! ✨</h3></th></tr>
+  <tr><td><em align="center">Interested in publishing your app on <a href="https://github.com/flipper-aquarium">Aquarium</a> in the near future? <a href="https://dj.je">Get in contact with me!</a></em></td></tr>
 </table>
 
 - [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/mfulz/Flipper-Plugin-Tutorial)

@@ -74,6 +74,23 @@
 > If there was no pre-compiled update file/package, you'll have to build the firmware yourself. See the next question for details.
 > For more information, read the [official documentation](https://docs.flipperzero.one/basics/firmware-update).
 
+### Where and when are developer Q&A sessions held?
+> Question and Answer session are held every week on Saturday, at 01:00 and 13:00 (GMT)
+> 
+> | Time zone      | Side A  |  Side B |
+> | :------------: | :-----: | :-----: |
+> | GMT/UTC        | 01:00   | 13:00   |
+> | Pacific (PDT)  | 6:00 PM | 6:00 AM |
+> | Mountain (MDT) | 7:00 PM | 7:00 AM |
+> | Central (CDT)  | 8:00 PM | 8:00 AM |
+> | Eastern (EDT)  | 9:00 PM | 9:00 AM |
+> | China Standard | 09:00   | 21:00   |
+> | India Standard | 06:30   | 18:30   |
+
+### Are there archives of past Q&A sessions?
+> Archival is a community effort, so only some are available.
+> [https://github.com/flipperdevices/flipper-questions-and-answers](https://github.com/flipperdevices/flipper-questions-and-answers)
+
 ### How do I write/compile my own applications/plugins/firmware/assets?
 <blockquote>
   <em>(The following is a summary of the <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md">official FBT docs</a>.)</em><br>
@@ -280,9 +297,9 @@
 > (WIP, Note to self: https://regex101.com/r/iXmE2N/2)
 
 ### Why isn't Mifare Classic emulation working?
-> There are a number of reasons, some of which can be fixed while others can't. The first thing you should check is that all sectors were read from the card. If not, look at the questions above.
-> On the hardware side: Mifare Classic emulation is handled by the CPU, except the clock cycle can't conform to the exact (and strict) timings that these tags communicate with.
-> On the software side: Some rarely used card commands (counters, restore, and transfer) haven't been implimented, thus they will always fail during emulation.
+> Flipper emulates Mifare Classics according to official specification docs (at 13.56 mhz), however certain card readers operate at slightly different frequencies (such as 13.50 mhz). Since Flipper is unable to detect the frequency (like a real card does), it also can't correct for these minor errors.
+> As a result, data transmission doesn't always occur when the reader expects it, and thus emulation is imperfect.
+> There are a few theoretical ways to fix this with software, but the best option would require hardware modification.
 
 ### Why can't I save/emulate Mifare DESFire?
 > DESFire is a very complicated and much more secure chipset. There are no known attacks against it yet.

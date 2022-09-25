@@ -1,5 +1,3 @@
-<em>(Adapted from <a href="discord.com/users/597435984925294620">Nano&#39;s</a> <a href="https://discord.com/channels/937479784148115456/937489970007003166/970666146804170792">original</a> <a href="https://discord.com/channels/937479784148115456/937489970007003166/970666162247581806">messages</a> in the Unleashed firmware Discord.)</em>
-
 <h1>Flipper Zero firmware differences</h1>
 <h3>
   <code>::</code> Last updated Aug 3 2022. <code>::</code>
