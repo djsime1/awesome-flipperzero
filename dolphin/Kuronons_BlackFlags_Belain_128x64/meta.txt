@@ -1,0 +1,68 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 30
+Active frames: 120
+Frames order: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 29 29 30 30 29 29 29 29 30 30 31 31 31 31 31 31 31 31 31 31 31 31 31 31 30 30 32 32 32 32 32 32 32 32 32 32 32 32 32 32 30 30 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 33 34 34 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 35 34 34 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 36 30 30 0 0
+Active cycles: 1
+Frame rate: 4
+Duration: 600
+Active cooldown: 5
+
+Bubble slots: 1
+
+Slot: 0
+X: 5
+Y: 12
+Text: Black flag in sight !!
+AlignH: Left
+AlignV: Bottom
+StartFrame: 43
+EndFrame: 49
+
+Slot: 0
+X: 80
+Y: 48
+Text: Pirates...
+AlignH: Right
+AlignV: Center
+StartFrame: 50
+EndFrame: 56
+
+Slot: 0
+X: 5
+Y: 12
+Text: Is that a scallop shell... ?
+AlignH: Left
+AlignV: Bottom
+StartFrame: 59
+EndFrame: 65
+
+Slot: 0
+X: 5
+Y: 12
+Text: This flag, it's...
+AlignH: Left
+AlignV: Bottom
+StartFrame: 75
+EndFrame: 80
+
+Slot: 0
+X: 5
+Y: 12
+Text: Belain d'Esnambuc !
+AlignH: Left
+AlignV: Bottom
+StartFrame: 81
+EndFrame: 88
+
+Slot: 0
+X: 54
+Y: 48
+Text: We're cooked...
+AlignH: Right
+AlignV: Center
+StartFrame: 89
+EndFrame: 96

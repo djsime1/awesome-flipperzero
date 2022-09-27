@@ -1,0 +1,23 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 7
+Active frames: 13
+Frames order: 13 12 11 10 9 8 7 6 5 4 3 2 1 0 1 2 3 4 3 2
+Active cycles: 1
+Frame rate: 5 
+Duration: 3600
+Active cooldown: 1
+
+Bubble slots: 1
+
+Slot: 0
+X: 45
+Y: 50
+Text: Look at you Hacker!
+AlignH: Left
+AlignV: Center
+StartFrame: 10
+EndFrame: 13

@@ -1,0 +1,41 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 8
+Active frames: 4
+Frames order: 0 1 2 3 4 2 3 4 5 6 7 6
+Active cycles: 2
+Frame rate: 2
+Duration: 3600
+Active cooldown: 7
+
+Bubble slots: 2
+
+Slot: 0
+X: 22
+Y: 40
+Text: I miss you
+AlignH: Right
+AlignV: Bottom
+StartFrame: 9
+EndFrame: 11
+
+Slot: 0
+X: 17
+Y: 40
+Text: my friend...
+AlignH: Right
+AlignV: Bottom
+StartFrame: 12
+EndFrame: 15
+
+Slot: 1
+X: 2
+Y: 29
+Text: Why are you\nalways away?
+AlignH: Right
+AlignV: Bottom
+StartFrame: 9
+EndFrame: 15

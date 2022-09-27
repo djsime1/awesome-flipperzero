@@ -1,0 +1,32 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 3
+Active frames: 2
+Frames order: 0 1 2 3 4
+Active cycles: 4
+Frame rate: 2
+Duration: 3600
+Active cooldown: 7
+
+Bubble slots: 1
+
+Slot: 0
+X: 22
+Y: 25
+Text: Mess with\nthe best,
+AlignH: Right
+AlignV: Center
+StartFrame: 4
+EndFrame: 7
+
+Slot: 0
+X: 31
+Y: 25
+Text: die like\nthe rest.
+AlignH: Right
+AlignV: Center
+StartFrame: 8
+EndFrame: 10
