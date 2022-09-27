@@ -11,26 +11,31 @@
       <td>
         <strong>Jump to:</strong>
       </td>
-      <td><a href="#official">Official</a></td>
-      <td><a href="#unleashed">Unleashed</a></td>
       <td><a href="#plugins">RogueMaster</a></td>
+      <td><a href="#unleashed">Unleashed</a></td>
+      <td><a href="#official">Official</a></td>
       <td><a href="#v1nc">v1nc</a></td>
       <td><a href="#wetox">Wetox</a></td>
       <td><a href="#muddledbox">MuddledBox</a></td>
       <td><a href="#summary">Summary (TL;DR)</a></td>
     </tr></table>
-<h2 id="official">Official <kbd>
-    <a href="https://github.com/flipperdevices/flipperzero-firmware">flipperdevices/flipperzero-firmware</a>
+
+<h2 id="plugins">RogueMaster <kbd>
+    <a href="https://github.com/RogueMaster/flipperzero-firmware-wPlugins">RogueMaster/flipperzero-firmware-wPlugins</a>
   </kbd>
 </h2>
 <ul>
-  <li>Has region-locked Sub-GHz transmission because of legal limitations.</li>
-  <li>Has no ability to save and send rolling codes (dynamic encrypted) in Sub-GHz, only shows them in captured list.
-  </li>
-  <li>Factory-set device name that shows everywhere (Bluetooth broadcast, USB connection, etc) that cannot be changed.</li>
-  <ul>
-    <li><em>The Flipper team has a list of device names with their corresponding production information <a href="https://discord.com/channels/740930220399525928/765282833744265246/971881286543224852">(No shipping address)</a> so they can assist you easier in case of an RMA.</em></li>
-  </ul>
+  <li>Built off Unleashed as the base firmware (which is a fork of Official dev firmware.)</li>
+  <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
+    <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
+  <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
+  <li>Adds extra custom assets <em>(Mifare classic dict, example files, etc)</em>.</li>
+  <li>Includes some PRs from Official firmware that are not yet merged in Official firmware <em>(bleeding edge)</em>.</li>
+  <li>Includes a number of games, some experimental only, as well as "Games Only Mode" (aka Dumb Mode).</li>
+  <li>Includes an enhanced, but experimental, new "Dolphin Level" system.</li>
+  <li>Has added most known community tweaks, plugins & games (some may be unstable or incomplete.)</li>
+  <li>Also includes a number of other small tweaks and changes.</li>
+  <ul><li>More details and full list in their <a href="https://github.com/RogueMaster/flipperzero-firmware-wPlugins#readme">README</a>.</li></ul>
 </ul>
 <h2 id="unleashed">Unleashed <kbd>
     <a href="https://github.com/Eng1n33r/flipperzero-firmware">Eng1n33r/flipperzero-firmware</a>
@@ -49,22 +54,18 @@
   <li>Comes with proven-stable extra apps and plugins from the general community.
   <ul><li>More details and full list of changes can be found in their <a href="https://github.com/Eng1n33r/flipperzero-firmware#readme">README</a>.</li></ul>
 </ul>
-<h2 id="plugins">RogueMaster <kbd>
-    <a href="https://github.com/RogueMaster/flipperzero-firmware-wPlugins">RogueMaster/flipperzero-firmware-wPlugins</a>
+<h2 id="official">Official <kbd>
+    <a href="https://github.com/flipperdevices/flipperzero-firmware">flipperdevices/flipperzero-firmware</a>
   </kbd>
 </h2>
 <ul>
-  <li>Built off Unleashed as the base firmware (which is a fork of Official dev firmware.)</li>
-  <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
-    <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
-  <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
-  <li>Adds extra custom assets <em>(Mifare classic dict, example files, etc)</em>.</li>
-  <li>Includes some PRs from Official firmware that are not yet merged in Official firmware <em>(bleeding edge)</em>.</li>
-  <li>Includes a number of games, some experimental only, as well as "Games Only Mode" (aka Dumb Mode).</li>
-  <li>Includes an enhanced, but experimental, new "Dolphin Level" system.</li>
-  <li>Has added most known community tweaks, plugins & games (some may be unstable or incomplete.)</li>
-  <li>Also includes a number of other small tweaks and changes.</li>
-  <ul><li>More details and full list in their <a href="https://github.com/RogueMaster/flipperzero-firmware-wPlugins#readme">README</a>.</li></ul>
+  <li>Has region-locked Sub-GHz transmission because of legal limitations.</li>
+  <li>Has no ability to save and send rolling codes (dynamic encrypted) in Sub-GHz, only shows them in captured list.
+  </li>
+  <li>Factory-set device name that shows everywhere (Bluetooth broadcast, USB connection, etc) that cannot be changed.</li>
+  <ul>
+    <li><em>The Flipper team has a list of device names with their corresponding production information <a href="https://discord.com/channels/740930220399525928/765282833744265246/971881286543224852">(No shipping address)</a> so they can assist you easier in case of an RMA.</em></li>
+  </ul>
 </ul>
 <h2 id="v1nc">v1nc <kbd>
     <a href="https://github.com/v1nc/flipperzero-firmware">v1nc/flipperzero-firmware</a>
