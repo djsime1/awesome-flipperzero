@@ -3,6 +3,7 @@
 - Assets: Includes New Dolphin Animations: [School Days, Whistper of the Heart and The Legend of Zelda (By stop_oxy]
 - Assets: Includes New Dolphin Animations: [Rogue Master Custom Firmware (By Sasquach)]
 - Assets: Includes New Dolphin Animations: [Veemon (By felix-two-tone)]
+- Assets: Includes New Dolphin Animations: [G0ku (By Sasquach)]
 
 
 ## Some Previews Provided By Creators:
