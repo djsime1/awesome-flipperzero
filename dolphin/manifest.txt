@@ -1,6 +1,27 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
+Name: RM_P3achRun_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM_AikaZer0_2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM_AikaZer0_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
 Name: RM_Z3lda_R3ady_128x64
 Min butthurt: 0
 Max butthurt: 14

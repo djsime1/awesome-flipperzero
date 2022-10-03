@@ -4,6 +4,7 @@
 - Assets: Includes New Dolphin Animations: [Rogue Master Custom Firmware (By Sasquach)]
 - Assets: Includes New Dolphin Animations: [Veemon (By felix-two-tone)]
 - Assets: Includes New Dolphin Animations: [G0ku (By Sasquach)]
+- Assets: Includes New Dolphin Animations: [Aika Zer0, Aika Zer0 2 & P3ach Run (By RogueMaster)] (hidden)
 
 
 ## Some Previews Provided By Creators:
