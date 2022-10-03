@@ -5,6 +5,7 @@
 - Assets: Includes New Dolphin Animations: [Veemon (By felix-two-tone)]
 - Assets: Includes New Dolphin Animations: [G0ku (By Sasquach)]
 - Assets: Includes New Dolphin Animations: [Aika Zer0, Aika Zer0 2, Kaz0ku Haha & P3ach Run (By RogueMaster)] (hidden)
+- Assets: Includes New Dolphin Animations: [CloudG0ku (By Sasquach)]
 
 
 ## Some Previews Provided By Creators:
