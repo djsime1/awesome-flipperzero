@@ -71,6 +71,7 @@
 - [`bpm-tapper` Tap along to a song to measure beats per minute.](https://github.com/panki27/bpm-tapper)
 - [`Metronome` Musical metronome.](https://github.com/panki27/Metronome)
 - [`USB Keyboard` A refactor of the BT remote to work over USB. Allows the Flipper to act as an USB HID keyboard.](https://github.com/huuck/FlipperZeroUSBKeyboard)
+- [`Minesweeper` Minesweeper implementation.](https://github.com/panki27/minesweeper)
 
 ## Firmwares & Tweaks
 

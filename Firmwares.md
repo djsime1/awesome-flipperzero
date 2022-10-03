@@ -72,7 +72,7 @@
 </h2>
 <ul>
   <li>Supports different keyboard layouts for Duckyscripts via the script keyword <code>DUCKY_LANG</code></li>
-  <li>Up to date fork of the Unleashed firmware</li>
+  <li>Out of date with upstream Unleashed firmware</li>
   <li>Includes community plugins & games </li>
 </ul>
 <h2 id="wetox">Wetox <kbd>
@@ -90,7 +90,7 @@
   </kbd>
 </h2>
 <ul>
-  <li><b>Abandoned. Not updated for more than 2 months.</b></li>
+  <li>The first 'custom firmware', nowadays abandoned.</li>
   <li>Removes Sub-GHz regional transmission restrictions.</li>
   <li>Adds self-promo images to about page in settings.</li>
   <li>Adds a few extra common Sub-GHz frequencies to capture on.</li>
@@ -102,4 +102,5 @@
   <li>MuddledBox was the first popular firmware fork, but didn't grow up.</li>
   <li>Unleashed is more focused on core functionality, stability, and Sub-GHz protocols.</li>
   <li>RogueMaster has more community plugins, visual tweaks, games, and changes (some experimental).</li>
+  <li>RogueMaster is based on Unleashed, but may be less stable than Unleashed in some circumstances.</li>
 </ul>
