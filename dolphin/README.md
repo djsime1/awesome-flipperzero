@@ -6,6 +6,8 @@
 - Assets: Includes New Dolphin Animations: [G0ku (By Sasquach)]
 - Assets: Includes New Dolphin Animations: [Aika Zer0, Aika Zer0 2, Kaz0ku Haha & P3ach Run (By RogueMaster)] (hidden)
 - Assets: Includes New Dolphin Animations: [CloudG0ku (By Sasquach)]
+- Assets: Includes New Dolphin Animations: [BulmFlash, G0ku Pat Pat and Sail0rM00n (By RogueMaster)] (hidden)
+- Assets: Includes New Dolphin Animations: [ChiChi, G0ku Pew and R0shi (By RogueMaster)]
 
 
 ## Some Previews Provided By Creators:

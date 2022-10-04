@@ -1,6 +1,27 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
+Name: RM_G0kuPatPat_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM_Sail0rM00n_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM_BulmFlash_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 18
+Max level: 30
+Weight: 0
+
 Name: RM_Kaz0ku_Haha_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -42,6 +63,27 @@ Max butthurt: 14
 Min level: 18
 Max level: 30
 Weight: 0
+
+Name: RM_G0kuPew_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM_ChiChi_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM_R0shi_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 7
 
 Name: RM_Tardi5_128x64
 Min butthurt: 0
