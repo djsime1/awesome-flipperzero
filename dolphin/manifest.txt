@@ -64,6 +64,13 @@ Min level: 18
 Max level: 30
 Weight: 0
 
+Name: Sasquach_Naruto_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: RM_G0kuPew_128x64
 Min butthurt: 0
 Max butthurt: 5

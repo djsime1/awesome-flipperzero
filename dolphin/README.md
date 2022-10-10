@@ -8,6 +8,7 @@
 - Assets: Includes New Dolphin Animations: [CloudG0ku (By Sasquach)]
 - Assets: Includes New Dolphin Animations: [BulmFlash, G0ku Pat Pat and Sail0rM00n (By RogueMaster)] (hidden)
 - Assets: Includes New Dolphin Animations: [ChiChi, G0ku Pew and R0shi (By RogueMaster)]
+- Assets: Includes New Dolphin Animations: [Narut0 (By Sasquach)]
 
 
 ## Some Previews Provided By Creators:
