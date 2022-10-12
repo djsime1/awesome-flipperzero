@@ -1,11 +1,11 @@
 <h1>Flipper Zero firmware differences</h1>
 <h3>
-  <code>::</code> Last updated Aug 3 2022. <code>::</code>
+  <code>::</code> Last updated Oct 12 2022. <code>::</code>
 </h3>
 <p>This document will <em>(hopefully)</em> maintain a list of differences between various forks of the <a
     href="#official">Flipper Zero firmware</a>. <br>If I had a dollar for every time I&#39;ve seen this question asked,
   I wouldn&#39;t be in college debt. ¯\_(ツ)_/¯ <br>Also consider checking out the <a
-    href="https://github.com/djsime1/awesome-flipperzero">Awesome Flipper Zero list</a>, and my <a
+    href="https://github.com/djsime1/awesome-flipperzero">Awesome Flipper Zero list</a> and my <a
     href="https://gist.github.com/djsime1/73adaaf24f20b8bb70c4d4854431b0f1">rant about the two types of Flipper users</a>. </p>
     <table><tr>
       <td>
@@ -33,7 +33,7 @@
   </ul>
 </ul>
 <h2 id="unleashed">Unleashed <kbd>
-    <a href="https://github.com/Eng1n33r/flipperzero-firmware">Eng1n33r/flipperzero-firmware</a>
+    <a href="https://github.com/DarkFlippers/unleashed-firmware">DarkFlippers/unleashed-firmware</a>
   </kbd>
 </h2>
 <ul>
@@ -42,12 +42,12 @@
   <li>Removes Sub-GHz regional transmission restrictions by default.</li>
   <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>dangerous_settings</em> file.</li>
   <li>Adds extra Sub-GHz frequencies by default through Official <em>setting_user</em> file.</li>
-  <li>Adds extra Mifare classic keys.</li>
+  <li>Adds extra Mifare classic keys to included dict file and leaves user file untouched.</li>
   <li>Can be used to capture and send dynamic encrypted protocols/rolling codes. <em>(Modern garage doors, etc.)</em></li>
   <li>Encrypted Sub-GHz signals and codes can be added manually.</li>
-  <li>Current modified and new Sub-GHz protocols list <a href="https://github.com/Eng1n33r/flipperzero-firmware#current-modified-and-new-subghz-protocols-list">can be found here</a>.</li>
-  <li>Comes with proven-stable extra apps and plugins from the general community.
-  <ul><li>More details and full list of changes can be found in their <a href="https://github.com/Eng1n33r/flipperzero-firmware#readme">README</a>.</li></ul>
+  <li>Current modified and new Sub-GHz protocols list <a href="https://github.com/DarkFlippers/unleashed-firmware#current-modified-and-new-subghz-protocols-list">can be found here</a>.</li>
+  <li>Comes with extra apps and plugins from the general community through SD Application loader (FAP files).
+  <ul><li>More details and full list of changes can be found in their <a href="https://github.com/DarkFlippers/unleashed-firmware#readme">README</a>.</li></ul>
 </ul>
 <h2 id="plugins">RogueMaster <kbd>
     <a href="https://github.com/RogueMaster/flipperzero-firmware-wPlugins">RogueMaster/flipperzero-firmware-wPlugins</a>
@@ -60,10 +60,10 @@
   <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
   <li>Adds extra custom assets <em>(Mifare classic dict, example files, etc)</em>.</li>
   <li>Includes some PRs from Official firmware that are not yet merged in Official firmware <em>(bleeding edge)</em>.</li>
-  <li>Includes a number of games, some experimental only, as well as "Games Only Mode" (aka Dumb Mode).</li>
+  <li>Includes experimental "Games Only Mode" (aka Dumb Mode).</li>
   <li>Includes an enhanced, but experimental, new "Dolphin Level" system.</li>
-  <li>Has added most known community tweaks, plugins & games (some may be unstable or incomplete.)</li>
-  <li>Also includes a number of other small tweaks and changes.</li>
+  <li>Includes extra apps and plugins from the general community through SD Application loader (FAP files).</li>
+  <li>Also includes a number of other small tweaks, changes, and a ton of additional animations.</li>
   <ul><li>More details and full list in their <a href="https://github.com/RogueMaster/flipperzero-firmware-wPlugins#readme">README</a>.</li></ul>
 </ul>
 <h2 id="v1nc">v1nc <kbd>
@@ -71,9 +71,9 @@
   </kbd>
 </h2>
 <ul>
-  <li>Supports different keyboard layouts for Duckyscripts via the script keyword <code>DUCKY_LANG</code></li>
-  <li>Out of date with upstream Unleashed firmware</li>
-  <li>Includes community plugins & games </li>
+  <li>Supports different keyboard layouts for Duckyscripts via the script keyword <code>DUCKY_LANG</code>.</li>
+  <li>Out of date with upstream Unleashed firmware, appears to not be maintained.</li>
+  <li>Includes some integrated community plugins & games but not updated FAP loader.</li>
 </ul>
 <h2 id="wetox">Wetox <kbd>
     <a href="https://github.com/wetox-team/flipperzero-firmware">wetox-team/flipperzero-firmware</a>
@@ -101,6 +101,6 @@
   <li>TX restriction removal is illegal in most circumstances, use at your own risk.</li>
   <li>MuddledBox was the first popular firmware fork, but didn't grow up.</li>
   <li>Unleashed is more focused on core functionality, stability, and Sub-GHz protocols.</li>
-  <li>RogueMaster has more community plugins, visual tweaks, games, and changes (some experimental).</li>
+  <li>RogueMaster is more focused on visual tweaks, new items, and changes (some experimental).</li>
   <li>RogueMaster is based on Unleashed, but may be less stable than Unleashed in some circumstances.</li>
 </ul>
