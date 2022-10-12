@@ -56,7 +56,8 @@
   <tr><td><em align="center">Interested in publishing your app on <a href="https://github.com/flipper-aquarium">Aquarium</a> in the near future? <a href="https://dj.je">Get in contact with me!</a></em></td></tr>
 </table>
 
-- [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/mfulz/Flipper-Plugin-Tutorial)
+- [`SD Load Applications` Prebuilt applications (FAP) for popular firmware options.](https://github.com/UberGuidoZ/Flipper/tree/main/Applications)
+- [`Flipper-Plugin-Tutorial` Updated plugin tutorial based on new build methods.](https://github.com/csBlueChip/FlipperZero_plugin_howto)
 - [`Spectrum analyzer` Sub-GHz frequency spectrum analyzer.](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer)
 - [`Tetris` A rudimentary Tetris game.](https://github.com/jeffplang/flipperzero-firmware/tree/tetris_game/applications/tetris_game)
 - [`Flappy Bird` The name says it all.](https://github.com/DroomOne/flipperzero-firmware/tree/dev/applications%2Fflappy_bird)
@@ -80,8 +81,8 @@
   <tr><td>🔰 <em><a href="https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md">Click here</a> for a feature<br>comparison of these firmwares!</em></td></tr>
 </table>
 
-- [`Unleashed` Frequency-unlocked firmware with rolling codes support & community plugins.](https://github.com/Eng1n33r/flipperzero-firmware)
-- [`RogueMaster` Unleashed + Official FW fork with assorted community plugins, tweaks, & games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
+- [`Unleashed` Unlocked firmware with rolling codes support & community plugins, stable tweaks, and games.](https://github.com/DarkFlippers/unleashed-firmware)
+- [`RogueMaster` Fork of Unleashed firmware with custom graphics, experimental tweaks, community plugins and games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 - [`v1nc flipper zero firmware` Unleashed fork with support for different Duckyscript keyboard layouts & community plugins](https://github.com/v1nc/flipperzero-firmware)
 - [`Wetox` Very similar to the official branch, with a few small tweaks.](https://github.com/wetox-team/flipperzero-firmware)
 - [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
@@ -105,6 +106,7 @@
 - [`Soft TPU cover` Similar to the official silicone case.](https://www.printables.com/en/model/272676-soft-tpu-flipper-zero-cover)
 
 ## Off-device & Debugging
+- [`Official Web Interface` Web interface to interact with Flipper, including Paint and SUB/IR analyzer.](https://my.flipp.dev/)
 - [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams.](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55)
 - [`csv2ir` Script to convert IRDB CSV's to Flipper .ir files.](https://github.com/Spexivus/csv2ir)
 - [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
@@ -129,6 +131,7 @@
 - [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
 - [`Official firmware recovery guide` How to troubleshoot firmware issues.](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
 - [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md)
+- [`Flipper Zero Dimensions` Basic info on screen and case dimensions.](https://github.com/UberGuidoZ/Flipper/tree/main/FlipperZero_Dimensions)
 - [`Flipper Zero Hacking 101` Guides with screenshots, files, and general help.](https://flipper.pingywon.com/)
 - [`Reset forgotten PIN` How to reset your device's PIN code.](https://gist.github.com/djsime1/18d73b981249859f17aab3e2bfd2b600)
 - [`Atmanos Flipper Software Docs` Flipper development tutorials and information.](https://flipper.atmanos.com/docs/overview/intro)
