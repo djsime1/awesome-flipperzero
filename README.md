@@ -73,6 +73,7 @@
 - [`USB Keyboard` A refactor of the BT remote to work over USB. Allows the Flipper to act as an USB HID keyboard.](https://github.com/huuck/FlipperZeroUSBKeyboard)
 - [`Minesweeper` Minesweeper implementation.](https://github.com/panki27/minesweeper)
 - [`SD Load Applications` Prebuilt applications (FAP) for popular firmware options.](https://github.com/UberGuidoZ/Flipper/tree/main/Applications)
+- [`Tuning Fork` Use your flipper as a tuning fork](https://github.com/besya/flipperzero-tuning-fork)
 
 ## Firmwares & Tweaks
 
