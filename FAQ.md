@@ -11,8 +11,8 @@
     <td><a href="#nfc--rfid-">NFC & RFID</a></td>
     <td><a href="#infrared-">Infrared</a></td>
     <td><a href="#badusb-">BadUSB</a></td>
-    <td>iButton</td>
-    <td>WiFi board</td>
+    <td><a href="#ibutton-">iButton</a></td>
+    <td><a href="#wifi-board-">WiFi board</a></td>
   </tr>
 <table>
 
@@ -67,9 +67,10 @@
 
 ### How do I install custom firmwares?
 > First, ask yourself if you really need to. Sure, it might be fun to break out of Sub-GHz transmission restrictions, but how often are you actually going to do that? Is it really worth breaking the law?
-> After you've ignored the previous sentences, make sure there's a working MicroSD Card in your Flipper and head over to the repository of your perferred firmware. Look for releases and find the `.dfu` file or updater package (typically a `.tar` or `.zip` file, it always contains a file named `update.fuf`).
-> - If you only have a `.dfu`, it can be installed using the "Install from file" option in qFlipper. Select the file and begin the installation.
-> - If you have an updater package, extract and transfer the folder (not the original archive file) to the `update` folder on the SD Card (create the folder if it doesn't already exist). Once transferred, go to the desktop/idle screen of the Flipper, press down to access the file browser, then left to view all folders. From there, open the `update` folder (typically at the bottom of the list) and find the folder you just transferred. Lastly, select the file named `update` and choose "Run in app" to install the firmware.
+> After you've ignored the previous sentences, make sure there's a working MicroSD Card in your Flipper and head over to the repository of your perferred firmware. Look for releases and find the `.dfu` file or update package (typically a `.tar`, `.tar.gz`, or `.zip` file, it always contains a file named `update.fuf`).
+> - If you only have a `.dfu`, it must be installed using the "Install from file" option in qFlipper. Select the file and begin the installation.
+> - If you have an update package, you can either install it with qFlipper, or install it manually through the Micro SD card by following the steps below.
+> - To manually install an update package, extract and transfer the folder (not the original archive file) to the `update` folder on the SD Card (create the folder if it doesn't already exist). Once transferred, go to the desktop/idle screen of the Flipper, press down to access the file browser, then left to view all folders. From there, open the `update` folder (typically at the bottom of the list) and find the folder you just transferred. Lastly, select the file named `update` and choose "Run in app" to install the firmware.
 > 
 > If there was no pre-compiled update file/package, you'll have to build the firmware yourself. See the next question for details.
 > For more information, read the [official documentation](https://docs.flipperzero.one/basics/firmware-update).
@@ -116,7 +117,7 @@
 > Besides that, there are concepts for a [Flipper One](https://flipperzero.one/one), but without a timeline for release.
 
 ### What is Dummy Mode?
-> It's a work-in-progress feature that hides every app except games, in case your device is ever seized.
+> Currently, it only allows the Snake game to be opened when active. In the future, it will hide every app except games, in case your device is ever inspected or seized.
 
 ### My device is frozen, how do I reboot/fix it?
 > - To reboot the device: hold the BACK and LEFT buttons, then release simultaneously. If that didn't work, *disconnect the USB cable* and hold BACK for 30 seconds. This will preform a normal reboot.
@@ -268,8 +269,8 @@
 > To determine the protocol (NFC, RFID, or iClass/PicoPass) you'll need to attempt reading in each corresponding app. If nothing works, check the tag/card for any markings or indications. As a last resort, take a picture of the card/fob and the reader and ask in the [Flipper Discord server](https://flipperzero.one/discord).
 
 ### How do I identify which type of NFC tag I have?
-> Run the "Read card" action in the NFC app. If you don't see "NFC-A", your card is unfortunately unsupported.
-> Note that you've only read the card UID and type, *not the actual data.* For that you need to select the "Run compatible app" option.
+> Run the "Read card" action in the NFC app. Only NFC-A type tags are supported (Mifare/NTAG/Some EMV).
+> Once successfully read, the tag's type is displayed in bold at the top of the screen.
 
 ### Why can't I write an NFC tag?
 > This will become possible in the near future with a firmware update.
@@ -277,7 +278,7 @@
 ### I was told a Mifare Ultralight/NTAG tag has password-protected sectors. What does that mean?
 > Either the read was interrupted, or the tag is actually password protected.
 > First, try reading the tag again but make sure it stays on the back of the device until the info screen pops up.
-> If you're still seeing the warning, Flipper can unlock Amiibo and some Xaomi tags, but be warned that there's a risk of **bricking** your tag if you use the wrong password too many times.
+> If you're still seeing the warning, Flipper can unlock *legally distinct NFC-enabled figurines that are pronounced like "Ameebo"* and Xaomi air filter tags, but be warned that there's a risk of **bricking** your tag if you use the wrong password too many times.
 
 ### Why does it take so long to read a Mifare Classic?
 > Mifare classics are split up into sectors, these sectors are protected by two keys. To read a Mifare Classic, Flipper uses a dictionary attack, which takes a big list currently comprised of 1241 common keys, and checks them individually against each sector on the card. If you know the keys, they can be manually added to the User Dictionary under the "Extra Actions" menu.
@@ -312,7 +313,13 @@
 > You'll need to use a NFC-enabled smartphone with an app that can write tags. One of the easiest to use apps is called NFC Tools, available for both [Android](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc) and [iOS](https://apps.apple.com/us/app/nfc-tools/id1252962749). Due to Mifare Classic emulation quirks, you can only edit the data of saved NTAG and Mifare Ultralight tags. Create an empty NTAG216 with the "Add Manually" action in the NFC app if you don't have one already. Save that tag, then open it from the list. Once you start emulating the tag, you can use the NFC Tools smartphone app to write information on to the emulated tag. This is saved to a .shd file with the same name as the emulated tag. If you need a quick way to generate a tag containing a URL, you can use [Flipper Maker's NFC Creator tool](https://flippermaker.github.io/) online.
 
 ### Why doesn't my bank card work when I emulate it?
-> EMV Credit/Debit cards are mostly encrypted. The information Flipper reads is the unencrypted portion of the card. This alone is not enough to emulate and complete a transaction. It is impossible to read the encrypted parts. 
+> EMV Credit/Debit cards are mostly encrypted. The information Flipper reads is the unencrypted portion of the card. This alone is not enough to emulate and complete a transaction. It is impossible to read the encrypted parts.
+
+### Is there any way to save then emulate a bank card to authorize transactions?
+> No, as explained in the previous question.
+
+### Can Flipper emulate a payment terminal and authorize transactions?
+> No. Are you starting to see a pattern here?
 
 ### Where is the "USB/LibNFC NFC Reader" feature mentioned in the [September blog post](https://blog.flipperzero.one/september-progress/)?
 > This was scrapped due to timing issues, more details in [this GitHub issue](https://github.com/flipperdevices/flipperzero-firmware/issues/1173#issuecomment-1127728562).
@@ -334,7 +341,11 @@
 
 
 ## BadUSB [🔝](#top)
-> *(WIP)*
+
+### I'm on a Non-US QWERTY keyboard, how do I make scripts work?
+> Until a solution is put into the firmware, your best choice is trying one of the following converters:
+> - [http://helppox.com/badusbconvert.html](http://helppox.com/badusbconvert.html)
+> - [https://flippermaker.github.io/](https://flippermaker.github.io/) (BadUSB String To Alt Code)
 
 
 
