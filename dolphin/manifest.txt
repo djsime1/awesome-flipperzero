@@ -274,6 +274,13 @@ Min level: 1
 Max level: 30
 Weight: 5
 
+Name: L1_Purple_rain_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 5
+
 Name: Haseo_80s_128x64
 Min butthurt: 0
 Max butthurt: 14
