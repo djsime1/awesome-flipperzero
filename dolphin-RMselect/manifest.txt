@@ -267,13 +267,6 @@ Min level: 1
 Max level: 30
 Weight: 4
 
-Name: L1_Slayers_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 4
-
 Name: L1_DJ_128x64
 Min butthurt: 0
 Max butthurt: 14
