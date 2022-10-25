@@ -74,6 +74,7 @@
 - [`Minesweeper` Minesweeper implementation.](https://github.com/panki27/minesweeper)
 - [`SD Load Applications` Prebuilt applications (FAP) for popular firmware options.](https://github.com/UberGuidoZ/Flipper/tree/main/Applications)
 - [`Tuning Fork` Use your flipper as a tuning fork](https://github.com/besya/flipperzero-tuning-fork)
+- [`GPS` Display data from a serial GPS module](https://github.com/ezod/flipperzero-gps)
 
 ## Firmwares & Tweaks
 
