@@ -1,0 +1,41 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 2
+Active frames: 8
+Frames order: 0 1 0 2 1 2 0 2 1 2
+Active cycles: 1
+Frame rate: 1
+Duration: 3600
+Active cooldown: 1
+
+Bubble slots: 1
+
+Slot: 0
+X: 1
+Y: 17
+Text: Never gonna give you up
+AlignH: Right
+AlignV: Bottom
+StartFrame: 2
+EndFrame: 4
+
+Slot: 0
+X: 1
+Y: 17
+Text: Never gonna let you down\nNever gonna run around and
+AlignH: Right
+AlignV: Center
+StartFrame: 5
+EndFrame: 7
+
+Slot: 0
+X: 1
+Y: 17
+Text: DESERT YOU! 
+AlignH: Left
+AlignV: Center
+StartFrame: 8
+EndFrame: 10
