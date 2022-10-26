@@ -1,0 +1,72 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: Sasquach_Blaster_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Sasquach_Naruto_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Sasquach_RMCF_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 2
+Max level: 30
+Weight: 7
+
+Name: Kuronons_RMCFW_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 2
+Max level: 30
+Weight: 7
+
+Name: L3_Fireplace_128x64
+Min butthurt: 0
+Max butthurt: 13
+Min level: 10
+Max level: 30
+Weight: 7
+
+Name: L2_FlipperCity_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 2
+Max level: 30
+Weight: 7
+
+Name: Sasquach_D1g1talRa1n_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 5
+
+Name: L1_Purple_rain_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 5
+
+Name: L1_Painting_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: L1_Halloween_128x64
+Min butthurt: 0
+Max butthurt: 13
+Min level: 1
+Max level: 3
+Weight: 8
