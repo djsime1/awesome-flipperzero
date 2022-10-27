@@ -64,6 +64,13 @@ Min level: 18
 Max level: 30
 Weight: 0
 
+Name: Haseo_Sharingan_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: Sasquach_Blaster_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -190,13 +197,6 @@ Min level: 1
 Max level: 30
 Weight: 7
 
-Name: Sharingan_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
 Name: L1_B0ws3r_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -279,7 +279,7 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
 Name: Haseo_80s_128x64
 Min butthurt: 0
@@ -313,6 +313,13 @@ Name: L2_FlipperCity_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 2
+Max level: 30
+Weight: 7
+
+Name: Sasquach_D1g1talRa1n_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
 Max level: 30
 Weight: 7
 
@@ -909,14 +916,14 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
 Name: L1_Painting_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 3
+Weight: 5
 
 Name: L1_Halloween_128x64
 Min butthurt: 0
@@ -924,10 +931,3 @@ Max butthurt: 13
 Min level: 1
 Max level: 3
 Weight: 8
-
-Name: Sasquach_D1g1talRa1n_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 5

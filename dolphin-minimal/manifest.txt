@@ -1,6 +1,13 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
+Name: Haseo_Sharingan_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: Sasquach_Blaster_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -48,21 +55,21 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
 Name: L1_Purple_rain_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
 Name: L1_Painting_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 3
+Weight: 5
 
 Name: L1_Halloween_128x64
 Min butthurt: 0
