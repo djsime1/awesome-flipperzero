@@ -15,6 +15,16 @@
 <details>
 <summary>
 
+### Creator: ESurge
+</summary>
+
+- [Kirbs Tunes](ESurge/ES_Kirbs_Tunes)
+</details>
+</td>
+<td>
+<details>
+<summary>
+
 ### Creator: FelixTwoTone
 </summary>
 
@@ -47,6 +57,8 @@
 - [Waves](L1_Waves_128x50)
 </details>
 </td>
+</tr>
+<tr>
 <td>
 <details>
 <summary>
@@ -75,8 +87,6 @@
 - [Umbrella](Haseo/Umbrella_128x64)
 </details>
 </td>
-</tr>
-<tr>
 <td>
 <details>
 <summary>
@@ -173,6 +183,8 @@
 - [Last Unicorn](NeonK/NeonK_LastUnicorn_128x64)
 </details>
 </td>
+</tr>
+<tr>
 <td>
 <details>
 <summary>
@@ -183,8 +195,6 @@
 - [P0liwhirl](Panzer00Z/L1_P0liwhirl_128x51)
 </details>
 </td>
-</tr>
-<tr>
 <td>
 <details>
 <summary>
@@ -250,6 +260,8 @@
 - [Whisper of the Heart](STOPOXY/STOPOXY_WOT_HEART_128x64)
 </details>
 </td>
+</tr>
+<tr>
 <td>
 <details>
 <summary>
@@ -260,8 +272,6 @@
 - [Flipper City](Svaarich/L2_FlipperCity_128x64)
 </details>
 </td>
-</tr>
-<tr>
 <td>
 <details>
 <summary>
@@ -294,6 +304,8 @@
 - [Purple Rain](wotori/L1_Purple_rain_128x64)
 </details>
 </td>
+</tr>
+<tr>
 <td>
 <details>
 <summary>
