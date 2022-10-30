@@ -841,7 +841,7 @@ Min level: 2
 Max level: 30
 Weight: 7
 
-Name: Sasquach/Sasquach_Naruto_128x64
+Name: Sasquach/Sasquach_Narut0_128x64
 Min butthurt: 0
 Max butthurt: 5
 Min level: 1
