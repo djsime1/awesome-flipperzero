@@ -1,0 +1,59 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 48
+Active frames: 91
+Frames order: 0 2 4 6 8 10 12 14 10 10 10 10 10 9 9 9 9 9 9 10 10 10 10 9 9 9 9 9 9 10 10 10 10 10 10 5 3 1 0 0 0 0 0 0 0 0 0 0 16 17 18 19 20 16 17 18 19 20 16 17 18 19 20 16 17 18 19 20 16 17 18 19 20 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 33 32 31 32 33 34 33 32 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 0
+Active cycles: 1
+Frame rate: 2
+Duration: 3600
+Active cooldown: 0
+
+Bubble slots: 2
+
+Slot: 0
+X: 40
+Y: 40
+Text: Hello.....
+AlignH: Right
+AlignV: Top
+StartFrame: 5
+EndFrame: 38
+
+Slot: 1
+X: 5
+Y: 15
+Text: I Like \nRusty \nSpoons
+AlignH: Left
+AlignV: Center
+StartFrame: 51
+EndFrame: 76
+
+Slot: 1
+X: 5
+Y: 15
+Text: I Like \nWhen The 
+AlignH: Left
+AlignV: Center
+StartFrame: 80
+EndFrame: 85
+
+Slot: 1
+X: 5
+Y: 20
+Text: Red \nWater 
+AlignH: Left
+AlignV: Center
+StartFrame: 86
+EndFrame: 89
+
+Slot: 1
+X: 2
+Y: 30
+Text: Comes \nOut
+AlignH: Right
+AlignV: Center
+StartFrame: 90
+EndFrame: 95
