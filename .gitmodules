@@ -10,9 +10,6 @@
 [submodule "nfc/Amiibo"]
 	path = nfc/Amiibo
 	url = https://github.com/RogueMaster/FlipperAmiibo
-[submodule "scripts/AmiiboConverter"]
-	path = scripts/AmiiboConverter
-	url = https://github.com/Lucaslhm/AmiiboFlipperConverter
 [submodule "scripts/dolphin_state"]
 	path = scripts/dolphin_state
 	url = https://github.com/DroomOne/FlipperScripts
