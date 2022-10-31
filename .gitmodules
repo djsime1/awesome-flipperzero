@@ -31,3 +31,6 @@
 [submodule "fw/RogueMasterWApps"]
 	path = fw/RogueMasterWApps
 	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins.git
+[submodule "scripts/AmiboConverterV2"]
+	path = scripts/AmiboConverterV2
+	url = https://github.com/Lanjelin/AmiiboConverter.git
