@@ -1,7 +1,14 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
-Name: Haseo_Sharingan_128x64
+Name: Kuronons_RMCFW_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 2
+Max level: 30
+Weight: 7
+
+Name: Sasquach_Blaster_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -15,7 +22,7 @@ Min level: 1
 Max level: 30
 Weight: 7
 
-Name: Sasquach_Blaster_128x64
+Name: Sasquach_D1g1talRa1n_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -36,17 +43,10 @@ Min level: 2
 Max level: 30
 Weight: 7
 
-Name: Kuronons_RMCFW_128x64
+Name: L1_Purple_rain_128x64
 Min butthurt: 0
 Max butthurt: 14
-Min level: 2
-Max level: 30
-Weight: 7
-
-Name: L3_Fireplace_128x64
-Min butthurt: 0
-Max butthurt: 13
-Min level: 10
+Min level: 1
 Max level: 30
 Weight: 7
 
@@ -57,14 +57,14 @@ Min level: 2
 Max level: 30
 Weight: 7
 
-Name: Sasquach_D1g1talRa1n_128x64
+Name: L3_Fireplace_128x64
 Min butthurt: 0
 Max butthurt: 14
-Min level: 1
+Min level: 3
 Max level: 30
 Weight: 7
 
-Name: L1_Purple_rain_128x64
+Name: L1_Mods_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -76,11 +76,11 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
 Name: L1_Halloween_128x64
 Min butthurt: 0
-Max butthurt: 13
+Max butthurt: 14
 Min level: 1
-Max level: 3
-Weight: 8
+Max level: 30
+Weight: 5
