@@ -29,11 +29,15 @@
 ### What is Awesome Flipper Zero?
 > It's an [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) that I ([djsime1](https://dj.je)) created shortly after receiving Lurat, my lovely dolphin sidekick.
 
+### What is an Awesome List?
+> An [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) is a collection of links and resources related to some project or topic. Think of it like a central curated hub to discover interesting stuff.
+
+
 ### How can I contribute to this repo?
 > Perferably, open a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with your changes, or use one of the methods in the next question to contact me.
 
 ### I found a mistake, broken link, or something else. What should I do?
-> Open a [new discussion](https://github.com/djsime1/awesome-flipperzero/discussions/new) on this repo, Message me on Discord ([`@DJ#9822`](https://discord.gg/9rduBhctJ6)), Telegram ([`djsime1`](https://t.me/djsime1)), or email me (![dj at dj.je](https://user-images.githubusercontent.com/8518150/180326401-1408742a-124c-49a7-9818-60c31d0e0d28.png)).
+> Open a [new discussion](https://github.com/djsime1/awesome-flipperzero/discussions/new) on this repo, or contact me via one of the methods listed on [this page](https://dj.je/pages/contact).
 
 ### Why are there so many unmerged pull requests?
 > If there's multiple small pull requests open at the same time, I'll often merge them together as a single update. Due to the way GitHub works, I'm unable to mark them as merged when I do this. To compensate, I include the contributors as co-authors on the commit, and mention the Pull Request ID's as part of the update message.
@@ -197,6 +201,16 @@
   Once you have the CLI open, type <code>log</code> and press enter to start watching logs. Press <code>Ctrl-C</code> or <code>Cmd-C</code> to exit log mode.
 </blockquote>
 
+### How can I tell if I'm running the Iceman edition firmware?
+<blockquote>
+  From the idle screen, press right to open your Flipper's passport.
+  Check for the Iceman logo on the left, like in this screenshot:
+  <details>
+    <summary>(Click to reveal screenshot)</summary>
+    <img src="https://user-images.githubusercontent.com/8518150/203851157-e0ce2065-dd55-4e37-a5aa-5b07ed62e872.png" alt="Iceman firmware screenshot">
+  </details>
+</blockquote>
+
 
 
 ## Sub-GHz [🔝](#top)
@@ -246,24 +260,24 @@
 
 ### Feature/Compatability table
 
-| Card name/type    | Read | Write | Save | Emulate | Notes                  |
-| :--------------- | :--: | :---: | :--: | :-----: | :-------------------- |
-| Mifare Classic    | ✅    |       | ✅    | ✅     | Emulation is hit/miss  |
-| Mifare DESFire    | ✅    |       |      |        |                        |
-| Mifare Ultralight | ✅    |       | ✅    | ✅     | Non-password protected |
-| EMV Cards         | ✅    |       |      |         | Can read bank cards    |
-| NTAG-21X          | ✅    |       | ✅    | ✅     |                        |
-| NFC-B             |       |       |      | ❌      | No hardware support for emulation     |
-| iClass/PicoPass   | ✅    |       | ✅    | ❌      | No STM SDK support for emulation     |
-| EM4100/EM4102     | ✅    | ❌     | ✅    | ✅      |                        |
-| H10301            | ✅    | ❌     | ✅    | ✅      |                        |
-| Indala            | ✅    | ❌     | ✅    | ✅      |                        |
-| T5577             | ✅    | ✅     | ✅    | ✅      |                        |
-| EM4305            | ✅    | ✅     | ✅    | ✅      |                        |
-| Paxton Net2       | ❌    | ❌     | ❌    | ❌      | Hitag2: no support     |
-| Legic Prime       | ❌    | ❌     | ❌    | ❌      | 13.56mhz, but proprietary|
+| Card name/type    | Read | Write | Save | Emulate | Notes                             |
+| :---------------- | :--: | :---: | :--: | :-----: | :-------------------------------- |
+| Mifare Classic    | ✅   | ✅    | ✅   | ✅      | Emulation can be a hit or miss    |
+| Mifare DESFire    | ✅   |       |      |         | Can read public files             |
+| Mifare Ultralight | ✅   |       | ✅   | ✅      | Unlock tags with various methods  |
+| NTAG-21X          | ✅   |       | ✅   | ✅      | Very similar to Mifare Ultralight |
+| EMV Cards         | ✅   |       | ❌   | ❌      | Can read unencrypted bank cards   |
+| NFC-B             |      |       |      | ❌      | No hardware support for emulation |
+| iClass/PicoPass   | ✅   |       | ✅   | ❌      | No STM SDK support for emulation  |
+| EM4100/EM4102     | ✅   | ❌    | ✅   | ✅      |                                   |
+| H10301            | ✅   | ❌    | ✅   | ✅      |                                   |
+| Indala            | ✅   | ❌    | ✅   | ✅      |                                   |
+| T5577             | ✅   | ✅    | ✅   | ✅      |                                   |
+| EM4305            | ✅   |       | ✅   | ✅      |                                   |
+| Paxton Net2       | ❌   | ❌    | ❌   | ❌      | No support for Hitag2             |
+| Legic Prime       | ❌   | ❌    | ❌   | ❌      | Proprietary protocol              |
 
-***Note:*** *While T5577 and EM4305's can be written, they are rarely handed out as ID badges.*
+***Key:*** *Check = Already implimented as of latest official firmware. No mark = Could be implemented in the future. Cross mark = Unlikely to ever be implemented or impossible.*
 
 ### How do I identify which type of card/tag I have?
 > To determine the protocol (NFC, RFID, or iClass/PicoPass) you'll need to attempt reading in each corresponding app. If nothing works, check the tag/card for any markings or indications. As a last resort, take a picture of the card/fob and the reader and ask in the [Flipper Discord server](https://flipperzero.one/discord).
@@ -272,8 +286,9 @@
 > Run the "Read card" action in the NFC app. Only NFC-A type tags are supported (Mifare/NTAG/Some EMV).
 > Once successfully read, the tag's type is displayed in bold at the top of the screen.
 
-### Why can't I write an NFC tag?
-> This will become possible in the near future with a firmware update.
+### Which NFC tags can I write?
+> Currently, Mifare Classic's are the only NFC card that can be written to.
+> More will be added in the future with firmware updates.
 
 ### I was told a Mifare Ultralight/NTAG tag has password-protected sectors. What does that mean?
 > Either the read was interrupted, or the tag is actually password protected.
@@ -317,6 +332,10 @@
 
 ### Is there any way to save then emulate a bank card to authorize transactions?
 > No, as explained in the previous question.
+
+### Why does the NFC feature table say bank cards can be read?
+> Most NFC-enabled bank cards expose their card number unencrypted. The expiration date, CVV, and ZIP code are not revealed.
+> The card number alone is not enough to create a transaction, thus there's no reason to add a save option.
 
 ### Can Flipper emulate a payment terminal and authorize transactions?
 > No. Are you starting to see a pattern here?
