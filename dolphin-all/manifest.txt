@@ -943,5 +943,12 @@ Name: xMasterX/L1_Halloween_128x64
 Min butthurt: 0
 Max butthurt: 13
 Min level: 1
-Max level: 3
+Max level: 30
+Weight: 8
+
+Name: xMasterX/L1_New_year_128x64
+Min butthurt: 0
+Max butthurt: 13
+Min level: 1
+Max level: 30
 Weight: 8
