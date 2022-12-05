@@ -50,6 +50,8 @@
 - [`flipperzero-bruteforce` Generate .sub files to brute force Sub-GHz OOK.](https://github.com/tobiabocchi/flipperzero-bruteforce)
 - [`UNC0V3R3D BadUSB collection` Yet another BadUSB collection.](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 - [`Flipper-StarNew` Universal Intercom Keys.](https://github.com/GlUTEN-BASH/Flipper-Starnew)
+- [`FalsePhilosophers Flipper BadUSB` Flipper zero community ducky payload repo.](https://github.com/FalsePhilosopher/badusb)
+- [`SerialHex2FlipperZeroInfrared` Convert IR serial messages into FlipperZero compatible IR files.](https://github.com/maehw/SerialHex2FlipperZeroInfrared)
 
 ## Applications & Plugins
 - [`Flipper-Plugin-Tutorial` Updated plugin tutorial based on new build methods.](https://github.com/csBlueChip/FlipperZero_plugin_howto)
@@ -105,6 +107,7 @@
 - [`Flipper Zero Car Mount` Uses foam from the original box.](https://www.thingiverse.com/thing:5464899)
 - [`Soft TPU cover` Similar to the official silicone case.](https://www.printables.com/en/model/272676-soft-tpu-flipper-zero-cover)
 - [`Flipper-Boy` Flipper Zero Case with 22mm Watch Strap Adapter.](https://www.printables.com/model/304243-flipper-boy)
+- [`WiFi Devboard Pelican Case` Top case that works with the 4mm FZ Pelican case.](https://github.com/Z3BRO/Flipper-Zero-Pelican-Case-Wifi-Devboard)
 
 ## Off-device & Debugging
 - [`Official Web Interface` Web interface to interact with Flipper, including Paint and SUB/IR analyzer.](https://my.flipp.dev/)
@@ -149,6 +152,7 @@
 - [`ESP32 Marauder guide video` Companion video for the above link.](https://youtu.be/_YLTpNo5xa0)
 - [`Flipper Skylanders` How to read a Skylanders figure with Flipper.](https://github.com/V0lk3n/Flipper-Skylanders)
 - [`Flipper Zero Dimensions` Basic info on screen and case dimensions.](https://github.com/UberGuidoZ/Flipper/tree/main/FlipperZero_Dimensions)
+
 
 <!-- DO NOT MODIFY BELOW -->
 

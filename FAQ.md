@@ -343,7 +343,12 @@
 ### Where is the "USB/LibNFC NFC Reader" feature mentioned in the [September blog post](https://blog.flipperzero.one/september-progress/)?
 > This was scrapped due to timing issues, more details in [this GitHub issue](https://github.com/flipperdevices/flipperzero-firmware/issues/1173#issuecomment-1127728562).
 
-
+### Where can I learn more about NFC and RFID technology?
+> - Introduction to both Low Frequency and High Frequency: https://blog.flipperzero.one/rfid/
+> - Types of NFC https://www.rfwireless-world.com/Tutorials/NFC-Type1-Tag-vs-NFC-Type2-Tag-vs-NFC-Type3-Tag-NFC-Type4-Tag-Types.html
+> - Mifare Classic: https://learn.adafruit.com/adafruit-pn532-rfid-nfc/mifare
+> - The Mifare Family: https://en.wikipedia.org/wiki/MIFARE
+> - Datasheets: http://www.proxmark.org/files/Documents/
 
 ## Infrared [🔝](#top)
 
