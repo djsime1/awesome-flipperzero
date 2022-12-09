@@ -98,6 +98,7 @@
 - [`Hard case` Smaller than pelican case, but still bulky.](https://www.thingiverse.com/thing:5387015)
 - [`WiFi Module v1 Case` Small cover for the WiFi dev board.](https://www.printables.com/model/179910-case-for-flipper-zero-wi-fi-module-v1)
 - [`Flipper screen protector` An alternative screen protector for Flipper.](https://www.photodon.com/p/2419-01.html)
+- [`Flipper Zero Bumper TPU` An alternative bumper protector for Flipper.](https://www.ebay.it/usr/endima_designer)
 - [`WiFi Scanner Module` Scans for WiFi networks via a custom Wemos module board.](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module)
 - [`WiFi Scanner Module Flasher` Web flasher for module firmware above.](https://sequoiasan.github.io/FlipperZero-WiFi-Scanner_Module/)
 - [`WiFi DSTIKE Deauther` Preforms WiFi deauth attacks via a custom ESP8266 module board.](https://github.com/SequoiaSan/FlipperZero-Wifi-ESP8266-Deauther-Module)
