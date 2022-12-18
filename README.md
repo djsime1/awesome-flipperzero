@@ -4,6 +4,9 @@
   <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
 </a>
 
+
+# [Support Me On Patreon](https://www.patreon.com/RogueMaster)
+
 <hr>
 
 <h3 align="center">
