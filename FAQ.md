@@ -43,9 +43,7 @@
 > If there's multiple small pull requests open at the same time, I'll often merge them together as a single update. Due to the way GitHub works, I'm unable to mark them as merged when I do this. To compensate, I include the contributors as co-authors on the commit, and mention the Pull Request ID's as part of the update message.
 
 ### This is really cool! Is there a way I can donate to you?
-> I really appreciate the kind words, however I'm not accepting personal monetary donations.
-> If you're really insistent, I'll accept a Discord Nitro gift ([`@DJ#9822`](https://discord.gg/9rduBhctJ6)) or Steam Game ([`/id/djsime1`](https://steamcommunity.com/id/djsime1/))!
-> Besides that, why not support a local charity/organization instead? My personal recommendation is the [Electronic Frontier Foundation](https://supporters.eff.org/donate).
+. You can find my [PATREON](https://www.patreon.com/RogueMaster) to donate
 
 
 ## General [🔝](#top)
