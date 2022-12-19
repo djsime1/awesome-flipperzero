@@ -54,6 +54,7 @@
 - [`SerialHex2FlipperZeroInfrared` Convert IR serial messages into FlipperZero compatible IR files.](https://github.com/maehw/SerialHex2FlipperZeroInfrared)
 
 ## Applications & Plugins
+- [`The Flipper Zero user interface editor` The GUI editor/generator for Flipper Zero.](https://ilin.pt/stuff/fui-editor/)
 - [`Web Flasher` Flash latest FW from your browser without qFlipper, also lets you paint](https://my.flipp.dev/)
 - [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/mfulz/Flipper-Plugin-Tutorial)
 - [`Flipper-Plugin-Tutorial` Updated plugin tutorial based on new build methods.](https://github.com/csBlueChip/FlipperZero_plugin_howto)
