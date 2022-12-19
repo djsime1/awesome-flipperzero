@@ -31,6 +31,3 @@
 [submodule "scripts/AmiboConverterV2"]
 	path = scripts/AmiboConverterV2
 	url = https://github.com/Lanjelin/AmiiboConverter.git
-[submodule "MARAUDER"]
-	path = MARAUDER
-	url = https://github.com/justcallmekoko/ESP32Marauder.git
