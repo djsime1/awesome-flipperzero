@@ -75,6 +75,7 @@
 - [`GPS` Display data from a serial GPS module.](https://github.com/ezod/flipperzero-gps)
 - [`USB HID Autofire` Send left-clicks as a USB HID device.](https://github.com/pbek/usb_hid_autofire)
 - [`Flipper Authenticator` Generate TOTP authentication codes.](https://github.com/akopachov/flipper-zero_authenticator/)
+- [`Unitemp` Application for reading temperature, humidity and pressure sensors using Onewire, Singlewire, I2C protocols](https://github.com/quen0n/unitemp-flipperzero) 
 
 ## Firmwares & Tweaks
 
