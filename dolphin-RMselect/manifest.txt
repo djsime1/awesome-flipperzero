@@ -1,6 +1,13 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
+Name: MjK_hentai_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
 Name: RM_Sail0rM00n_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -377,4 +384,4 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 14
+Weight: 3
