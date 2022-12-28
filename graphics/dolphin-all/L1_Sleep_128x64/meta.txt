@@ -1,0 +1,41 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 2
+Active frames: 4
+Frames order: 0 1 2 3 2 3
+Active cycles: 2
+Frame rate: 2
+Duration: 3600
+Active cooldown: 5
+
+Bubble slots: 2
+
+Slot: 0
+X: 53
+Y: 20
+Text: In a lucid dream,\nI could walk...
+AlignH: Left
+AlignV: Bottom
+StartFrame: 3
+EndFrame: 9
+
+Slot: 1
+X: 53
+Y: 20
+Text: OH MY GOD!
+AlignH: Left
+AlignV: Bottom
+StartFrame: 3
+EndFrame: 5
+
+Slot: 1
+X: 53
+Y: 31
+Text: Just a dream...
+AlignH: Left
+AlignV: Bottom
+StartFrame: 6
+EndFrame: 9

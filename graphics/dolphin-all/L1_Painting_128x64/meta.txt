@@ -1,0 +1,32 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 9
+Active frames: 13
+Frames order: 0 1 2 3 4 5 2 3 4 10 6 7 8 7 8 7 8 7 8 9 10 11
+Active cycles: 1
+Frame rate: 2
+Duration: 3600
+Active cooldown: 7
+
+Bubble slots: 1
+
+Slot: 0
+X: 57
+Y: 24
+Text: No mistakes,
+AlignH: Left
+AlignV: Center
+StartFrame: 11
+EndFrame: 14
+
+Slot: 0
+X: 57
+Y: 21
+Text: only happy\n accidents
+AlignH: Left
+AlignV: Center
+StartFrame: 15
+EndFrame: 18

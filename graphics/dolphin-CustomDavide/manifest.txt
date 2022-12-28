@@ -1,0 +1,9 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: L1_JOINUS_SR_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 99

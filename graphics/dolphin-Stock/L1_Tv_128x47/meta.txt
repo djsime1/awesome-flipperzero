@@ -1,0 +1,32 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 47
+Passive frames: 6
+Active frames: 2
+Frames order: 0 1 2 3 4 5 6 7
+Active cycles: 2
+Frame rate: 2
+Duration: 3600
+Active cooldown: 5
+
+Bubble slots: 2
+
+Slot: 0
+X: 1
+Y: 23
+Text: Take the red pill
+AlignH: Right
+AlignV: Bottom
+StartFrame: 7
+EndFrame: 9
+
+Slot: 1
+X: 1
+Y: 23
+Text: I can joke better
+AlignH: Right
+AlignV: Bottom
+StartFrame: 7
+EndFrame: 9
