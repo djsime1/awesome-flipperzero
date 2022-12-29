@@ -349,6 +349,8 @@
 > - Mifare Classic: https://learn.adafruit.com/adafruit-pn532-rfid-nfc/mifare
 > - The Mifare Family: https://en.wikipedia.org/wiki/MIFARE
 > - Datasheets: http://www.proxmark.org/files/Documents/
+> - Common RFID Standards and protocols: https://www.asiarfid.com/common-rfid-standards-and-protocols.html
+> - RFID Standards: ISO, IEC, EPCglobal: https://www.electronics-notes.com/articles/connectivity/rfid-radio-frequency-identification/standards-iec-iso-epcglobal.php
 
 ## Infrared [🔝](#top)
 
