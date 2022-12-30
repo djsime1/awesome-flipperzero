@@ -340,7 +340,7 @@
 ### Can Flipper emulate a payment terminal and authorize transactions?
 > No. Are you starting to see a pattern here?
 
-### Where is the "USB/LibNFC NFC Reader" feature mentioned in the [September blog post](https://blog.flipperzero.one/september-progress/)?
+### Where is the "USB NFC Reader" feature mentioned in the [september blog post](https://blog.flipperzero.one/september-progress/)?
 > This was scrapped due to timing issues, more details in [this GitHub issue](https://github.com/flipperdevices/flipperzero-firmware/issues/1173#issuecomment-1127728562).
 
 ### Where can I learn more about NFC and RFID technology?
