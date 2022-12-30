@@ -36,6 +36,14 @@
 <!-- DO NOT MODIFY ABOVE -->
 
 ## Databases & Dumps
+- [`flipperzero-goodies` Intercom keys and other dumps.](https://github.com/wetox-team/flipperzero-goodies)
+- [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/Lucaslhm/Flipper-IRDB)
+- [`AmiiboFlipperConverter` Dumps of Amiibo pawns.](https://github.com/Lucaslhm/AmiiboFlipperConverter/tree/377a55ab84040ff1054bb5985c4c40574b6bae3b)
+- [`FlipperZeroSub-GHz` Debruin & vehicle keyfob dumps.](https://github.com/MuddledBox/FlipperZeroSub-GHz)
+- [`BadUSB Payloads` Generic Duckyscript payloads.](https://github.com/hak5/usbrubberducky-payloads)
+- [`csv2ir` Full conversion of the IRDB repo to Flipper's format.](https://github.com/Spexivus/csv2ir)
+- [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
+- [`BadUSB WiFi grabber` grabs saved Wi-Fi info & sends the info to email.](https://github.com/Gioman101/BadUSBwifi-grabberFlipper) 
 - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
 - [`SerialHex2FlipperZeroInfrared` Convert IR serial messages into FlipperZero compatible IR files.](https://github.com/maehw/SerialHex2FlipperZeroInfrared)
