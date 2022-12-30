@@ -38,6 +38,7 @@
 ## Databases & Dumps
 - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
+- [`SerialHex2FlipperZeroInfrared` Convert IR serial messages into FlipperZero compatible IR files.](https://github.com/maehw/SerialHex2FlipperZeroInfrared)
 - [`FlipperZero-TouchTunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes)
 - [`Flipper Maker` Generate Flipper Zero files on the fly.](https://flippermaker.github.io/)
 - [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
