@@ -134,7 +134,7 @@
 - [`U2F SSH Keys` U2F ECDSA SSH Key Generation using Flipper Zero.](https://gist.github.com/BlackPropaganda/44c40f7855a90e289a9477b654e54eb1)
 - [`flipper0` Rusty crate with safe interface to Flipper Firmware and autogen bindings underneath.](https://crates.io/crates/flipper0)
 - [`flipperzero-rs` Hand-crafted bindings to Flipper Firmware with custom build tool.](https://github.com/dcoles/flipperzero-rs)
-- [`fzfs` Flipper Zero filesystem driver.](https://github.com/dakhnod/fzfs)
+- [`fzfs` Flipper Zero filesystem driver](https://github.com/dakhnod/fzfs)
 
 ## Notes & References
 - [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
