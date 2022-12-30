@@ -11,8 +11,8 @@
     <td><a href="#nfc--rfid-">NFC & RFID</a></td>
     <td><a href="#infrared-">Infrared</a></td>
     <td><a href="#badusb-">BadUSB</a></td>
-    <td>iButton</td>
-    <td>WiFi board</td>
+    <td><a href="#ibutton-">iButton</a></td>
+    <td><a href="#wifi-board-">WiFi board</a></td>
   </tr>
 <table>
 
@@ -29,11 +29,15 @@
 ### What is Awesome Flipper Zero?
 > It's an [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) that I ([djsime1](https://dj.je)) created shortly after receiving Lurat, my lovely dolphin sidekick.
 
+### What is an Awesome List?
+> An [Awesome List](https://github.com/sindresorhus/awesome/blob/main/awesome.md) is a collection of links and resources related to some project or topic. Think of it like a central curated hub to discover interesting stuff.
+
+
 ### How can I contribute to this repo?
 > Perferably, open a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with your changes, or use one of the methods in the next question to contact me.
 
 ### I found a mistake, broken link, or something else. What should I do?
-> Open a [new discussion](https://github.com/djsime1/awesome-flipperzero/discussions/new) on this repo, Message me on Discord ([`@DJ#9822`](https://discord.gg/9rduBhctJ6)), Telegram ([`djsime1`](https://t.me/djsime1)), or email me (![dj at dj.je](https://user-images.githubusercontent.com/8518150/180326401-1408742a-124c-49a7-9818-60c31d0e0d28.png)).
+> Open a [new discussion](https://github.com/djsime1/awesome-flipperzero/discussions/new) on this repo, or contact me via one of the methods listed on [this page](https://dj.je/pages/contact).
 
 ### Why are there so many unmerged pull requests?
 > If there's multiple small pull requests open at the same time, I'll often merge them together as a single update. Due to the way GitHub works, I'm unable to mark them as merged when I do this. To compensate, I include the contributors as co-authors on the commit, and mention the Pull Request ID's as part of the update message.
@@ -67,12 +71,30 @@
 
 ### How do I install custom firmwares?
 > First, ask yourself if you really need to. Sure, it might be fun to break out of Sub-GHz transmission restrictions, but how often are you actually going to do that? Is it really worth breaking the law?
-> After you've ignored the previous sentences, make sure there's a working MicroSD Card in your Flipper and head over to the repository of your perferred firmware. Look for releases and find the `.dfu` file or updater package (typically a `.tar` or `.zip` file, it always contains a file named `update.fuf`).
-> - If you only have a `.dfu`, it can be installed using the "Install from file" option in qFlipper. Select the file and begin the installation.
-> - If you have an updater package, extract and transfer the folder (not the original archive file) to the `update` folder on the SD Card (create the folder if it doesn't already exist). Once transferred, go to the desktop/idle screen of the Flipper, press down to access the file browser, then left to view all folders. From there, open the `update` folder (typically at the bottom of the list) and find the folder you just transferred. Lastly, select the file named `update` and choose "Run in app" to install the firmware.
+> After you've ignored the previous sentences, make sure there's a working MicroSD Card in your Flipper and head over to the repository of your perferred firmware. Look for releases and find the `.dfu` file or update package (typically a `.tar`, `.tar.gz`, or `.zip` file, it always contains a file named `update.fuf`).
+> - If you only have a `.dfu`, it must be installed using the "Install from file" option in qFlipper. Select the file and begin the installation.
+> - If you have an update package, you can either install it with qFlipper, or install it manually through the Micro SD card by following the steps below.
+> - To manually install an update package, extract and transfer the folder (not the original archive file) to the `update` folder on the SD Card (create the folder if it doesn't already exist). Once transferred, go to the desktop/idle screen of the Flipper, press down to access the file browser, then left to view all folders. From there, open the `update` folder (typically at the bottom of the list) and find the folder you just transferred. Lastly, select the file named `update` and choose "Run in app" to install the firmware.
 > 
 > If there was no pre-compiled update file/package, you'll have to build the firmware yourself. See the next question for details.
 > For more information, read the [official documentation](https://docs.flipperzero.one/basics/firmware-update).
+
+### Where and when are developer Q&A sessions held?
+> Question and Answer session are held every week on Saturday, at 01:00 and 13:00 (GMT)
+> 
+> | Time zone      | Side A  |  Side B |
+> | :------------: | :-----: | :-----: |
+> | GMT/UTC        | 01:00   | 13:00   |
+> | Pacific (PDT)  | 6:00 PM | 6:00 AM |
+> | Mountain (MDT) | 7:00 PM | 7:00 AM |
+> | Central (CDT)  | 8:00 PM | 8:00 AM |
+> | Eastern (EDT)  | 9:00 PM | 9:00 AM |
+> | China Standard | 09:00   | 21:00   |
+> | India Standard | 06:30   | 18:30   |
+
+### Are there archives of past Q&A sessions?
+> Archival is a community effort, so only some are available.
+> [https://github.com/flipperdevices/flipper-questions-and-answers](https://github.com/flipperdevices/flipper-questions-and-answers)
 
 ### How do I write/compile my own applications/plugins/firmware/assets?
 <blockquote>
@@ -99,7 +121,7 @@
 > Besides that, there are concepts for a [Flipper One](https://flipperzero.one/one), but without a timeline for release.
 
 ### What is Dummy Mode?
-> It's a work-in-progress feature that hides every app except games, in case your device is ever seized.
+> Currently, it only allows the Snake game to be opened when active. In the future, it will hide every app except games, in case your device is ever inspected or seized.
 
 ### My device is frozen, how do I reboot/fix it?
 > - To reboot the device: hold the BACK and LEFT buttons, then release simultaneously. If that didn't work, *disconnect the USB cable* and hold BACK for 30 seconds. This will preform a normal reboot.
@@ -179,6 +201,16 @@
   Once you have the CLI open, type <code>log</code> and press enter to start watching logs. Press <code>Ctrl-C</code> or <code>Cmd-C</code> to exit log mode.
 </blockquote>
 
+### How can I tell if I'm running the Iceman edition firmware?
+<blockquote>
+  From the idle screen, press right to open your Flipper's passport.
+  Check for the Iceman logo on the left, like in this screenshot:
+  <details>
+    <summary>(Click to reveal screenshot)</summary>
+    <img src="https://user-images.githubusercontent.com/8518150/203851157-e0ce2065-dd55-4e37-a5aa-5b07ed62e872.png" alt="Iceman firmware screenshot">
+  </details>
+</blockquote>
+
 
 
 ## Sub-GHz [🔝](#top)
@@ -228,39 +260,40 @@
 
 ### Feature/Compatability table
 
-| Card name/type    | Read | Write | Save | Emulate | Notes                  |
-| :--------------- | :--: | :---: | :--: | :-----: | :-------------------- |
-| Mifare Classic    | ✅    |       | ✅    | ✅     | Emulation is hit/miss  |
-| Mifare DESFire    | ✅    |       |      |        |                        |
-| Mifare Ultralight | ✅    |       | ✅    | ✅     | Non-password protected |
-| EMV Cards         | ✅    |       |      |         | Can read bank cards    |
-| NTAG-21X          | ✅    |       | ✅    | ✅     |                        |
-| NFC-B             |       |       |      | ❌      | No hardware support for emulation     |
-| iClass/PicoPass   | ✅    |       | ✅    | ❌      | No STM SDK support for emulation     |
-| EM4100/EM4102     | ✅    | ❌     | ✅    | ✅      |                        |
-| H10301            | ✅    | ❌     | ✅    | ✅      |                        |
-| Indala            | ✅    | ❌     | ✅    | ✅      |                        |
-| T5577             | ✅    | ✅     | ✅    | ✅      |                        |
-| EM4305            | ✅    | ✅     | ✅    | ✅      |                        |
-| Paxton Net2       | ❌    | ❌     | ❌    | ❌      | Hitag2: no support     |
-| Legic Prime       | ❌    | ❌     | ❌    | ❌      | 13.56mhz, but proprietary|
+| Card name/type    | Read | Write | Save | Emulate | Notes                             |
+| :---------------- | :--: | :---: | :--: | :-----: | :-------------------------------- |
+| Mifare Classic    | ✅   | ✅    | ✅   | ✅      | Emulation can be a hit or miss    |
+| Mifare DESFire    | ✅   |       |      |         | Can read public files             |
+| Mifare Ultralight | ✅   |       | ✅   | ✅      | Unlock tags with various methods  |
+| NTAG-21X          | ✅   |       | ✅   | ✅      | Very similar to Mifare Ultralight |
+| EMV Cards         | ✅   |       | ❌   | ❌      | Can read unencrypted bank cards   |
+| NFC-B             |      |       |      | ❌      | No hardware support for emulation |
+| iClass/PicoPass   | ✅   |       | ✅   | ❌      | No STM SDK support for emulation  |
+| EM4100/EM4102     | ✅   | ❌    | ✅   | ✅      |                                   |
+| H10301            | ✅   | ❌    | ✅   | ✅      |                                   |
+| Indala            | ✅   | ❌    | ✅   | ✅      |                                   |
+| T5577             | ✅   | ✅    | ✅   | ✅      |                                   |
+| EM4305            | ✅   |       | ✅   | ✅      |                                   |
+| Paxton Net2       | ❌   | ❌    | ❌   | ❌      | No support for Hitag2             |
+| Legic Prime       | ❌   | ❌    | ❌   | ❌      | Proprietary protocol              |
 
-***Note:*** *While T5577 and EM4305's can be written, they are rarely handed out as ID badges.*
+***Key:*** *Check = Already implimented as of latest official firmware. No mark = Could be implemented in the future. Cross mark = Unlikely to ever be implemented or impossible.*
 
 ### How do I identify which type of card/tag I have?
 > To determine the protocol (NFC, RFID, or iClass/PicoPass) you'll need to attempt reading in each corresponding app. If nothing works, check the tag/card for any markings or indications. As a last resort, take a picture of the card/fob and the reader and ask in the [Flipper Discord server](https://flipperzero.one/discord).
 
 ### How do I identify which type of NFC tag I have?
-> Run the "Read card" action in the NFC app. If you don't see "NFC-A", your card is unfortunately unsupported.
-> Note that you've only read the card UID and type, *not the actual data.* For that you need to select the "Run compatible app" option.
+> Run the "Read card" action in the NFC app. Only NFC-A type tags are supported (Mifare/NTAG/Some EMV).
+> Once successfully read, the tag's type is displayed in bold at the top of the screen.
 
-### Why can't I write an NFC tag?
-> This will become possible in the near future with a firmware update.
+### Which NFC tags can I write?
+> Currently, Mifare Classic's are the only NFC card that can be written to.
+> More will be added in the future with firmware updates.
 
 ### I was told a Mifare Ultralight/NTAG tag has password-protected sectors. What does that mean?
 > Either the read was interrupted, or the tag is actually password protected.
 > First, try reading the tag again but make sure it stays on the back of the device until the info screen pops up.
-> If you're still seeing the warning, Flipper can unlock Amiibo and some Xaomi tags, but be warned that there's a risk of **bricking** your tag if you use the wrong password too many times.
+> If you're still seeing the warning, Flipper can unlock *legally distinct NFC-enabled figurines that are pronounced like "Ameebo"* and Xaomi air filter tags, but be warned that there's a risk of **bricking** your tag if you use the wrong password too many times.
 
 ### Why does it take so long to read a Mifare Classic?
 > Mifare classics are split up into sectors, these sectors are protected by two keys. To read a Mifare Classic, Flipper uses a dictionary attack, which takes a big list currently comprised of 1241 common keys, and checks them individually against each sector on the card. If you know the keys, they can be manually added to the User Dictionary under the "Extra Actions" menu.
@@ -280,9 +313,9 @@
 > (WIP, Note to self: https://regex101.com/r/iXmE2N/2)
 
 ### Why isn't Mifare Classic emulation working?
-> There are a number of reasons, some of which can be fixed while others can't. The first thing you should check is that all sectors were read from the card. If not, look at the questions above.
-> On the hardware side: Mifare Classic emulation is handled by the CPU, except the clock cycle can't conform to the exact (and strict) timings that these tags communicate with.
-> On the software side: Some rarely used card commands (counters, restore, and transfer) haven't been implimented, thus they will always fail during emulation.
+> Flipper emulates Mifare Classics according to official specification docs (at 13.56 mhz), however certain card readers operate at slightly different frequencies (such as 13.50 mhz). Since Flipper is unable to detect the frequency (like a real card does), it also can't correct for these minor errors.
+> As a result, data transmission doesn't always occur when the reader expects it, and thus emulation is imperfect.
+> There are a few theoretical ways to fix this with software, but the best option would require hardware modification.
 
 ### Why can't I save/emulate Mifare DESFire?
 > DESFire is a very complicated and much more secure chipset. There are no known attacks against it yet.
@@ -295,12 +328,29 @@
 > You'll need to use a NFC-enabled smartphone with an app that can write tags. One of the easiest to use apps is called NFC Tools, available for both [Android](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc) and [iOS](https://apps.apple.com/us/app/nfc-tools/id1252962749). Due to Mifare Classic emulation quirks, you can only edit the data of saved NTAG and Mifare Ultralight tags. Create an empty NTAG216 with the "Add Manually" action in the NFC app if you don't have one already. Save that tag, then open it from the list. Once you start emulating the tag, you can use the NFC Tools smartphone app to write information on to the emulated tag. This is saved to a .shd file with the same name as the emulated tag. If you need a quick way to generate a tag containing a URL, you can use [Flipper Maker's NFC Creator tool](https://flippermaker.github.io/) online.
 
 ### Why doesn't my bank card work when I emulate it?
-> EMV Credit/Debit cards are mostly encrypted. The information Flipper reads is the unencrypted portion of the card. This alone is not enough to emulate and complete a transaction. It is impossible to read the encrypted parts. 
+> EMV Credit/Debit cards are mostly encrypted. The information Flipper reads is the unencrypted portion of the card. This alone is not enough to emulate and complete a transaction. It is impossible to read the encrypted parts.
+
+### Is there any way to save then emulate a bank card to authorize transactions?
+> No, as explained in the previous question.
+
+### Why does the NFC feature table say bank cards can be read?
+> Most NFC-enabled bank cards expose their card number unencrypted. The expiration date, CVV, and ZIP code are not revealed.
+> The card number alone is not enough to create a transaction, thus there's no reason to add a save option.
+
+### Can Flipper emulate a payment terminal and authorize transactions?
+> No. Are you starting to see a pattern here?
 
 ### Where is the "USB/LibNFC NFC Reader" feature mentioned in the [September blog post](https://blog.flipperzero.one/september-progress/)?
 > This was scrapped due to timing issues, more details in [this GitHub issue](https://github.com/flipperdevices/flipperzero-firmware/issues/1173#issuecomment-1127728562).
 
-
+### Where can I learn more about NFC and RFID technology?
+> - Introduction to both Low Frequency and High Frequency: https://blog.flipperzero.one/rfid/
+> - Types of NFC https://www.rfwireless-world.com/Tutorials/NFC-Type1-Tag-vs-NFC-Type2-Tag-vs-NFC-Type3-Tag-NFC-Type4-Tag-Types.html
+> - Mifare Classic: https://learn.adafruit.com/adafruit-pn532-rfid-nfc/mifare
+> - The Mifare Family: https://en.wikipedia.org/wiki/MIFARE
+> - Datasheets: http://www.proxmark.org/files/Documents/
+> - Common RFID Standards and protocols: https://www.asiarfid.com/common-rfid-standards-and-protocols.html
+> - RFID Standards: ISO, IEC, EPCglobal: https://www.electronics-notes.com/articles/connectivity/rfid-radio-frequency-identification/standards-iec-iso-epcglobal.php
 
 ## Infrared [🔝](#top)
 
@@ -317,7 +367,11 @@
 
 
 ## BadUSB [🔝](#top)
-> *(WIP)*
+
+### I'm on a Non-US QWERTY keyboard, how do I make scripts work?
+> Until a solution is put into the firmware, your best choice is trying one of the following converters:
+> - [http://helppox.com/badusbconvert.html](http://helppox.com/badusbconvert.html)
+> - [https://flippermaker.github.io/](https://flippermaker.github.io/) (BadUSB String To Alt Code)
 
 
 
