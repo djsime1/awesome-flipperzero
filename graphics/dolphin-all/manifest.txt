@@ -1,6 +1,48 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
+Name: anon/anon_bondage_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: anon/anon_booty_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: anon/anon_row_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: anon/anon_tiddies_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: anon/anon_titties_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: anon/anon_witchy_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
 Name: Arkaivos/L1_Mew_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -48,7 +90,7 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
 Name: L2_Furippa2_128x64
 Min butthurt: 0
@@ -765,6 +807,27 @@ Max level: 30
 Weight: 7
 
 Name: RM/RM_R0shi_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_sao1_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_sao2_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_sao3_128x64
 Min butthurt: 0
 Max butthurt: 5
 Min level: 1
