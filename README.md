@@ -66,11 +66,7 @@
 - [`Sentry Safe` Plugin that can open any Sentry Safe and Master Lock electronic safe without entering pin code.](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin)
 - [`Dec/Hex Converter` Small "real time" decimal/hexadecimal converter.](https://github.com/theisolinearchip/flipperzero_stuff/tree/main/applications/dec_hex_converter)
 - [`MultiConverter` Multi-unit converter that can be easily expanded with new units and conversion methods.](https://github.com/theisolinearchip/flipperzero_stuff/tree/main/applications/multi_converter)
-- [`Doom` Doom-like clone for Flipper Zero.](https://github.com/p4nic4ttack/doom-flipper-zero)
-- [`bpm-tapper` Tap along to a song to measure beats per minute.](https://github.com/panki27/bpm-tapper)
-- [`Metronome` Musical metronome.](https://github.com/panki27/Metronome)
-- [`USB Keyboard` A refactor of the BT remote to work over USB. Allows the Flipper to act as an USB HID keyboard.](https://github.com/huuck/FlipperZeroUSBKeyboard)
-- [`Minesweeper` Minesweeper implementation.](https://github.com/panki27/minesweeper)
+- [`USB Keyboard` A refactor of the BT remote to work over USB. Allows the flipper to act as an USB HID keyboard.](https://github.com/huuck/FlipperZeroUSBKeyboard)
 
 ## Firmwares & Tweaks
 
