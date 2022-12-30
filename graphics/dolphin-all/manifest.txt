@@ -24,7 +24,7 @@ Weight: 5
 
 Name: L1_Boxing_128x64
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 0
@@ -38,49 +38,56 @@ Weight: 0
 
 Name: L1_Furippa1_128x64
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 3
 
+Name: L1_Mods_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 5
+
 Name: L2_Furippa2_128x64
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 3
 
 Name: L3_Furippa3_128x64
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 3
 
 Name: L2_Hacking_pc_128x64
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 4
 
 Name: L3_Hijack_radio_128x64
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 4
 
 Name: L3_Lab_research_128x54
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 4
 
 Name: L1_Laptop_128x51
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 4
@@ -108,35 +115,35 @@ Weight: 5
 
 Name: L1_Read_books_128x64
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 3
 
 Name: L1_Recording_128x51
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 4
 
 Name: L1_Sleep_128x64
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 3
 
 Name: L2_Soldering_128x64
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 5
 
 Name: L1_Waves_128x50
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 3
@@ -598,7 +605,7 @@ Weight: 2
 
 Name: MjK/L1_MjkDolphin_128x64
 Min butthurt: 0
-Max butthurt: 10
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 1
