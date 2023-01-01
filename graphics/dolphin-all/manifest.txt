@@ -729,9 +729,37 @@ Min level: 1
 Max level: 30
 Weight: 4
 
+Name: RM_AlbertEinstein_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM_AlbertEinstein2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: RM/RM_ChiChi_128x64
 Min butthurt: 0
 Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM_FaradaySuit_128X64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM_GalileoGalilei_128x64
+Min butthurt: 0
+Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 7
@@ -765,6 +793,13 @@ Max level: 30
 Weight: 7
 
 Name: RM/RM_Init_D_Water_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM_IssacNewton_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
