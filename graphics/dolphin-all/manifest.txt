@@ -799,6 +799,13 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: RM/RM_MarieCurie_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: RM/RM_NikolaTesla_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -842,6 +849,13 @@ Max level: 30
 Weight: 7
 
 Name: RM/RM_sao3_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_Science_128x64
 Min butthurt: 0
 Max butthurt: 5
 Min level: 1
