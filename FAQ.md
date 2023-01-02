@@ -315,7 +315,7 @@
 ### Why isn't Mifare Classic emulation working?
 > Flipper emulates Mifare Classics according to official specification docs (at 13.56 mhz), however certain card readers operate at slightly different frequencies (such as 13.50 mhz). Since Flipper is unable to detect the frequency (like a real card does), it also can't correct for these minor errors.
 > As a result, data transmission doesn't always occur when the reader expects it, and thus emulation is imperfect.
-> There are a few theoretical ways to fix this with software, but the best option would require hardware modification.
+> There are a few theoretical ways to fix this with software, but the best option would require a new hardware revision.
 
 ### Why can't I save/emulate Mifare DESFire?
 > DESFire is a very complicated and much more secure chipset. There are no known attacks against it yet.
