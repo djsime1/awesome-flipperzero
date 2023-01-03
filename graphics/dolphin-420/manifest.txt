@@ -1,6 +1,13 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
+Name: MjK_dabs_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: RM_HomerW33d_128x64
 Min butthurt: 0
 Max butthurt: 14
