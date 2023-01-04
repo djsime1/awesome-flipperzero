@@ -125,7 +125,7 @@
 - [`Soft TPU cover` Similar to the official silicone case.](https://www.printables.com/en/model/272676-soft-tpu-flipper-zero-cover)
 - [`Flipper-Boy` Flipper Zero Case with 22mm Watch Strap Adapter.](https://www.printables.com/model/304243-flipper-boy)
 - [`WiFi Devboard Pelican Case` Top case that works with the 4mm FZ Pelican case.](https://github.com/Z3BRO/Flipper-Zero-Pelican-Case-Wifi-Devboard)
-- [`RGB Backlight mod` Replace your Flipper LCD's backlight with Adafruit Neopixels.](https://github.com/Z3BRO/Flipper-Zero-RBG-Backlight)
+- [`FlipperZero RGB backlight` Replacing stock backlight with RGB](https://github.com/quen0n/flipperzero-firmware-rgb)
 
 ## Off-device & Debugging
 - [`Official Web Interface` Web interface to interact with Flipper, including Paint and SUB/IR analyzer.](https://my.flipp.dev/)
