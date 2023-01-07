@@ -75,7 +75,7 @@
 - [`GPS` Display data from a serial GPS module.](https://github.com/ezod/flipperzero-gps)
 - [`USB HID Autofire` Send left-clicks as a USB HID device.](https://github.com/pbek/usb_hid_autofire)
 - [`Flipper Authenticator` Generate TOTP authentication codes.](https://github.com/akopachov/flipper-zero_authenticator/)
-- [`Unitemp` Application for reading temperature, humidity and pressure sensors using Onewire, Singlewire, I2C protocols](https://github.com/quen0n/unitemp-flipperzero)
+- [`Unitemp` Temperature, humidity and pressure sensors reader (DHT11/22, DS18B20, BMP280, HTU21x and more)](https://github.com/quen0n/unitemp-flipperzero)
 - [`Flipp Pomodoro` Pomodoro Timer Tool for productivity.](https://github.com/Th3Un1q3/flipp_pomodoro)
 
 ## Firmwares & Tweaks
