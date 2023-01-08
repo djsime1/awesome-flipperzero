@@ -106,6 +106,13 @@ Min level: 18
 Max level: 30
 Weight: 0
 
+Name: RM_DiscordOver9000_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: RM_G0G374_128x64
 Min butthurt: 0
 Max butthurt: 14
