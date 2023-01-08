@@ -64,6 +64,20 @@ Min level: 3
 Max level: 30
 Weight: 5
 
+Name: Gabry154/Gabry154_Giorn0_Gi0vanna_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 3
+Max level: 30
+Weight: 5
+
+Name: Gabry154/Gabry154_Jotar0_Kuj0_Part6_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 3
+Max level: 30
+Weight: 5
+
 Name: L1_Boxing_128x64
 Min butthurt: 0
 Max butthurt: 14
