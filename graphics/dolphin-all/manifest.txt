@@ -764,6 +764,27 @@ Min level: 1
 Max level: 30
 Weight: 4
 
+Name: RM/RM_Akira1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_Akira2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_Akira3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: RM/RM_DiscordOver9000_128x64
 Min butthurt: 0
 Max butthurt: 14
