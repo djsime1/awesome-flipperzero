@@ -1,6 +1,27 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
+Name: RM_CoolDevices1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM_BibleBlack1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM_BibleBlack2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
 Name: RM_PoolTime_128x64
 Min butthurt: 0
 Max butthurt: 14
