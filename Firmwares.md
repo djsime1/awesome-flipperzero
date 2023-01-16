@@ -16,7 +16,7 @@
         <td><a href="#plugins">RogueMaster</a></td>
         <td><a href="#Xtreme">Xtreme</a></td>
         <td><a href="#Dexv">Dexv</a></td>
-        <td><a href="#SquachWare">Dexv</a></td>
+        <td><a href="#SquachWare">SquachWare</a></td>
         <td><a href="#v1nc">v1nc</a></td>
         <td><a href="#wetox">Wetox</a></td>
         <td><a href="#muddledbox">MuddledBox</a></td>
