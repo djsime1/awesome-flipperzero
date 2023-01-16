@@ -41,25 +41,6 @@
                     shipping address)</a> so they can assist you easier in case of an RMA.</em></li>
     </ul>
 </ul>
-<h2 id="SquachWare">
-    🌲 SquachWare
-    <kbd>
-        <a href="https://github.com/skizzophrenic/SquachWare-CFW">skizzophrenic/SquachWare-CFW</a>
-    </kbd>
-</h2>
-<ul>
-    <li><em>(OEM+)</em></li>
-    <li>Fresh and active firmware forked from OFW.</li>
-    <li>Adds custom animations/moods.</li>
-    <li>Includes built in name changer! (No recompile required to change your devices name)</li>
-    <li>Includes extra community based apps and plugins through SD Application loader (FAP files).</li>
-    <li>Includes community based Bad USB scripts.</li>
-    <li>Includes Sub-GHz files out of the box (Community based).</li>
-            <ul>
-            <li>More details can be found in their <a
-                    href="https://github.com/skizzophrenic/SquachWare-CFW">README</a>.</li>
-        </ul>
-</ul>
 <h2 id="unleashed">
     🔓 Unleashed
     <kbd>
@@ -139,6 +120,25 @@
     <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
     <li>Adds extra custom assets <em>(Mifare classic dict, 18+ animations, example files, etc)</em>.</li>
     <li>Includes extra apps and plugins from the general community through SD Application loader (FAP files).</li>
+</ul>
+<h2 id="SquachWare">
+    🌲 SquachWare
+    <kbd>
+        <a href="https://github.com/skizzophrenic/SquachWare-CFW">skizzophrenic/SquachWare-CFW</a>
+    </kbd>
+</h2>
+<ul>
+    <li><em>(OEM+)</em></li>
+    <li>Fresh and active firmware forked from OFW.</li>
+    <li>Adds custom animations/moods.</li>
+    <li>Includes built in name changer! (No recompile required to change your devices name)</li>
+    <li>Includes extra community based apps and plugins through SD Application loader (FAP files).</li>
+    <li>Includes community based Bad USB scripts.</li>
+    <li>Includes Sub-GHz files out of the box (Community based).</li>
+            <ul>
+            <li>More details can be found in their <a
+                    href="https://github.com/skizzophrenic/SquachWare-CFW">README</a>.</li>
+        </ul>
 </ul>
 <h2 id="v1nc">
     ⌨ v1nc
