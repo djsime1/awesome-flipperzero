@@ -1,6 +1,6 @@
 <h1>Flipper Zero firmware differences</h1>
 <h3>
-    <code>::</code> Last updated Nov 24 2022. <code>::</code>
+    <code>::</code> Last updated Jan 20 2023. <code>::</code>
 </h3>
 <p>
     This document maintains a list of differences between various forks of the
@@ -131,7 +131,7 @@
     <li><em>(OEM+)</em></li>
     <li>Fresh and active firmware forked from OFW.</li>
     <li>Adds custom animations/moods.</li>
-    <li>Includes built in name changer! (No recompile required to change your devices name)</li>
+    <li>Includes built-in name changer! (No recompile required to change your devices name).</li>
     <li>Includes extra community based apps and plugins through SD Application loader (FAP files).</li>
     <li>Includes community based Bad USB scripts.</li>
     <li>Includes Sub-GHz files out of the box (Community based).</li>
@@ -188,4 +188,5 @@
     <li>Unleashed is more focused on core functionality, stability, and Sub-GHz protocols.</li>
     <li>RogueMaster is more focused on visual tweaks, new items, and changes (some experimental).</li>
     <li>RogueMaster is based on Unleashed, but may be less stable than Unleashed in some circumstances.</li>
+    <li>SquachWare is forked from OFW, adding lots of custom stuff to play with out of the box all while retaining the securities and comfort of OFW.</li>
 </ul>
