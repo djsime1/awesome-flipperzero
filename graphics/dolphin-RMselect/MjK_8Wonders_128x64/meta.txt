@@ -1,0 +1,41 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 48
+Active frames: 8
+Frames order: 0 0 0 0 0 0 1 1 1 1 1 1 2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 5 6 6 6 6 6 6 7 7 7 7 7 7 0 1 2 3 4 5 6 7
+Active cycles: 1
+Frame rate: 1
+Duration: 3600
+Active cooldown: 7
+
+Bubble slots: 0
+
+Slot: 0
+X: 1
+Y: 17
+Text: I am Mad Scientist
+AlignH: Right
+AlignV: Bottom
+StartFrame: 2
+EndFrame: 9
+
+Slot: 0
+X: 1
+Y: 17
+Text: It's so COOOOL
+AlignH: Right
+AlignV: Center
+StartFrame: 10
+EndFrame: 15
+
+Slot: 0
+X: 1
+Y: 17
+Text: Sonovabitch
+AlignH: Left
+AlignV: Center
+StartFrame: 16
+EndFrame: 23
