@@ -77,6 +77,7 @@
 - [`Flipper Authenticator` Generate TOTP authentication codes.](https://github.com/akopachov/flipper-zero_authenticator/)
 - [`Unitemp` Application for reading temperature, humidity and pressure sensors using Onewire, Singlewire, I2C protocols](https://github.com/quen0n/unitemp-flipperzero)
 - [`Flipp Pomodoro` Pomodoro Timer Tool for productivity.](https://github.com/Th3Un1q3/flipp_pomodoro)
+- [`COM Port Scanner Emulator` Barcode Scanner Emulator.](https://github.com/polarikus/flipper-zero_bc_scanner_emulator)
 
 ## Firmwares & Tweaks
 
