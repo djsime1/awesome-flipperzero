@@ -78,152 +78,12 @@ Min level: 3
 Max level: 30
 Weight: 5
 
-Name: L1_Boxing_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 0
-
-Name: L1_Cry_128x64
-Min butthurt: 0
-Max butthurt: 13
-Min level: 1
-Max level: 30
-Weight: 0
-
-Name: L1_Furippa1_128x64
+Name: Haseo/Allen_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 3
-
-Name: L1_Mods_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: L2_Furippa2_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: L3_Furippa3_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: L2_Hacking_pc_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 4
-
-Name: L3_Hijack_radio_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 4
-
-Name: L3_Lab_research_128x54
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 4
-
-Name: L1_Laptop_128x51
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 4
-
-Name: L1_Leaving_sad_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 0
-
-Name: L1_Mad_fist_128x64
-Min butthurt: 0
-Max butthurt: 13
-Min level: 1
-Max level: 30
-Weight: 0
-
-Name: L1_Painting_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 5
-
-Name: L1_Read_books_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: L1_Recording_128x51
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 4
-
-Name: L1_Sleep_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: L1_Sleigh_ride_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 5
-
-Name: L2_Soldering_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 5
-
-Name: L2_Wake_up_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 5
-
-Name: L1_Waves_128x50
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: L1_Happy_holidays_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 14
 
 Name: Haseo/Haseo_80s_128x64
 Min butthurt: 0
@@ -232,54 +92,12 @@ Min level: 1
 Max level: 30
 Weight: 5
 
-Name: Haseo/L1_A_New_Hope_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Haseo/Allen_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
 Name: Haseo/Haseo_Bleach_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 7
-
-Name: Haseo/L1_B0ws3r_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: Haseo/L1_DVA_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: Haseo/L1_Dino3_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 2
-
-Name: Haseo/L1_GITS_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
 
 Name: Haseo/Haseo_G0ku_128x64
 Min butthurt: 0
@@ -295,7 +113,49 @@ Min level: 1
 Max level: 30
 Weight: 7
 
-Name: Haseo/Maha_128x64
+Name: Haseo/Haseo_Mug1wara_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_Sharingan_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/L1_A_New_Hope_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 1
+
+Name: Haseo/L1_B0ws3r_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/L1_Dino3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 2
+
+Name: Haseo/L1_DVA_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Haseo/L1_GITS_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -309,28 +169,7 @@ Min level: 1
 Max level: 30
 Weight: 7
 
-Name: Haseo/Haseo_Mug1wara_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
 Name: Haseo/L1_NyanCat_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: Haseo/On3_Pi3ce_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: Haseo/Haseo_Sharingan_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -351,47 +190,26 @@ Min level: 1
 Max level: 30
 Weight: 3
 
+Name: Haseo/Maha_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Haseo/On3_Pi3ce_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: Haseo/Umbrella_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 3
-
-Name: Kuronons/L1_Earth_Arcadia_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: Kuronons/L1_Eye_of_the_Flipper_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: Kuronons/L1_LaughingMan_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: Kuronons/Kuronons_L_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: Kuronons/Kuronons_RMCFW_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 2
-Max level: 30
-Weight: 7
 
 Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Angot_128x64
 Min butthurt: 0
@@ -603,63 +421,224 @@ Min level: 1
 Max level: 30
 Weight: 1
 
+Name: Kuronons/Kuronons_L_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Kuronons/Kuronons_RMCFW_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 2
+Max level: 30
+Weight: 7
+
+Name: Kuronons/L1_Earth_Arcadia_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: Kuronons/L1_Eye_of_the_Flipper_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 4
+
+Name: Kuronons/L1_LaughingMan_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
 Name: Kuronons/SFlogo/Kuronons_SFlogo_Cyberdyne_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 1
+Weight: 5
 
 Name: Kuronons/SFlogo/Kuronons_SFlogo_OCP_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 1
+Weight: 5
 
 Name: Kuronons/SFlogo/Kuronons_SFlogo_Rekall_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 1
+Weight: 5
 
 Name: Kuronons/SFlogo/Kuronons_SFlogo_Skynet_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 1
+Weight: 5
 
 Name: Kuronons/SFlogo/Kuronons_SFlogo_Tyrell_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 1
+Weight: 5
 
 Name: Kuronons/SFlogo/Kuronons_SFlogo_Weyland_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 1
+Weight: 5
 
-Name: MjK/MjK_8Wonders_128x64
+Name: L1_Boxing_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: L1_Cry_128x64
+Min butthurt: 0
+Max butthurt: 13
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: L1_Furippa1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: L1_Happy_holidays_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: L1_Laptop_128x51
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 4
+
+Name: L1_Leaving_sad_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: L1_Mad_fist_128x64
+Min butthurt: 0
+Max butthurt: 13
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: L1_Mods_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 7
 
-Name: MjK/MjK_dabs_128x64
+Name: L1_Painting_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 5
 
-Name: MjK/MjK_Akira_128x64
+Name: L1_Read_books_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: L1_Recording_128x51
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 4
+
+Name: L1_Sleep_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: L1_Sleigh_ride_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 5
+
+Name: L1_Waves_128x50
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: L2_Furippa2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: L2_Hacking_pc_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 4
+
+Name: L2_Soldering_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 5
+
+Name: L2_Wake_up_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 5
+
+Name: L3_Furippa3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 3
+
+Name: L3_Hijack_radio_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 4
+
+Name: L3_Lab_research_128x54
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -672,20 +651,6 @@ Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 3
-
-Name: MjK/MjK_LionsRoar_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 4
-
-Name: MjK/MjK_Mad_Sci_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 2
 
 Name: MjK/L1_MjkDolphin_128x64
 Min butthurt: 0
@@ -715,14 +680,49 @@ Min level: 1
 Max level: 30
 Weight: 4
 
-Name: MjK/MjK_Starfield_128x64
+Name: MjK/L1_Thanks4fish_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 5
 
-Name: MjK/L1_Thanks4fish_128x64
+Name: MjK/MjK_8Wonders_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: MjK/MjK_Akira_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 4
+
+Name: MjK/MjK_dabs_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: MjK/MjK_LionsRoar_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 4
+
+Name: MjK/MjK_Mad_Sci_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 2
+
+Name: MjK/MjK_Starfield_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -735,13 +735,6 @@ Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 1
-
-Name: MjK/18/MjK_h3ntai_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
 
 Name: NeonK/NeonK_Calcifer
 Min butthurt: 0
@@ -769,7 +762,126 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 4
+Weight: 5
+
+Name: RM/18/RM_AikaZer0_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_AikaZer0_2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_BibleBlack1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_BibleBlack2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_BulmFlash_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_CoolDevices1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_FroInn_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_G0kuPatPat_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_Hentai1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_HSDxDH7_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_Kaz0ku_Haha_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_P3achRun_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_PoolTime2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_PoolTime_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_Rias1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_Rias2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 18
+Max level: 30
+Weight: 0
+
+Name: RM/18/RM_Sail0rM00n_128x64
+Min butthurt: 0
+Max butthurt: 5
+Min level: 18
+Max level: 30
+Weight: 0
 
 Name: RM/RM_Akira1_128x64
 Min butthurt: 0
@@ -792,68 +904,19 @@ Min level: 1
 Max level: 30
 Weight: 7
 
-Name: RM/RM_DiscordOver9000_128x64
+Name: RM/RM_AlbertEinstein2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 8
 
-Name: RM/RM_HomerW33d_128x64
+Name: RM/RM_AlbertEinstein_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
-
-Name: RM/RM_Stoned_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: RM/RM_W33dRain_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: RM/RM_W33dRoll_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: RM/RM_W33dTrippy_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: RM/RM_GratefulDead_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: RM_AlbertEinstein_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: RM_AlbertEinstein2_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
+Weight: 8
 
 Name: RM/RM_ChiChi_128x64
 Min butthurt: 0
@@ -862,14 +925,7 @@ Min level: 1
 Max level: 30
 Weight: 7
 
-Name: RM_FaradaySuit_128X64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: RM_GalileoGalilei_128x64
+Name: RM/RM_DiscordOver9000_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -890,6 +946,20 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: RM/RM_GalileoGalilei_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: RM/RM_GratefulDead_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: RM/RM_Halloween_128_64
 Min butthurt: 0
 Max butthurt: 14
@@ -904,6 +974,20 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: RM/RM_HomerW33d_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_ImIn_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: RM/RM_Init_D_Water_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -911,7 +995,7 @@ Min level: 1
 Max level: 30
 Weight: 7
 
-Name: RM_IssacNewton_128x64
+Name: RM/RM_IssacNewton_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -953,14 +1037,14 @@ Min level: 1
 Max level: 30
 Weight: 7
 
-Name: RM/RM_NikolaTesla_128x64
+Name: RM/RM_NikolaTesla2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 7
 
-Name: RM/RM_NikolaTesla2_128x64
+Name: RM/RM_NikolaTesla_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -1009,7 +1093,35 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: RM/RM_Stoned_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: RM/RM_Tardi5_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_W33dRain_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_W33dRoll_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_W33dTrippy_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -1026,125 +1138,6 @@ Weight: 0
 Name: RM/RM_Z3lda_R3ady_128x64
 Min butthurt: 0
 Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_CoolDevices1_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_BibleBlack1_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_BibleBlack2_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_AikaZer0_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_AikaZer0_2_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_BulmFlash_128x64
-Min butthurt: 0
-Max butthurt: 5
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_FroInn_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_G0kuPatPat_128x64
-Min butthurt: 0
-Max butthurt: 5
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_Hentai1_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_HSDxDH7_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_Kaz0ku_Haha_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_P3achRun_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_PoolTime_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_PoolTime2_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_Rias1_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_Rias2_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 18
-Max level: 30
-Weight: 0
-
-Name: RM/18/RM_Sail0rM00n_128x64
-Min butthurt: 0
-Max butthurt: 5
 Min level: 18
 Max level: 30
 Weight: 0
@@ -1196,14 +1189,14 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 4
 
 Name: Sasquach/Sasquach_StickFight_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 4
 
 Name: STOPOXY/STOPOXY_SCHOOL_DAYS_128x64
 Min butthurt: 0
@@ -1233,12 +1226,19 @@ Min level: 2
 Max level: 30
 Weight: 7
 
+Name: synthetikspace/synthetikspace_Anonomask_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: Syrius/L1_Agumon_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
 Name: Syrius/L1_Rukamon_128x64
 Min butthurt: 0
@@ -1254,6 +1254,55 @@ Min level: 1
 Max level: 30
 Weight: 3
 
+Name: TH3WR3NCH/TH3WR3NCH_DEDSEC1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: TH3WR3NCH/TH3WR3NCH_ERROR_INV_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: TH3WR3NCH/TH3WR3NCH_FSOCIETY_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: TH3WR3NCH/TH3WR3NCH_HACKERMAN_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: TH3WR3NCH/TH3WR3NCH_HACKERMAN_ALT_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: TH3WR3NCH/TH3WR3NCH_JOINUS_SR_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: TH3WR3NCH/TH3WR3NCH_MESS_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: ut1s/L1_DJ_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -1265,13 +1314,6 @@ Name: wotori/L1_Purple_rain_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
-Max level: 30
-Weight: 7
-
-Name: xMasterX/L3_Fireplace_128x64
-Min butthurt: 0
-Max butthurt: 13
-Min level: 10
 Max level: 30
 Weight: 7
 
@@ -1288,3 +1330,10 @@ Max butthurt: 13
 Min level: 1
 Max level: 30
 Weight: 8
+
+Name: xMasterX/L3_Fireplace_128x64
+Min butthurt: 0
+Max butthurt: 13
+Min level: 10
+Max level: 30
+Weight: 7
