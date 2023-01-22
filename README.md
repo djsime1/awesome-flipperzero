@@ -108,6 +108,7 @@
 - [`Dexv Graphics` Custom animations and resources.](https://github.com/DXVVAY/dexv-graphics)
 - [`DoobTheGoober Animations` Custom animations from the creator of zip2Animation](https://github.com/CharlesTheGreat77/FlipperZeroAnimation)
 - [`UberGuidoZ Graphics` Brief description and links to resources, including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics)
+- [`Animations by mnenkov` A dump with animations and manifest creator for batch files.](https://github.com/mnenkov/flipper-zero-animations)
 
 ## Modules & Cases
 - [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
