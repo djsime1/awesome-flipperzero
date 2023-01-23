@@ -11,12 +11,12 @@ Frame rate: 2
 Duration: 3600
 Active cooldown: 7
 
-Bubble slots: 1
+Bubble slots: 2
 
 Slot: 0
 X: 57
 Y: 24
-Text: No mistakes,
+Text: $20 to put this
 AlignH: Left
 AlignV: Center
 StartFrame: 11
@@ -25,7 +25,25 @@ EndFrame: 14
 Slot: 0
 X: 57
 Y: 21
-Text: only happy\n accidents
+Text: in my blowhole
+AlignH: Left
+AlignV: Center
+StartFrame: 15
+EndFrame: 18
+
+Slot: 1
+X: 57
+Y: 24
+Text: How many dicks
+AlignH: Left
+AlignV: Center
+StartFrame: 11
+EndFrame: 14
+
+Slot: 0
+X: 57
+Y: 21
+Text: we drawing today?
 AlignH: Left
 AlignV: Center
 StartFrame: 15
