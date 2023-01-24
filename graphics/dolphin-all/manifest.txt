@@ -645,6 +645,62 @@ Min level: 1
 Max level: 30
 Weight: 4
 
+Name: loriKesso/IoriKesso_Cerberus_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_Gura2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_Gura3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_Gura_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_nswf1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_SailorMoon_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_Satania_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_ShutenDouji_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: MjK/L1_Digi_rain_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -1322,7 +1378,7 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 8
 
 Name: xMasterX/L1_Halloween_128x64
 Min butthurt: 0
