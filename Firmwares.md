@@ -117,7 +117,7 @@
     <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
     <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
     <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
-    <li>Adds extra custom assets <em>(Mifare classic dict, 18+ animations, example files, etc)</em>.</li>
+    <li>Adds extra custom assets <em>(Mifare classic dict, example files, etc)</em>.</li>
     <li>Includes extra apps and plugins from the general community through SD Application loader (FAP files).</li>
 </ul>
 <h2 id="v1nc">
