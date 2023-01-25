@@ -1,6 +1,48 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
+Name: anon_bondage_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: anon_booty_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: anon_row_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: anon_tiddies_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: anon_titties_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: anon_witchy_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
 Name: FelixTwoTone_Veemon_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -50,54 +92,110 @@ Min level: 1
 Max level: 30
 Weight: 8
 
+Name: IoriKesso_Gon1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: IoriKesso_Gon2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: IoriKesso_Gura2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: IoriKesso_Gura3_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: IoriKesso_Gura_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
+
+Name: IoriKesso_Ikazuchi_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: IoriKesso_Misato2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
 
 Name: IoriKesso_nswf1_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
+
+Name: IoriKesso_Sailor2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: IoriKesso_Sailor3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
 
 Name: IoriKesso_SailorMoon_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: IoriKesso_Satania_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: IoriKesso_ShutenDouji_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
+
+Name: IoriKesso_Sukuna_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: IoriKesso_yuudachi_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
 
 Name: Kuronons_RMCFW_128x64
 Min butthurt: 0
@@ -153,7 +251,7 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
 Name: L1_Purple_rain_128x64
 Min butthurt: 0
@@ -203,6 +301,13 @@ Max butthurt: 14
 Min level: 2
 Max level: 30
 Weight: 4
+
+Name: L2_Wake_up_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
 
 Name: L3_Hijack_radio_128x64
 Min butthurt: 0

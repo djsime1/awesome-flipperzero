@@ -650,14 +650,28 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
+
+Name: loriKesso/IoriKesso_Gon1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_Gon2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
 
 Name: loriKesso/IoriKesso_Gura2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: loriKesso/IoriKesso_Gura3_128x64
 Min butthurt: 0
@@ -671,35 +685,84 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
+
+Name: loriKesso/IoriKesso_Ikazuchi_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_Misato2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
 
 Name: loriKesso/IoriKesso_nswf1_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
+
+Name: loriKesso/IoriKesso_Sailor2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_Sailor3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
 
 Name: loriKesso/IoriKesso_SailorMoon_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: loriKesso/IoriKesso_Satania_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: loriKesso/IoriKesso_ShutenDouji_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
+
+Name: loriKesso/IoriKesso_Sukuna_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_yuudachi_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: MjK/18/MjK_hentai_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
 
 Name: MjK/L1_Digi_rain_128x64
 Min butthurt: 0
@@ -988,6 +1051,13 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: RM/RM_FaradaySuit_128X64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: RM/RM_G0G374_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -1015,6 +1085,27 @@ Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 7
+
+Name: RM/RM_Hacked_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_Hackerman_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_Hackz_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
 
 Name: RM/RM_Halloween_128_64
 Min butthurt: 0
