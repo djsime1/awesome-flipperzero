@@ -33,6 +33,18 @@
 
 <hr>
 
+<h3 align="center">⏳ Got a few minutes?</h3>
+<p align="center">Please consider filling out this survey! 📝</p>
+<table align="center"><tr><td>
+  <h3 align="center"><a href="https://dj.je/fzs">👉 https://dj.je/fzs 👈</a></h3>
+</td></tr></table>
+<p align="center">
+To celebrate the Flipper's 1-year anniversary <em>(since shipping)</em>, I'm conducting a small research project around Flipper Zero users.<br>
+It will take about 5-10 minutes to complete, and all the open-ended questions are optional. <strong>Thank you!</strong>
+</p>
+
+<hr>
+
 <!-- DO NOT MODIFY ABOVE -->
 
 ## Databases & Dumps
