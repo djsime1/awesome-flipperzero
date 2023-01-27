@@ -1,0 +1,6 @@
+template = "Name: {name}\nMin butthurt: 0\nMax butthurt: 14\nMin level: 1\nMax level: 30\nWeight: 3"
+names = ["name1","name2"]
+
+with open("output.txt", "w") as f:
+    for name in names:
+        f.write(template.format(name=name) + "\n\n")

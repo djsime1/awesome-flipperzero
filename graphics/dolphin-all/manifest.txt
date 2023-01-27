@@ -652,6 +652,13 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: loriKesso/IoriKesso_eva01_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: loriKesso/IoriKesso_Gon1_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -678,7 +685,7 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: loriKesso/IoriKesso_Gura_128x64
 Min butthurt: 0
@@ -695,6 +702,20 @@ Max level: 30
 Weight: 7
 
 Name: loriKesso/IoriKesso_Misato2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_misato3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_misato6_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -737,6 +758,27 @@ Max level: 30
 Weight: 7
 
 Name: loriKesso/IoriKesso_ShutenDouji_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_sinji3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_sukuna2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_sukuna3_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -854,6 +896,1385 @@ Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 1
+
+Name: mnenkov/3Skulls
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/80sCar
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/80sCar_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/911Drift
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/AC
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/ActionMoon
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/AdventurerTimes
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/AnimeRunning
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Arcade
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/AroundTheEarth
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/AssDance
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Astro
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BackToTheFuture
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Bat
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BatemanBaller
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BatemanCard
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BatemanCard_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BatemanSigma
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BatemanSigma1_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BatemanSigmaZoomed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BatemanSigma_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BatemanVeryNice
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Batman
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BecomingZomb
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/belugaTheCat
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BidenZero
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BidenZero_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BoatThinking
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/BossBabySleep
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Bunny
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/CactieDance
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Cadilac
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/ChaosElmo
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/ChaosSpongeBob
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Ciggarete
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/CityHack
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Code
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Code_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Coding
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Coding_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/ComicEye
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/CoolEnergy
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/CoolEnergy_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/CountachDream
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Countdown
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Cr4Zy
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Cyberwar
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Cyberwar_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Death
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/DigitalRain
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/DigitalRainThick
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/DigitalRainThick_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/DigitalRain_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/DonkeyKong
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/DragRace
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/DrivingCar
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/EatingFlesh
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Elon
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/EmenenCrying
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/EnergyD33R
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/EyeTear
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/FinandJakeDance
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Fish
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/FlipperArmy
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Flowers
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Flying
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/FrankyTheGhost
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/FunTime
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/FutureCity
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/GameOfThrones
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/GumballDisapearing
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/GumballSmile
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/HackingCat
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/HackingCat_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/HairAndEye
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/HairChange
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/HeadGlitch
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/HeadGlitch_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Hypno
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/InfiniteBorn
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/InfiniteSpiral
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/InsertToContinue
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Internet
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Internet_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/JDMGame
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/JerryPong
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/JohnWickGun
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/JohnWickWalking
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Journey
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Killing
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Kirby
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Labyrinth
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/LadaFallingApart
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Lake
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/LamboGame
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/LancerEvo
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Lizard
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Loading
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/LotNyan
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/madMax
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/manyEyes
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Mari0
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Matrix
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/MatrixRain
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/MatrixRain_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Matrix_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/MemeHack
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/MemeHack_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/MoonSkull
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Moonwlk
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/MordekayRigby
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/MountainDriving
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/MusicDisk
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Nailing
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Naruto
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/NeoCatchingBullets
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/NeoChallenge
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/NeoChallenge_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/NeoFalling
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/NeoFalling_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/NeoSpawn
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/NeoSpawn_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/NeoStopppingBullets_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/NoSleep
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/NPCRunning
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/NyanDolphin
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/NyanDonut
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/NyanPikachu
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/OhNoHackers
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Ouija
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/P1xN1nja
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/PikaSlap
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/PiratePill
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Power
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Programmer
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/PsychoWalk
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/PugRun
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/PutinControl
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/PutinPCcontrol_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/RainFinJake
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/RainingTram
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Restaurant
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/RetroVibe
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/RobertDowneyJR
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/RobinEyes
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/RobinScream
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/RomanF&F
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/RunningGuy
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/RX-7Drift
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/SamuraiScarf
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/SamuraiVibe
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/ScarySmile
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/ScaryWoman
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Shark
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/ShelbyDocuments
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/ShelbyDoor
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/ShelbyFire
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/ShelbySigma
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/ShelbySmoking
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/SingAndWalk
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/SkullCode
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/SkullCode_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Sleepy
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Snoopdekairigby
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Snoopy
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/SnoopyBirthday
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/SnoopyPingPong
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/spider-man
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Spiral
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Spiral_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/SplittedHuman
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/SpongebobPants
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Squirtle
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Stairs
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Terminator
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/TerminatorTurn
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/TheAnswerIsZero
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/TheAnswerIsZero_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/TokyoDrift
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/TokyoDriftGO
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/TokyoDrift_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/TommyShelbyGang
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Train
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Trainning
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Trueno
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/TunnelRain
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/TunnelRain_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Typing
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Universe
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Uranus
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/WallE
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/WindowsHack
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/WindowsHack_inversed
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/WitchBurn
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Zelda
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Zombie
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: mnenkov/Zombies
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
 
 Name: NeonK/NeonK_Calcifer
 Min butthurt: 0
@@ -1028,21 +2449,21 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: RM/RM_AlbertEinstein_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: RM/RM_AlienC0c3_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: RM/RM_ChiChi_128x64
 Min butthurt: 0
@@ -1056,7 +2477,7 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: RM/RM_DiscordOver9000_128x64
 Min butthurt: 0
@@ -1070,7 +2491,7 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: RM/RM_G0G374_128x64
 Min butthurt: 0
@@ -1091,7 +2512,7 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: RM/RM_GratefulDead_128x64
 Min butthurt: 0
@@ -1119,7 +2540,7 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: RM/RM_Halloween_128_64
 Min butthurt: 0
@@ -1259,7 +2680,7 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: RM/RM_Stoned_128x64
 Min butthurt: 0
@@ -1392,7 +2813,7 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: synthetikspace/synthetikspace_Anonomask_128x64
 Min butthurt: 0
@@ -1490,28 +2911,28 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: xMasterX/L1_Halloween_128x64
 Min butthurt: 0
 Max butthurt: 13
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: xMasterX/L1_Unleashed_New_year_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: xMasterX/L3_Unleashed_Fireplace_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: xMasterX/L3_Unleashed_FlipperMustache_128x64
 Min butthurt: 0
