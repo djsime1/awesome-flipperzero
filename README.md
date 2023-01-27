@@ -33,6 +33,18 @@
 
 <hr>
 
+<h3 align="center">⏳ Got a few minutes?</h3>
+<p align="center">Please consider filling out this survey! 📝</p>
+<table align="center"><tr><td>
+  <h3 align="center"><a href="https://dj.je/fzs">👉 https://dj.je/fzs 👈</a></h3>
+</td></tr></table>
+<p align="center">
+To celebrate the Flipper's 1-year anniversary <em>(since shipping)</em>, I'm conducting a small research project around Flipper Zero users.<br>
+It will take about 5-10 minutes to complete, and all the open-ended questions are optional. <strong>Thank you!</strong>
+</p>
+
+<hr>
+
 <!-- DO NOT MODIFY ABOVE -->
 
 ## Databases & Dumps
@@ -75,8 +87,10 @@
 - [`GPS` Display data from a serial GPS module.](https://github.com/ezod/flipperzero-gps)
 - [`USB HID Autofire` Send left-clicks as a USB HID device.](https://github.com/pbek/usb_hid_autofire)
 - [`Flipper Authenticator` Generate TOTP authentication codes.](https://github.com/akopachov/flipper-zero_authenticator/)
-- [`Unitemp` Application for reading temperature, humidity and pressure sensors using Onewire, Singlewire, I2C protocols](https://github.com/quen0n/unitemp-flipperzero)
+- [`Unitemp` Temperature, humidity and pressure sensors reader (DHT11/22, DS18B20, BMP280, HTU21x and more)](https://github.com/quen0n/unitemp-flipperzero)
 - [`Flipp Pomodoro` Pomodoro Timer Tool for productivity.](https://github.com/Th3Un1q3/flipp_pomodoro)
+- [`COM Port Scanner Emulator` Barcode Scanner Emulator.](https://github.com/polarikus/flipper-zero_bc_scanner_emulator)
+- [`Xbox Controller` Easy controller for Xbox One with IR](https://github.com/gebeto/flipper-xbox-controller)
 
 ## Firmwares & Tweaks
 
@@ -107,6 +121,7 @@
 - [`Dexv Graphics` Custom animations and resources.](https://github.com/DXVVAY/dexv-graphics)
 - [`DoobTheGoober Animations` Custom animations from the creator of zip2Animation](https://github.com/CharlesTheGreat77/FlipperZeroAnimation)
 - [`UberGuidoZ Graphics` Brief description and links to resources, including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics)
+- [`Animations by mnenkov` A dump with animations and manifest creator for batch files.](https://github.com/mnenkov/flipper-zero-animations)
 
 ## Modules & Cases
 - [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
@@ -152,6 +167,7 @@
 - [`flipper0` Rusty crate with safe interface to Flipper Firmware and autogen bindings underneath.](https://crates.io/crates/flipper0)
 - [`flipperzero-rs` Hand-crafted bindings to Flipper Firmware with custom build tool.](https://github.com/dcoles/flipperzero-rs)
 - [`fzfs` Flipper Zero filesystem driver.](https://github.com/dakhnod/fzfs)
+- [`Pagger` Sub-GHz generators for restaurants/kiosks paging systems.](https://github.com/meoker/pagger)
 
 ## Notes & References
 - [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
