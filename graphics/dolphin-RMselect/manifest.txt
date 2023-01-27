@@ -414,6 +414,13 @@ Min level: 18
 Max level: 30
 Weight: 0
 
+Name: RM_Controller_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: RM_CoolDevices1_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -560,6 +567,13 @@ Max butthurt: 14
 Min level: 18
 Max level: 30
 Weight: 0
+
+Name: RM_SSJ3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
 
 Name: RM_Tardi5_128x64
 Min butthurt: 0

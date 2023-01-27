@@ -1037,12 +1037,26 @@ Min level: 1
 Max level: 30
 Weight: 8
 
+Name: RM/RM_AlienC0c3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: RM/RM_ChiChi_128x64
 Min butthurt: 0
 Max butthurt: 5
 Min level: 1
 Max level: 30
 Weight: 7
+
+Name: RM/RM_Controller_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
 
 Name: RM/RM_DiscordOver9000_128x64
 Min butthurt: 0
@@ -1239,6 +1253,13 @@ Max butthurt: 5
 Min level: 1
 Max level: 30
 Weight: 7
+
+Name: RM/RM_SSJ3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
 
 Name: RM/RM_Stoned_128x64
 Min butthurt: 0
