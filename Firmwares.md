@@ -134,7 +134,7 @@
     <li>Includes built-in name changer! (No recompile required to change your devices name).</li>
     <li>Includes extra community based apps and plugins through SD Application loader (FAP files).</li>
     <li>Includes community based Bad USB scripts.</li>
-    <li>Includes community based Sub-GHz files out of the box.</li>
+    <li>Includes community based Sub-GHz files.</li>
             <ul>
             <li>More details can be found in their <a
                     href="https://github.com/skizzophrenic/SquachWare-CFW">README</a>.</li>
