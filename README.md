@@ -103,7 +103,7 @@ It will take about 5-10 minutes to complete, and all the open-ended questions ar
 - [`RogueMaster` Fork of Unleashed firmware with custom graphics, experimental tweaks, community plugins and games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 - [`Xtreme` Official fork with cleaned up codebase, more module extensions and custom assets.](https://github.com/ClaraCrazy/Flipper-Xtreme)
 - [`Dexv` Xtreme fork; The "Will it blend?" of custom firmwares.](https://github.com/DXVVAY/Dexvmaster0)
-- [`SquachWare` Fork of Official firmware which adds custom graphics, community applications and files.](https://github.com/skizzophrenic/SquachWare-CFW)
+- [`SquachWare` Fork of official firmware which adds custom graphics, community applications & files.](https://github.com/skizzophrenic/SquachWare-CFW)
 - [`v1nc flipper zero firmware` Unleashed fork with support for different Duckyscript keyboard layouts & community plugins.](https://github.com/v1nc/flipperzero-firmware)
 - [`Wetox` Very similar to the official branch, with a few small tweaks.](https://github.com/wetox-team/flipperzero-firmware)
 - [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
