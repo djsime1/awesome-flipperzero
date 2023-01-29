@@ -24,14 +24,14 @@
 </h2>
 <ul>
   <li>Built off Unleashed as the base firmware (which is a fork of Official dev firmware.)</li>
-  <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
+  <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file OR through Extend Range app.</li>
     <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
-  <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
+  <li>Has Sub-GHz protocols and all the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
   <li>Adds extra custom assets <em>(Mifare classic dict, example files, etc)</em>.</li>
   <li>Includes some PRs from Official firmware that are not yet merged in Official firmware <em>(bleeding edge)</em>.</li>
-  <li>Includes a number of games, some experimental only, as well as "Games Only Mode" (aka Dumb Mode).</li>
-  <li>Includes an enhanced, but experimental, new "Dolphin Level" system.</li>
-  <li>Has added most known community tweaks, plugins & games (some may be unstable or incomplete.)</li>
+  <li>Includes a number of games, some experimental, as well as a real "Games Only Mode".</li>
+  <li>Includes an enhanced new "Dolphin Level" system.</li>
+  <li>Has added most known community tweaks, plugins & games</li>
   <li>Also includes a number of other small tweaks and changes.</li>
   <ul><li>More details and full list in their <a href="https://github.com/RogueMaster/flipperzero-firmware-wPlugins#readme">README</a>.</li></ul>
 
@@ -73,7 +73,6 @@
   <ul>
     <li><em>The Flipper team has a list of device names with their corresponding production information <a href="https://discord.com/channels/740930220399525928/765282833744265246/971881286543224852">(No shipping address)</a> so they can assist you easier in case of an RMA.</em></li>
   </ul>
-</ul>
 <h2 id="v1nc">
     ⌨ v1nc
     <kbd>
