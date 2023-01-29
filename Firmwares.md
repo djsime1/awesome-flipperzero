@@ -24,11 +24,13 @@
 </h2>
 <ul>
   <li>Built off Unleashed as the base firmware (which is a fork of Official dev firmware.)</li>
-  <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file OR through Extend Range app.</li>
-    <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
+  <li>First to allow for rename through Name Changer app.</li>
+  <li>First to allow for removal of Sub-GHz regional transmission restrictions through Extend Range app.</li>
+  <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
+  <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
   <li>Has Sub-GHz protocols and all the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
-  <li>Adds extra custom assets <em>(Mifare classic dict, example files, etc)</em>.</li>
-  <li>Includes some PRs from Official firmware that are not yet merged in Official firmware <em>(bleeding edge)</em>.</li>
+  <li>Adds extra custom assets <em>(Mifare classic dict, example files, fun files, etc)</em>.</li>
+  <li>Includes some PRs from Unleashed and Official firmware that are not yet merged <em>(bleeding edge)</em>.</li>
   <li>Includes a number of games, some experimental, as well as a real "Games Only Mode".</li>
   <li>Includes an enhanced new "Dolphin Level" system.</li>
   <li>Has added most known community tweaks, plugins & games</li>

@@ -38,7 +38,7 @@
   <h3 align="center"><a href="https://dj.je/fzs">👉 https://dj.je/fzs 👈</a></h3>
 </td></tr></table>
 <p align="center">
-To celebrate the Flipper's 1-year anniversary <em>(since shipping)</em>, I'm conducting a small research project around Flipper Zero users.<br>
+To celebrate the Flipper's 1-year anniversary <em>(since shipping)</em>, I'm[DJ] conducting a small research project around Flipper Zero users.<br>
 It will take about 5-10 minutes to complete, and all the open-ended questions are optional. <strong>Thank you!</strong>
 </p>
 
