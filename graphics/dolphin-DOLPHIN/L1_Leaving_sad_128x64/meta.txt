@@ -1,0 +1,32 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 4
+Active frames: 42
+Frames order: 0 1 2 1 3 4 5 6 7 8 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 10 11 12 4 3
+Active cycles: 1
+Frame rate: 2
+Duration: 3600
+Active cooldown: 7
+
+Bubble slots: 1
+
+Slot: 0
+X: 51
+Y: 49
+Text: Adios.
+AlignH: Center
+AlignV: Top
+StartFrame: 6
+EndFrame: 9
+
+Slot: 0
+X: 1
+Y: 49
+Text: Forgot something...
+AlignH: Center
+AlignV: Top
+StartFrame: 42
+EndFrame: 45

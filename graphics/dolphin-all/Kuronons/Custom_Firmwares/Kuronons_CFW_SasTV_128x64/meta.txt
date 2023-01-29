@@ -1,0 +1,41 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 12
+Active frames: 8
+Frames order: 0 1 2 3 4 5 6 7 2 8 4 9 1 10 11 12 13 14 10 15
+Active cycles: 1
+Frame rate: 2
+Duration: 3600
+Active cooldown: 2
+
+Bubble slots: 3
+
+Slot: 0
+X: 5
+Y: 15
+Text: Deja vu...
+AlignH: Center
+AlignV: Bottom
+StartFrame: 14
+EndFrame: 18
+
+Slot: 1
+X: 5
+Y: 15
+Text: A talking what ?!
+AlignH: Center
+AlignV: Bottom
+StartFrame: 14
+EndFrame: 18
+
+Slot: 2
+X: 5
+Y: 15
+Text: Spell it right !
+AlignH: Center
+AlignV: Bottom
+StartFrame: 14
+EndFrame: 18

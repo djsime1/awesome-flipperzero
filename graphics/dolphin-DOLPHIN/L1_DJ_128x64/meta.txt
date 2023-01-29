@@ -1,0 +1,23 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 34
+Active frames: 2
+Frames order: 0 1 0 1 0 1 0 1 2 3 2 3 2 3 4 8 4 5 4 8 9 5 9 5 9 8 6 7 6 7 6 7 6 7 10 11
+Active cycles: 3
+Frame rate: 2
+Duration: 3600
+Active cooldown: 5
+
+Bubble slots: 1
+
+Slot: 0
+X: 75
+Y: 17
+Text: Let's drop!
+AlignH: Left
+AlignV: Top
+StartFrame: 35
+EndFrame: 39

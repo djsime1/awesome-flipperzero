@@ -1,0 +1,23 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 2
+Active frames: 3
+Frames order: 0 1 2 3 4
+Active cycles: 1
+Frame rate: 2
+Duration: 3600
+Active cooldown: 7
+
+Bubble slots: 1
+
+Slot: 0
+X: 78
+Y: 16
+Text: Music Television!
+AlignH: Left
+AlignV: Bottom
+StartFrame: 2
+EndFrame: 4

@@ -1,0 +1,122 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 1
+Active frames: 110
+Frames order: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 3 4 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 5 6 7 8 9 10 11 12 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 14 15 16 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 17 18 19 20 21 0
+Active cycles: 1
+Frame rate: 3
+Duration: 3600
+Active cooldown: 3
+
+Bubble slots: 1
+
+Slot: 0
+X: 55
+Y: 29
+Text: What's it to be,\nPlissken ?
+AlignH: Right
+AlignV: Center
+StartFrame: 4
+EndFrame: 8
+
+Slot: 0
+X: 64
+Y: 34
+Text: Us or them ?
+AlignH: Right
+AlignV: Center
+StartFrame: 10
+EndFrame: 14
+
+Slot: 0
+X: 1
+Y: 48
+Text: Shut down SquachWare
+AlignH: Center
+AlignV: Top
+StartFrame: 24
+EndFrame: 28
+
+Slot: 0
+X: 7
+Y: 48
+Text: They lose, you win
+AlignH: Center
+AlignV: Top
+StartFrame: 30
+EndFrame: 34
+
+Slot: 0
+X: 8
+Y: 48
+Text: Shut down official
+AlignH: Center
+AlignV: Top
+StartFrame: 36
+EndFrame: 40
+
+Slot: 0
+X: 8
+Y: 48
+Text: You lose, they win
+AlignH: Center
+AlignV: Top
+StartFrame: 42
+EndFrame: 46
+
+Slot: 0
+X: 1
+Y: 48
+Text: The more things change
+AlignH: Center
+AlignV: Top
+StartFrame: 48
+EndFrame: 52
+
+Slot: 0
+X: 1
+Y: 48
+Text: the more they stay the same
+AlignH: Center
+AlignV: Top
+StartFrame: 54
+EndFrame: 58
+
+Slot: 0
+X: 40
+Y: 29
+Text: For God's sakes\ndon't do it, Snake!
+AlignH: Right
+AlignV: Center
+StartFrame: 72
+EndFrame: 76
+
+Slot: 0
+X: 3
+Y: 48
+Text: The name's Plissken.
+AlignH: Center
+AlignV: Top
+StartFrame: 78
+EndFrame: 82
+
+Slot: 0
+X: 18
+Y: 48
+Text: Welcome to...
+AlignH: Center
+AlignV: Top
+StartFrame: 88
+EndFrame: 92
+
+Slot: 0
+X: 4
+Y: 48
+Text: the sasquatch race !
+AlignH: Center
+AlignV: Top
+StartFrame: 94
+EndFrame: 98

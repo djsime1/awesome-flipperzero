@@ -50,6 +50,118 @@ Min level: 1
 Max level: 30
 Weight: 4
 
+Name: CharlesTheGreat77/420_Rollin_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/BadBoyEnt_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/chicken_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/chuuwee_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/Daffy_Duck_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/FBI_Warning_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/Felix_The_Cat_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/Illuminati_Cookie_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/Koby_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/KofH_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/MichaelJ_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/PipBoy_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/Raekwon_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/Scream_Kill_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/Spaceballs_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: CharlesTheGreat77/Wazzap_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: ESurge/ES_Kirbs_Tunes
 Min butthurt: 0
 Max butthurt: 14
@@ -78,13 +190,6 @@ Min level: 3
 Max level: 30
 Weight: 5
 
-Name: Haseo/Allen_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
 Name: Haseo/Haseo_80s_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -92,7 +197,49 @@ Min level: 1
 Max level: 30
 Weight: 5
 
+Name: Haseo/Haseo_Allen_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_A_New_Hope_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_B0ws3r_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: Haseo/Haseo_Bleach_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_Dino2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_Dino3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_DVA_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -106,7 +253,35 @@ Min level: 1
 Max level: 30
 Weight: 7
 
-Name: Haseo/Haseo_Lufy_128x64
+Name: Haseo/Haseo_GITS_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_Luffy_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_Maha_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_Mario_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_Mudra_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -120,6 +295,41 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: Haseo/Haseo_Nude_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_NyanCat_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_On3_Pi3ce_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_Oni_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Haseo/Haseo_Seiya_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: Haseo/Haseo_Sharingan_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -127,376 +337,656 @@ Min level: 1
 Max level: 30
 Weight: 7
 
-Name: Haseo/L1_A_New_Hope_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Haseo/L1_B0ws3r_128x64
+Name: Haseo/Haseo_Sirene_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 7
 
-Name: Haseo/L1_Dino3_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 2
-
-Name: Haseo/L1_DVA_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: Haseo/L1_GITS_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: Haseo/L1_Mario_128x64
+Name: Haseo/Haseo_Sogeking_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 7
 
-Name: Haseo/L1_NyanCat_128x64
+Name: Haseo/Haseo_The_Witch_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 7
 
-Name: Haseo/L1_Sirene_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: Haseo/L1_The_Witch_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: Haseo/Maha_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: Haseo/On3_Pi3ce_128x64
+Name: Haseo/Haseo_TigerGhost_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 7
 
-Name: Haseo/Umbrella_128x64
+Name: Haseo/Haseo_Troopers_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
-Max level: 30
-Weight: 3
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Angot_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Belain_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Beluche_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Bonnet_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Boze_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Busket_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_ChrisMoody_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Condent_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Delahaye_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Egron_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_England_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Every_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Kennedy_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Lafitte_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Landolphe_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_LeBasque_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Lelong_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Low_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Napin_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Quelch_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Rackham_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Roberts3_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Roberts5_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Surcouf_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Teach_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 2
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Tew_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_WillMoody_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Worley_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_Wynne_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/BlackFlags/Kuronons_BlackFlags_You_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 1
-
-Name: Kuronons/Kuronons_L_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 3
-
-Name: Kuronons/Kuronons_RMCFW_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 2
 Max level: 30
 Weight: 7
 
-Name: Kuronons/L1_Earth_Arcadia_128x64
+Name: Haseo/Haseo_Umbrella_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 3
+Weight: 7
 
-Name: Kuronons/L1_Eye_of_the_Flipper_128x64
+Name: Haseo/Haseo_Vampire_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 4
+Weight: 7
 
-Name: Kuronons/L1_LaughingMan_128x64
+Name: HexxedBitHeadz/CyberPunk10_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 3
+Weight: 7
 
-Name: Kuronons/SFlogo/Kuronons_SFlogo_Cyberdyne_128x64
+Name: HexxedBitHeadz/CyberPunk11_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
-Name: Kuronons/SFlogo/Kuronons_SFlogo_OCP_128x64
+Name: HexxedBitHeadz/CyberPunk12_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
-Name: Kuronons/SFlogo/Kuronons_SFlogo_Rekall_128x64
+Name: HexxedBitHeadz/CyberPunk13_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
-Name: Kuronons/SFlogo/Kuronons_SFlogo_Skynet_128x64
+Name: HexxedBitHeadz/CyberPunk14_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
-Name: Kuronons/SFlogo/Kuronons_SFlogo_Tyrell_128x64
+Name: HexxedBitHeadz/CyberPunk15_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
-Name: Kuronons/SFlogo/Kuronons_SFlogo_Weyland_128x64
+Name: HexxedBitHeadz/CyberPunk16_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk17_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk18_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk19_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk20_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk21_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk22_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk23_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk24_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk25_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk26_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk27_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk4_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk5_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk6_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk7_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk8_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunk9_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: HexxedBitHeadz/CyberPunkLogo_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: kainsamara/L0_SouloutINV_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: kainsamara/L0_Soulout_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: kainsamara/L1_Garage_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Angot_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Belain_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Beluche_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Bonnet_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Boze_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Busket_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_ChrisMoody_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Condent_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Delahaye_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Egron_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_England_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Every_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Kennedy_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Lafitte_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Landolphe_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_LeBasque_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Lelong_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Low_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Napin_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Quelch_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Rackham_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Roberts3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Roberts5_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Surcouf_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Teach_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Tew_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_WillMoody_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Worley_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_Wynne_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Black_Flags_Collection/Kuronons_BlackFlags_You_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Custom_Firmwares/Kuronons_CFW_EscapeFrom_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Custom_Firmwares/Kuronons_CFW_RMCFW_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Custom_Firmwares/Kuronons_CFW_SasTV_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Custom_Firmwares/Kuronons_CFW_TS3000_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Custom_Firmwares/Kuronons_CFW_V_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Miscellaneous/Kuronons_Misc_Akira_Capsule_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Miscellaneous/Kuronons_Misc_Cobra_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Miscellaneous/Kuronons_Misc_Earth_Arcadia_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Miscellaneous/Kuronons_Misc_Eye_of_the_Flipper_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Miscellaneous/Kuronons_Misc_FlippaVerse_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Miscellaneous/Kuronons_Misc_Jolly_Roger_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Miscellaneous/Kuronons_Misc_LaughingMan_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Miscellaneous/Kuronons_Misc_L_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Monopoly_Cards/Kuronons_Monopoly_DoctorFee_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/Monopoly_Cards/Kuronons_Monopoly_Gotojail_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/SF_Corporations_Logos/Kuronons_SFlogo_Cyberdyne_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/SF_Corporations_Logos/Kuronons_SFlogo_Dharma_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/SF_Corporations_Logos/Kuronons_SFlogo_OCP2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/SF_Corporations_Logos/Kuronons_SFlogo_OCP3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/SF_Corporations_Logos/Kuronons_SFlogo_OCP_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/SF_Corporations_Logos/Kuronons_SFlogo_Rekall_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/SF_Corporations_Logos/Kuronons_SFlogo_Skynet_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/SF_Corporations_Logos/Kuronons_SFlogo_Tyrell_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/SF_Corporations_Logos/Kuronons_SFlogo_WeylandYutani_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: Kuronons/SF_Corporations_Logos/Kuronons_SFlogo_Weyland_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
 
 Name: L1_Boxing_128x64
 Min butthurt: 0
@@ -645,6 +1135,20 @@ Min level: 1
 Max level: 30
 Weight: 4
 
+Name: loriKesso/IoriKesso_anzaiyuuki_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_Balalaika_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: loriKesso/IoriKesso_Cerberus_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -653,6 +1157,13 @@ Max level: 30
 Weight: 7
 
 Name: loriKesso/IoriKesso_eva01_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_genos_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -695,6 +1206,27 @@ Max level: 30
 Weight: 7
 
 Name: loriKesso/IoriKesso_Ikazuchi_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_itadoriyuuji2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_itadoriyuuji_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_joker_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -750,6 +1282,20 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: loriKesso/IoriKesso_saitama3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_saitama5_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: loriKesso/IoriKesso_Satania_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -765,6 +1311,20 @@ Max level: 30
 Weight: 7
 
 Name: loriKesso/IoriKesso_sinji3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_spike2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: loriKesso/IoriKesso_spike_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -2787,6 +3347,48 @@ Min level: 1
 Max level: 30
 Weight: 4
 
+Name: STOPOXY/stopoxy_CN_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: STOPOXY/stopoxy_daria_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: STOPOXY/stopoxy_goku_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: STOPOXY/stopoxy_in&out_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: STOPOXY/STOPOXY_MTV_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: STOPOXY/STOPOXY_PKMNEMRLD_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: STOPOXY/STOPOXY_SCHOOL_DAYS_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -2794,12 +3396,26 @@ Min level: 1
 Max level: 30
 Weight: 5
 
+Name: STOPOXY/STOPOXY_SEGA_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: STOPOXY/STOPOXY_TLOZ_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 5
+
+Name: STOPOXY/STOPOXY_WHISPER_OF_THE_HEART_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
 
 Name: STOPOXY/STOPOXY_WOT_HEART_128x64
 Min butthurt: 0
