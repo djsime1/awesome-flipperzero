@@ -1254,12 +1254,75 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: loriKesso/IoriKesso_nezuko1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_nezuko2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_nezuko3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_nezuko4_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_nezuko5_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_nezuko6_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_nezuko7_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: loriKesso/IoriKesso_nswf1_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 7
+
+Name: loriKesso/IoriKesso_rebecca1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_rengoku1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
 
 Name: loriKesso/IoriKesso_Sailor2_128x64
 Min butthurt: 0
@@ -1352,12 +1415,40 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: loriKesso/IoriKesso_tomioka1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: loriKesso/IoriKesso_yuudachi_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 7
+
+Name: loriKesso/IoriKesso_zenitsu1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_zenitsu2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: loriKesso/IoriKesso_zenitsu3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
 
 Name: MjK/18/MjK_hentai_128x64
 Min butthurt: 0
