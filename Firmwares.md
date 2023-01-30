@@ -1,6 +1,6 @@
 <h1>Flipper Zero firmware differences</h1>
 <h3>
-    <code>::</code> Last updated Nov 24 2022. <code>::</code>
+    <code>::</code> Last updated Jan 20 2023. <code>::</code>
 </h3>
 <p>
     This document maintains a list of differences between various forks of the
@@ -16,6 +16,7 @@
         <td><a href="#plugins">RogueMaster</a></td>
         <td><a href="#Xtreme">Xtreme</a></td>
         <td><a href="#Dexv">Dexv</a></td>
+        <td><a href="#SquachWare">SquachWare</a></td>
         <td><a href="#v1nc">v1nc</a></td>
         <td><a href="#wetox">Wetox</a></td>
         <td><a href="#muddledbox">MuddledBox</a></td>
@@ -120,6 +121,25 @@
     <li>Adds extra custom assets <em>(Mifare classic dict, example files, etc)</em>.</li>
     <li>Includes extra apps and plugins from the general community through SD Application loader (FAP files).</li>
 </ul>
+<h2 id="SquachWare">
+    🌲 SquachWare
+    <kbd>
+        <a href="https://github.com/skizzophrenic/SquachWare-CFW">skizzophrenic/SquachWare-CFW</a>
+    </kbd>
+</h2>
+<ul>
+    <li><em>(OEM+)</em></li>
+    <li>Fresh and active firmware forked from OFW.</li>
+    <li>Adds custom animations/moods.</li>
+    <li>Includes built-in name changer! (No recompile required to change your devices name).</li>
+    <li>Includes extra community based apps and plugins through SD Application loader (FAP files).</li>
+    <li>Includes community based Bad USB scripts.</li>
+    <li>Includes community based Sub-GHz files.</li>
+            <ul>
+            <li>More details can be found in their <a
+                    href="https://github.com/skizzophrenic/SquachWare-CFW">README</a>.</li>
+        </ul>
+</ul>
 <h2 id="v1nc">
     ⌨ v1nc
     <kbd>
@@ -168,4 +188,5 @@
     <li>Unleashed is more focused on core functionality, stability, and Sub-GHz protocols.</li>
     <li>RogueMaster is more focused on visual tweaks, new items, and changes (some experimental).</li>
     <li>RogueMaster is based on Unleashed, but may be less stable than Unleashed in some circumstances.</li>
+    <li>SquachWare is forked from OFW, adding lots of custom stuff to play with out of the box all while retaining the securities and comfort of OFW.</li>
 </ul>
