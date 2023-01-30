@@ -3522,12 +3522,159 @@ Min level: 1
 Max level: 30
 Weight: 7
 
-Name: synthetikspace/synthetikspace_Anonomask_128x64
+Name: synthetikspace/2049
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 8
+
+Name: synthetikspace/Android
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Anonomask
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Atari
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Bounce.com
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/DominoMF
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/ElAzor
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Flyingturd
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Galaga
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Gatekeeper
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Gridloop
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Hacktheplanet
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Knock
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Lifehacker
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Murder
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Noodles
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Pacman
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Peter
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Pistol
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Tapped
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Trooper
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: synthetikspace/Trustme
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
 
 Name: Syrius/L1_Agumon_128x64
 Min butthurt: 0
@@ -3550,61 +3697,299 @@ Min level: 1
 Max level: 30
 Weight: 3
 
-Name: TH3WR3NCH/TH3WR3NCH_DEDSEC1_128x64
+Name: TH3WR3NCH/generic/L1_ERROR_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 8
 
-Name: TH3WR3NCH/TH3WR3NCH_ERROR_INV_128x64
+Name: TH3WR3NCH/generic/L1_ERROR_INV_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 8
 
-Name: TH3WR3NCH/TH3WR3NCH_FSOCIETY_128x64
+Name: TH3WR3NCH/L1_ANNA_GLITCH_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 8
 
-Name: TH3WR3NCH/TH3WR3NCH_GCHTP_128x64
+Name: TH3WR3NCH/L1_JILL_HOME_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 8
 
-Name: TH3WR3NCH/TH3WR3NCH_HACKERMAN_128x64
+Name: TH3WR3NCH/Meme/L1_BIRB_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 8
 
-Name: TH3WR3NCH/TH3WR3NCH_HACKERMAN_ALT_128x64
+Name: TH3WR3NCH/Meme/L1_BONK_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 8
 
-Name: TH3WR3NCH/TH3WR3NCH_JOINUS_SR_128x64
+Name: TH3WR3NCH/Meme/L1_GALAXYBRAIN_128_64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 8
 
-Name: TH3WR3NCH/TH3WR3NCH_MESS_128x64
+Name: TH3WR3NCH/Meme/L1_HACKERMAN_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 7
+Weight: 8
+
+Name: TH3WR3NCH/Meme/L1_HACKERMAN_ALT_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/Meme/L1_TAPPINGHEAD_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/movies_shows/L1_BURNSINV_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/movies_shows/L1_BURNS_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/movies_shows/L1_FSOCIETY_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/movies_shows/L1_MOONINITE_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/movies_shows/L1_MRROBOT_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/movies_shows/R3_COOKIE
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/movies_shows/R3_GCHTP
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/movies_shows/R3_MESS_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/OtherGames/L1_HAUNTER_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/OtherGames/L1_PIKACHU_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/OtherGames/L1_PIPBOY_SHOVEL_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/OtherGames/L1_POKEMON_WALK_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/OtherGames/L1_SMEARGLE_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/OtherGames/L1_SPACEINVADERS_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/OtherGames/L1_SPACEINVADERS_INV_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/OtherGames/R3_MASTERSYSTEM
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/OtherGames/R3_NES
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_BOMBS_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_BOTTY_ALT_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_BOTTY_CALL_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_DEDSEC1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_DEDSEC2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_DEDSEC_LOGO_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_DEDSEC_LOGO_INV_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_FINGER_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_JOINUS_SR_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_JOIN_US_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_JOIN_US_ALT_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_MUMMY_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_SPIRAL_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_VIRUS_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: TH3WR3NCH/WatchDogs/L1_WATCHDOGS_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
 
 Name: ut1s/L1_DJ_128x64
 Min butthurt: 0

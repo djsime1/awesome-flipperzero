@@ -1,0 +1,23 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 5
+Active frames: 4
+Frames order: 2 0 1 3 0 2 3 2 3
+Active cycles: 2
+Frame rate: 2
+Duration: 3600
+Active cooldown: 1
+
+Bubble slots: 1
+
+Slot: 0
+X: 27
+Y: 24
+Text: AARGH!
+AlignH: Right
+AlignV: Center
+StartFrame: 6
+EndFrame: 9

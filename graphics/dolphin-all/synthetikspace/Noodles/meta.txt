@@ -1,0 +1,23 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 15
+Active frames: 0
+Frames order: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+Active cycles: 0
+Frame rate: 7
+Duration: 3600
+Active cooldown: 0
+
+Bubble slots: 1
+
+Slot: 0
+X: 65
+Y: 25
+Text: I'm Han Solo!
+AlignH: Left
+AlignV: Bottom
+StartFrame: 8
+EndFrame: 15
