@@ -3116,6 +3116,27 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: RM/RM_Bio_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_BobsBurg3rs1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_BobsBurg3rs2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: RM/RM_ChiChi_128x64
 Min butthurt: 0
 Max butthurt: 5
@@ -3131,6 +3152,20 @@ Max level: 30
 Weight: 7
 
 Name: RM/RM_DiscordOver9000_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_Electrode1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_Electrode2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -3229,6 +3264,13 @@ Max level: 30
 Weight: 7
 
 Name: RM/RM_IssacNewton_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM/RM_JohnnyM_CyberDolphin_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
