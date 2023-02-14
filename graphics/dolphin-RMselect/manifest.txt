@@ -85,315 +85,1036 @@ Min level: 1
 Max level: 30
 Weight: 7
 
-Name: IoriKesso_anzaiyuuki_128x64
+Name: IoriKesso/alucard2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_Balalaika_128x64
+Name: IoriKesso/anzaiyuuki_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_Cerberus_128x64
+Name: IoriKesso/aqua1_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_eva01_128x64
+Name: IoriKesso/aqua2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_genos_128x64
+Name: IoriKesso/aqua4_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_Gon1_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_Gon2_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_Gura2_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_Gura3_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_Gura_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_Ikazuchi_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_itadoriyuuji2_128x64
+Name: IoriKesso/aqua5_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_itadoriyuuji_128x64
+Name: IoriKesso/astolfo2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_joker_128x64
+Name: IoriKesso/astolfo3_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_Misato2_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_misato3_128x64
+Name: IoriKesso/astolfomm_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_misato6_128x64
+Name: IoriKesso/azazel1_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_nezuko1_128x64
+Name: IoriKesso/baki1_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_nezuko2_128x64
+Name: IoriKesso/Balalaika_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_nezuko3_128x64
+Name: IoriKesso/cerberus2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_nezuko4_128x64
+Name: IoriKesso/Cerberus_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_nezuko5_128x64
+Name: IoriKesso/darkness2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_nezuko6_128x64
+Name: IoriKesso/darkness3_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_nezuko7_128x64
+Name: IoriKesso/darkness4_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_nswf1_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_rebecca1_128x64
+Name: IoriKesso/darkness6_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_rengoku1_128x64
+Name: IoriKesso/elma1_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_Sailor2_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_Sailor3_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_SailorMoon_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_saitama3_128x64
+Name: IoriKesso/elma2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_saitama5_128x64
+Name: IoriKesso/eris1_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_Satania_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_ShutenDouji_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_sinji3_128x64
+Name: IoriKesso/eva01_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_spike2_128x64
+Name: IoriKesso/felixargyle_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_spike_128x64
+Name: IoriKesso/filo1_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_sukuna2_128x64
+Name: IoriKesso/filo2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_sukuna3_128x64
+Name: IoriKesso/filo4_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_Sukuna_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_tomioka1_128x64
+Name: IoriKesso/gabriel1_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_yuudachi_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: IoriKesso_zenitsu1_128x64
+Name: IoriKesso/gabriel2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_zenitsu2_128x64
+Name: IoriKesso/genos3_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso_zenitsu3_128x64
+Name: IoriKesso/genos_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/gojo1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Gon1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Gon2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/gon3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Gura2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Gura3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Gura_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/hestia2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/hikari1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/icecream_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Ikazuchi_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/ilulu1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/itadoriyuuji2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/itadoriyuuji_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/joker_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/kanna1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/keishirogane_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/klem1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/kobeni_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/lucoa1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/macross7_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/maria2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/marin11_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/marin1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/marin2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/marin3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/marin5_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/marisetogaya1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/marisetogaya2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/marisetogaya3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/mashiro22_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/mashiro2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/mashiro4_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/megdarkkaz1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/megumin11_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/megumin12_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/megumin13_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/megumin3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/megumin4_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/megumin9_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Misato2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/misato3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/misato6_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/naofumi1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nezuko1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nezuko2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nezuko3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nezuko4_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nezuko5_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nezuko6_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nezuko7_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/niku1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/niohashiri2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nobara1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nswf1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: IoriKesso/pantsu2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: IoriKesso/pantsu3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: IoriKesso/pantsu4_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
+Name: IoriKesso/plasticnee_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/raphi1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/raphtalia12_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/raphtalia14_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/raphtalia15_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/raphtalia16_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/raphtalia1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/raphtalia3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/raphtalia4_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/raphtalia5_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/raphtalia7_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/raphtalia8_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/raphtaliafilo1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/rebecca1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/rengoku1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/rory11_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/rory2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/rory3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/roxy1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/roxy3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/rudeus3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/rumia11_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/saber1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/saber2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Sailor2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Sailor3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/SailorMoon_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/saitama3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/saitama5_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/satania2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/satania3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Satania_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/shuna11_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/shuna22_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/ShutenDouji_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/sinji3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/sisti1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/sistirumia1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/spike2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/spike_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/sukuna2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/sukuna3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Sukuna_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/thorfinn1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/tise1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/tomioka1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/toru1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/uzaki1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/uzaki2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/violet1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/violet3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/violet5_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/violet6_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Yumeko2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Yumeko4_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/Yumeko6_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/yuudachi_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/zenitsu1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/zenitsu2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/zenitsu3_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
