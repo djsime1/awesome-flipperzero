@@ -12,6 +12,7 @@
       <td><a href="#plugins">RogueMaster</a></td>
       <td><a href="#unleashed">Unleashed</a></td>
       <td><a href="#official">Official</a></td>
+      <td><a href="#Dexv">Dexv</a></td>
       <td><a href="#v1nc">v1nc</a></td>
       <td><a href="#wetox">Wetox</a></td>
       <td><a href="#muddledbox">MuddledBox</a></td>
@@ -75,6 +76,21 @@
   <ul>
     <li><em>The Flipper team has a list of device names with their corresponding production information <a href="https://discord.com/channels/740930220399525928/765282833744265246/971881286543224852">(No shipping address)</a> so they can assist you easier in case of an RMA.</em></li>
   </ul>
+<h2 id="Dexv">
+    💎Dexv
+    <kbd>
+        <a href="https://github.com/DXVVAY/Dexvmaster0">DXVVAY/Dexvmaster0</a>
+    </kbd>
+</h2>
+<ul>
+    <li>Fork of <a href="#plugins">RogueMaster</a> (converted from other forks to RM).</li>
+    <li>Adds custom-themed graphics and some extra features that are not included in the Official Firmware.</li>
+    <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
+    <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
+    <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
+    <li>Adds extra custom assets <em>(Mifare classic dict, example files, etc)</em>.</li>
+    <li>Includes extra apps and plugins from the general community through SD Application loader (FAP files).</li>
+</ul>
 <h2 id="v1nc">
     ⌨ v1nc
     <kbd>
