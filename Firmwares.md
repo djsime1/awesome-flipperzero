@@ -12,6 +12,7 @@
       <td><a href="#plugins">RogueMaster</a></td>
       <td><a href="#unleashed">Unleashed</a></td>
       <td><a href="#official">Official</a></td>
+      <td><a href="#Squachware">Squachware</a></td>
       <td><a href="#Dexv">Dexv</a></td>
       <td><a href="#v1nc">v1nc</a></td>
       <td><a href="#wetox">Wetox</a></td>
@@ -76,6 +77,18 @@
   <li>Factory-set device name that shows everywhere (Bluetooth broadcast, USB connection, etc) that cannot be changed.</li>
     <li><em>The Flipper team has a list of device names with their corresponding production information <a href="https://discord.com/channels/740930220399525928/765282833744265246/971881286543224852">(No shipping address)</a> so they can assist you easier in case of an RMA.</em></li>
   </ul>
+<h2 id="Squachware">
+    🙈 Squachware
+    <kbd>
+        <a href="https://github.com/skizzophrenic/SquachWare-CFW">skizzophrenic/SquachWare-CFW - [TalkingSasquach](https://www.youtube.com/@TalkingSasquach)</a>
+    </kbd>
+</h2>
+<ul>
+    <li>Fork of <a href="#official">Official</a>.</li>
+    <li>Adds custom-themed graphics that are not included in the Official Firmware.</li>
+    <li>Keeps Sub-GHz regional transmission restrictions like Official Firmware.</li>
+    <li>Has many of the apps that are available from <a href="#plugins">RogueMaster</a>.</li>
+</ul>
 <h2 id="Dexv">
     💎Dexv
     <kbd>
