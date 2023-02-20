@@ -27,6 +27,7 @@
   <li>Built off Unleashed as the base firmware (which is a fork of Official dev firmware.)</li>
   <li>First to allow for rename through Name Changer app.</li>
   <li>First to allow for removal of Sub-GHz regional transmission restrictions through Extend Range app.</li>
+  <li>Passport fully customizable</li>
   <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
   <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
   <li>Has Sub-GHz protocols and all the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
