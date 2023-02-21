@@ -1240,6 +1240,48 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: RM_AnimeWhiteHair_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: RM_BattleRoyale_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: RM_CowboyBebopEd_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: RM_CowboyBebopNope_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: RM_DBZkaioken_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: RM_Deku_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: RM_DiscordOver9000_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -1253,6 +1295,13 @@ Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 5
+
+Name: RM_GokuKrillinSpar_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
 
 Name: RM_Hexadecimal_128x64
 Min butthurt: 0
@@ -1289,12 +1338,47 @@ Min level: 1
 Max level: 30
 Weight: 5
 
+Name: RM_KirbyEat_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: RM_KirbyWatermelon_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: RM_M3gamanZ3r0_Battle_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 5
+
+Name: RM_MegamanWdog_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: RM_MenheraChibi_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: RM_OPLuffy_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
 
 Name: RM_OP_G3ar4_128x64
 Min butthurt: 0
@@ -1351,6 +1435,13 @@ Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 5
+
+Name: RM_SquirtleSquad_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
 
 Name: RM_SSJ3_128x64
 Min butthurt: 0

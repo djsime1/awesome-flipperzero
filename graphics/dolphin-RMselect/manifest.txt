@@ -1366,6 +1366,13 @@ Min level: 18
 Max level: 30
 Weight: 0
 
+Name: RM_FW_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: RM_G0G374_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -1512,6 +1519,13 @@ Max butthurt: 14
 Min level: 18
 Max level: 30
 Weight: 0
+
+Name: Sasquach_Bart_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
 
 Name: Sasquach_Blaster_128x64
 Min butthurt: 0

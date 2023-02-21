@@ -1,6 +1,27 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
+Name: RM_Elmo_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: RM_EOL_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: RM_FileTransfer_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: RM_Hacked_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -15,6 +36,13 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: RM_HackThePlanet_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: RM_Hackz_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -28,6 +56,13 @@ Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 7
+
+Name: RM_USBshove_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
 
 Name: synthetikspace_Anonomask_128x64
 Min butthurt: 0
