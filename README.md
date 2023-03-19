@@ -1,4 +1,4 @@
-<a href='https://rogue-master.net'><img src="https://rogue-master.net/img/rmlogo.png" width="40%"></a>
+<h1 align="center"><a href='https://rogue-master.net'><img src="https://rogue-master.net/img/rmlogo.png" width="40%"></a></h1>
 
 # [Support Me On Patreon](https://www.patreon.com/RogueMaster)
 
