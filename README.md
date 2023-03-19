@@ -1,8 +1,4 @@
-<hr>
-
-<a href="https://github.com/RogueMaster/awesome-flipperzero-withModules">
-  <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
-</a>
+<a href='https://rogue-master.net'><img src="https://rogue-master.net/img/rmlogo.png" width="40%"></a>
 
 # [Support Me On Patreon](https://www.patreon.com/RogueMaster)
 
@@ -29,18 +25,6 @@
     </h3>
   </td>
 </tr></table>
-
-<hr>
-
-<h3 align="center">⏳ Got a few minutes?</h3>
-<p align="center">Please consider filling out this survey! 📝</p>
-<table align="center"><tr><td>
-  <h3 align="center"><a href="https://dj.je/fzs">👉 https://dj.je/fzs 👈</a></h3>
-</td></tr></table>
-<p align="center">
-To celebrate the Flipper's 1-year anniversary <em>(since shipping)</em>, I'm[DJ] conducting a small research project around Flipper Zero users.<br>
-It will take about 5-10 minutes to complete, and all the open-ended questions are optional. <strong>Thank you!</strong>
-</p>
 
 <hr>
 
