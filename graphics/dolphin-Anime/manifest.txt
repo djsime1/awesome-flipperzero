@@ -393,13 +393,6 @@ Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso/icecream_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 8
-
 Name: IoriKesso/Ikazuchi_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -408,6 +401,13 @@ Max level: 30
 Weight: 8
 
 Name: IoriKesso/ilulu1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/itadori3_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -450,13 +450,6 @@ Max level: 30
 Weight: 8
 
 Name: IoriKesso/klem1_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 8
-
-Name: IoriKesso/kobeni_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -603,13 +596,6 @@ Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso/megumin9_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 8
-
 Name: IoriKesso/Misato2_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -639,13 +625,6 @@ Max level: 30
 Weight: 8
 
 Name: IoriKesso/nezuko1_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 8
-
-Name: IoriKesso/nezuko2_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -707,34 +686,6 @@ Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
-
-Name: IoriKesso/nswf1_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 0
-
-Name: IoriKesso/pantsu2_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 0
-
-Name: IoriKesso/pantsu3_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 0
-
-Name: IoriKesso/pantsu4_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 0
 
 Name: IoriKesso/plasticnee_128x64
 Min butthurt: 0
@@ -883,13 +834,6 @@ Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso/rumia11_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 8
-
 Name: IoriKesso/saber1_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -995,13 +939,6 @@ Min level: 1
 Max level: 30
 Weight: 8
 
-Name: IoriKesso/sistirumia1_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 8
-
 Name: IoriKesso/spike2_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -1045,6 +982,13 @@ Max level: 30
 Weight: 8
 
 Name: IoriKesso/tise1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/toge_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
