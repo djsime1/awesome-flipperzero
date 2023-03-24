@@ -132,6 +132,7 @@
 - [`Flipper-Boy` Flipper Zero Case with 22mm Watch Strap Adapter.](https://www.printables.com/model/304243-flipper-boy)
 - [`WiFi Devboard Pelican Case` Top case that works with the 4mm FZ Pelican case.](https://github.com/Z3BRO/Flipper-Zero-Pelican-Case-Wifi-Devboard)
 - [`FlipperZero RGB backlight` Replacing stock backlight with RGB](https://github.com/quen0n/flipperzero-firmware-rgb)
+- [`The Mayhem Fin` ESP32 with WiFi, BT/BLE, Micro-SD, Camera, Flashlight, NRF24/CC1101, and more.](https://github.com/eried/flipperzero-mayhem)
 
 ## Off-device & Debugging
 - [`Official Web Interface` Web interface to interact with Flipper, including Paint and SUB/IR analyzer.](https://my.flipp.dev/)
@@ -157,7 +158,7 @@
 - [`flipper0` Rusty crate with safe interface to Flipper Firmware and autogen bindings underneath.](https://crates.io/crates/flipper0)
 - [`flipperzero-rs` Hand-crafted bindings to Flipper Firmware with custom build tool.](https://github.com/dcoles/flipperzero-rs)
 - [`fzfs` Flipper Zero filesystem driver.](https://github.com/dakhnod/fzfs)
-- [`Pagger` Sub-GHz generators for restaurants/kiosks paging systems.](https://github.com/meoker/pagger)
+- [`Pagger` Sub-GHz generators for restaurants/kiosks paging systems.](https://meoker.github.io/pagger/)
 
 ## Notes & References
 - [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
