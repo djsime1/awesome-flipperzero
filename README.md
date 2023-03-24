@@ -55,9 +55,10 @@
 
 ## Applications & Plugins
 
-### Flipper App Browser
-A browsable database of user created flipper zero apps, automatically loading all apps from github.
-https://flipper-apps.electromuis.nl/
+<table align="right">
+  <tr><th><strong>Try this!</strong></th></tr>
+  <tr><td>📲 <em><a href="https://flipper-apps.electromuis.nl/">Click here</a> for a browsable database<br>  of Flipper Zero apps.</em></td></tr>
+</table>
 
 - [`Flipper-Plugin-Tutorial` Updated plugin tutorial based on new build methods.](https://github.com/csBlueChip/FlipperZero_plugin_howto)
 - [`Spectrum analyzer` Sub-GHz frequency spectrum analyzer.](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer)
