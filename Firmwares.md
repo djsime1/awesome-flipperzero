@@ -16,7 +16,7 @@
       <td><a href="#summary">Summary (TL;DR)</a></td>
     </tr></table>
 
-<h2 id="plugins">RogueMaster <kbd>
+<h2 id="plugins">RogueMaster<kbd>
     <a href="https://github.com/RogueMaster/flipperzero-firmware-wPlugins">RogueMaster/flipperzero-firmware-wPlugins</a>
   </kbd>
 </h2>
@@ -38,7 +38,7 @@
 
 </ul>
 <h2 id="unleashed">
-    🔓 Unleashed
+    Unleashed
     <kbd>
         <a href="https://github.com/DarkFlippers/unleashed-firmware">DarkFlippers/unleashed-firmware</a>
     </kbd>
@@ -62,7 +62,7 @@
                     href="https://github.com/DarkFlippers/unleashed-firmware#readme">README</a>.</li>
         </ul>
 </ul>
-<h2 id="official">Official <kbd>
+<h2 id="official">Official<kbd>
     <a href="https://github.com/flipperdevices/flipperzero-firmware">flipperdevices/flipperzero-firmware</a>
   </kbd>
 </h2>
@@ -74,7 +74,7 @@
     <li><em>The Flipper team has a list of device names with their corresponding production information <a href="https://discord.com/channels/740930220399525928/765282833744265246/971881286543224852">(No shipping address)</a> so they can assist you easier in case of an RMA.</em></li>
   </ul>
 <h2 id="Squachware">
-    🙈 Squachware
+    Squachware
     <kbd>
         <a href="https://github.com/skizzophrenic/SquachWare-CFW">skizzophrenic/SquachWare-CFW - [TalkingSasquach](https://www.youtube.com/@TalkingSasquach)</a>
     </kbd>
