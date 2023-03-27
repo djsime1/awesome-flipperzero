@@ -13,10 +13,6 @@
       <td><a href="#unleashed">Unleashed</a></td>
       <td><a href="#official">Official</a></td>
       <td><a href="#Squachware">Squachware</a></td>
-      <td><a href="#Dexv">Dexv</a></td>
-      <td><a href="#v1nc">v1nc</a></td>
-      <td><a href="#wetox">Wetox</a></td>
-      <td><a href="#muddledbox">MuddledBox</a></td>
       <td><a href="#summary">Summary (TL;DR)</a></td>
     </tr></table>
 
@@ -89,58 +85,6 @@
     <li>Keeps Sub-GHz regional transmission restrictions like Official Firmware.</li>
     <li>Has many of the apps that are available from <a href="#plugins">RogueMaster</a>.</li>
 </ul>
-<h2 id="Dexv">
-    💎Dexv
-    <kbd>
-        <a href="https://github.com/DXVVAY/Dexvmaster0">DXVVAY/Dexvmaster0</a>
-    </kbd>
-</h2>
-<ul>
-    <li>Fork of <a href="#plugins">RogueMaster</a> (converted from other forks to RM).</li>
-    <li>Adds custom-themed graphics and some extra features that are not included in the Official Firmware.</li>
-    <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
-    <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
-    <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
-    <li>Adds extra custom assets <em>(Mifare classic dict, example files, etc)</em>.</li>
-    <li>Includes extra apps and plugins from the general community through SD Application loader (FAP files).</li>
-</ul>
-<h2 id="v1nc">
-    ⌨ v1nc
-    <kbd>
-        <a href="https://github.com/v1nc/flipperzero-firmware">v1nc/flipperzero-firmware</a>
-    </kbd>
-</h2>
-<ul>
-    <li>Supports different keyboard layouts for Duckyscripts via the script keyword <code>DUCKY_LANG</code>.</li>
-    <li>Out of date with upstream Unleashed firmware, appears to not be maintained.</li>
-    <li>Includes some integrated community plugins & games but not updated FAP loader.</li>
-</ul>
-<h2 id="wetox">
-    🎩 Wetox
-    <kbd>
-        <a href="https://github.com/wetox-team/flipperzero-firmware">wetox-team/flipperzero-firmware</a>
-    </kbd>
-</h2>
-<ul>
-    <li>The dev branch is intended for public use, while others are either testing or archived hackathon submissions.
-    </li>
-    <li>Cracking T5577 RFID passwords via dictionary attack.</li>
-    <li>Desktop header branding [WTX].</li>
-    <li>Has some frequently updated interesting experimental stuff in different <a
-            href="https://github.com/wetox-team/flipperzero-firmware/branches">branches</a>.</li>
-</ul>
-<h2 id="muddledbox">
-    📦 MuddledBox
-    <kbd>
-        <a href="https://github.com/MuddledBox/flipperzero-firmware">MuddledBox/flipperzero-firmware</a>
-    </kbd>
-</h2>
-<ul>
-    <li>The first 'custom firmware', nowadays abandoned.</li>
-    <li>Removes Sub-GHz regional transmission restrictions.</li>
-    <li>Adds self-promo images to about page in settings.</li>
-    <li>Adds a few extra common Sub-GHz frequencies to capture on.</li>
-</ul>
 <h2 id="summary">
     📝 Summary
     <kbd>(TL;DR)</kbd>
@@ -148,8 +92,7 @@
 <ul>
     <li>Staying up to date with upstream (official) firmware is important.</li>
     <li>TX restriction removal is illegal in most circumstances, use at your own risk.</li>
-    <li>MuddledBox was the first popular firmware fork, but didn't grow up.</li>
-    <li>Unleashed is more focused on core functionality, stability, and Sub-GHz protocols.</li>
     <li>RogueMaster is more focused on visual tweaks, new items, and changes (some experimental).</li>
-    <li>RogueMaster is based on Unleashed, but may be less stable than Unleashed in some circumstances.</li>
+    <li>RogueMaster is based on Unleashed and OFW and keeps up to date on both on a daily basis.</li>
+    <li>Unleashed is more focused on core functionality, stability, and Sub-GHz protocols.</li>
 </ul>
