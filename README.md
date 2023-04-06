@@ -84,6 +84,8 @@
 - [`Flipp Pomodoro` Pomodoro Timer Tool for productivity.](https://github.com/Th3Un1q3/flipp_pomodoro)
 - [`COM Port Scanner Emulator` Barcode Scanner Emulator.](https://github.com/polarikus/flipper-zero_bc_scanner_emulator)
 - [`Xbox Controller` Easy controller for Xbox One with IR](https://github.com/gebeto/flipper-xbox-controller)
+- [`Reversi` The classic Reversi game](https://github.com/dimat/flipperzero-reversi)
+- [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
 
 ## Firmwares & Tweaks
 

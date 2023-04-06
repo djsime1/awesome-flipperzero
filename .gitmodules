@@ -34,3 +34,9 @@
 [submodule "fw/squach"]
 	path = fw/squach
 	url = https://github.com/skizzophrenic/SquachWare-CFW.git
+[submodule "scripts/FBT-AARCH64"]
+	path = scripts/FBT-AARCH64
+	url = https://github.com/qqmajikpp/FBT-AARCH64.git
+[submodule "scripts/Logi-Downgrade-for-NRF24"]
+	path = scripts/Logi-Downgrade-for-NRF24
+	url = https://github.com/qqmajikpp/Logi-Downgrade-for-NRF24.git
