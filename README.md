@@ -5,15 +5,11 @@
 &nbsp;<a href='https://shop.rogue-master.net/' target='_blank'><img src='https://rogue-master.net/img/Merch.png' alt='RM Merch'' title='RM Merch'></a>
 &nbsp;<a href='https://github.com/RogueMaster/awesome-flipperzero-withModules' target='_blank'><img src='https://rogue-master.net/img/Resources.png' alt='More Research / Assets' title='More Research / Assets'></a></h1>
 
-# [Support Me On Patreon](https://www.patreon.com/RogueMaster)
+# [Support Me On Patreon to get the best assets updated frequently!](https://www.patreon.com/RogueMaster)
 
 <h3 align="center">
   A collection of Awesome resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br>
-  <h2 align="center">... and every repo you need to clone...<br>  <center><span align="center" width="100%">
-    <img src="https://awesome.re/badge.svg" alt="Awesome" height=24>
-    <img src="https://img.shields.io/badge/Powered%20by-Dolphins-blue" alt="Powered by dolphins" height=24>
-    <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
-    </span></center></h2>
+  <h2 align="center">... and every repo you need to clone...</h2>
 </h3>
 
 <table align="center"><tr>
