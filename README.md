@@ -160,7 +160,7 @@ It will take about 5-10 minutes to complete, and all the open-ended questions ar
 - [`Fztea` Connect to your Flipper's UI over serial or make it accessible via SSH.](https://github.com/jon4hz/fztea)
 - [`pyFlipper` Unofficial CLI wrapper writter in Python.](https://github.com/wh00hw/pyFlipper)
 - [`SUB Plotters / comparers` Python package to plot and compare multiple .sub files.](https://github.com/ShotokanZH/flipper_sub_plotters_comparers)
-- [`ClassicConverted` Converts Mifare Classic binary files to Flipper.](https://github.com/equipter/ClassicConverter)
+- [`ClassicConverter` Converts Mifare Classic binary files to Flipper.](https://github.com/equipter/ClassicConverter)
 - [`musicxml2fmf` Converts MusicXML files to Flipper Music Format.](https://github.com/white-gecko/musicxml2fmf)
 - [`BadUSB keyboard converter` Payload converted for non-US keyboard layouts.](http://helppox.com/badusbconvert.html)
 - [`U2F SSH Keys` U2F ECDSA SSH Key Generation using Flipper Zero.](https://gist.github.com/BlackPropaganda/44c40f7855a90e289a9477b654e54eb1)
