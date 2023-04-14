@@ -33,18 +33,6 @@
 
 <hr>
 
-<h3 align="center">⏳ Got a few minutes?</h3>
-<p align="center">Please consider filling out this survey! 📝</p>
-<table align="center"><tr><td>
-  <h3 align="center"><a href="https://dj.je/fzs">👉 https://dj.je/fzs 👈</a></h3>
-</td></tr></table>
-<p align="center">
-To celebrate the Flipper's 1-year anniversary <em>(since shipping)</em>, I'm conducting a small research project around Flipper Zero users.<br>
-It will take about 5-10 minutes to complete, and all the open-ended questions are optional. <strong>Thank you!</strong>
-</p>
-
-<hr>
-
 <!-- DO NOT MODIFY ABOVE -->
 
 ## Databases & Dumps
@@ -91,6 +79,8 @@ It will take about 5-10 minutes to complete, and all the open-ended questions ar
 - [`Flipp Pomodoro` Pomodoro Timer Tool for productivity.](https://github.com/Th3Un1q3/flipp_pomodoro)
 - [`COM Port Scanner Emulator` Barcode Scanner Emulator.](https://github.com/polarikus/flipper-zero_bc_scanner_emulator)
 - [`Xbox Controller` Easy controller for Xbox One with IR](https://github.com/gebeto/flipper-xbox-controller)
+- [`Reversi` The classic Reversi game](https://github.com/dimat/flipperzero-reversi)
+- [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
 
 ## Firmwares & Tweaks
 
@@ -103,6 +93,7 @@ It will take about 5-10 minutes to complete, and all the open-ended questions ar
 - [`RogueMaster` Fork of Unleashed firmware with custom graphics, experimental tweaks, community plugins and games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 - [`Xtreme` Official fork with cleaned up codebase, more module extensions and custom assets.](https://github.com/ClaraCrazy/Flipper-Xtreme)
 - [`Dexv` Xtreme fork; The "Will it blend?" of custom firmwares.](https://github.com/DXVVAY/Dexvmaster0)
+- [`SquachWare` Fork of official firmware which adds custom graphics, community applications & files.](https://github.com/skizzophrenic/SquachWare-CFW)
 - [`v1nc flipper zero firmware` Unleashed fork with support for different Duckyscript keyboard layouts & community plugins.](https://github.com/v1nc/flipperzero-firmware)
 - [`Wetox` Very similar to the official branch, with a few small tweaks.](https://github.com/wetox-team/flipperzero-firmware)
 - [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
@@ -142,9 +133,10 @@ It will take about 5-10 minutes to complete, and all the open-ended questions ar
 - [`Flipper-Boy` Flipper Zero Case with 22mm Watch Strap Adapter.](https://www.printables.com/model/304243-flipper-boy)
 - [`WiFi Devboard Pelican Case` Top case that works with the 4mm FZ Pelican case.](https://github.com/Z3BRO/Flipper-Zero-Pelican-Case-Wifi-Devboard)
 - [`FlipperZero RGB backlight` Replacing stock backlight with RGB](https://github.com/quen0n/flipperzero-firmware-rgb)
+- [`The Mayhem Fin` ESP32 with WiFi, BT/BLE, Micro-SD, Camera, Flashlight, NRF24/CC1101, and more.](https://github.com/eried/flipperzero-mayhem)
 
 ## Off-device & Debugging
-- [`Official Web Interface` Web interface to interact with Flipper, including Paint and SUB/IR analyzer.](https://my.flipp.dev/)
+- [`Official Web Interface` Web interface to interact with Flipper, including Paint and SUB/IR analyzer.](https://lab.flipper.net/)
 - [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams.](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55)
 - [`csv2ir` Script to convert IRDB CSV's to Flipper .ir files.](https://github.com/Spexivus/csv2ir)
 - [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
@@ -160,14 +152,16 @@ It will take about 5-10 minutes to complete, and all the open-ended questions ar
 - [`Fztea` Connect to your Flipper's UI over serial or make it accessible via SSH.](https://github.com/jon4hz/fztea)
 - [`pyFlipper` Unofficial CLI wrapper writter in Python.](https://github.com/wh00hw/pyFlipper)
 - [`SUB Plotters / comparers` Python package to plot and compare multiple .sub files.](https://github.com/ShotokanZH/flipper_sub_plotters_comparers)
-- [`ClassicConverted` Converts Mifare Classic binary files to Flipper.](https://github.com/equipter/ClassicConverter)
+- [`ClassicConverter` Converts Mifare Classic binary files to Flipper.](https://github.com/equipter/ClassicConverter)
+- [`ClassicConverterWeb` Converts between Mifare Classic binary and Flipper NFC file.](https://micsen.github.io/flipperNfcToBin/)
 - [`musicxml2fmf` Converts MusicXML files to Flipper Music Format.](https://github.com/white-gecko/musicxml2fmf)
 - [`BadUSB keyboard converter` Payload converted for non-US keyboard layouts.](http://helppox.com/badusbconvert.html)
 - [`U2F SSH Keys` U2F ECDSA SSH Key Generation using Flipper Zero.](https://gist.github.com/BlackPropaganda/44c40f7855a90e289a9477b654e54eb1)
 - [`flipper0` Rusty crate with safe interface to Flipper Firmware and autogen bindings underneath.](https://crates.io/crates/flipper0)
 - [`flipperzero-rs` Hand-crafted bindings to Flipper Firmware with custom build tool.](https://github.com/dcoles/flipperzero-rs)
 - [`fzfs` Flipper Zero filesystem driver.](https://github.com/dakhnod/fzfs)
-- [`Pagger` Sub-GHz generators for restaurants/kiosks paging systems.](https://github.com/meoker/pagger)
+- [`Pagger` Sub-GHz generators for restaurants/kiosks paging systems.](https://meoker.github.io/pagger/)
+- [`FBT-AARCH64` A script that sets up FBT's toolchain on ARM devices.](https://github.com/qqmajikpp/FBT-AARCH64)
 
 ## Notes & References
 - [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
