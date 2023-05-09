@@ -58,6 +58,7 @@
 - [`Spectrum analyzer` Sub-GHz frequency spectrum analyzer.](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer)
 - [`Tetris` A rudimentary Tetris game.](https://github.com/jeffplang/flipperzero-firmware/tree/tetris_game/applications/tetris_game)
 - [`Flappy Bird` The name says it all.](https://github.com/DroomOne/flipperzero-firmware/tree/dev/applications%2Fflappy_bird)
+- [`T-Rex Runner` Flipper zero port of Chrome's game.](https://github.com/Rrycbarm/t-rex-runner)
 - [`Mouse jiggler` Keeps PC screens on by acting as a moving mouse.](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler)
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
 - [`NRF24 & Mousejacking` PoC NRF24 library and mousejack exploitation app.](https://github.com/mothball187/flipperzero-nrf24)
