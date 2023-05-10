@@ -35,6 +35,11 @@
 
 <!-- DO NOT MODIFY ABOVE -->
 
+## Community
+
+- [`Flipper Devices` Flipper Zero Discord community](https://discord.gg/flipper)
+- [`r/FlipperZero` Flipper Zero subreddit community](https://www.reddit.com/r/flipperzero/)
+
 ## Databases & Dumps
 - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
