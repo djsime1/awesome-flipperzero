@@ -266,12 +266,12 @@
 | Mifare DESFire    | ✅   |       |      |         | Can read public files             |
 | Mifare Ultralight | ✅   |       | ✅   | ✅      | Unlock tags with various methods  |
 | NTAG-21X          | ✅   |       | ✅   | ✅      | Very similar to Mifare Ultralight |
-| EMV Cards         | ✅   |       | ❌   | ❌      | Can read unencrypted bank cards   |
+| EMV Cards         |      |       | ❌   | ❌      | Read of public data was removed because it was misunderstood.  Will come back as community app |
 | NFC-B             |      |       |      | ❌      | No hardware support for emulation |
-| iClass/PicoPass   | ✅   |       | ✅   | ❌      | No STM SDK support for emulation  |
+| iClass/PicoPass   | ✅   | ✅    | ✅   |         |                                   |
 | EM4100/EM4102     | ✅   | ❌    | ✅   | ✅      |                                   |
 | H10301            | ✅   | ❌    | ✅   | ✅      |                                   |
-| Indala            | ✅   | ❌    | ✅   | ✅      |                                   |
+| Indala            | ✅   | ❌    | ✅   | ✅      |  Some lengths not supported  |
 | T5577             | ✅   | ✅    | ✅   | ✅      |                                   |
 | EM4305            | ✅   |       | ✅   | ✅      |                                   |
 | Paxton Net2       | ❌   | ❌    | ❌   | ❌      | No support for Hitag2             |
