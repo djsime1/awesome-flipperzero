@@ -99,6 +99,8 @@
 - [`OpenHaystack BLE mod` Very old PoC that makes Flipper behave like an AirTag.](https://github.com/AlexStrNik/flipperzero-firmware)
 
 ## Graphics & Animations
+- [`H4XV's Gif2Anim`
+ Gif2FlipperAnimation Converter](https://github.com/H4XV/flipper-animation-generator)
 - [`Talking Sasquach Animations` Literally wrote the book on making animations.](https://github.com/skizzophrenic/Talking-Sasquach)
 - [`Lab401 Animation Video` YouTube video with a step by step from Talking Sasquach.](https://www.youtube.com/watch?v=Nq5DXhOMo5s)
 - [`Kuronons Graphics` Custom animations, passport backgrounds & profile pictures.](https://github.com/Kuronons/FZ_graphics)
