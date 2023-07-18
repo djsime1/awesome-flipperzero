@@ -114,6 +114,7 @@
 - [`Animations by mnenkov` A dump with animations and manifest creator for batch files.](https://github.com/mnenkov/flipper-zero-animations)
 
 ## Modules & Cases
+- [`Ultimate Flipper Zero Case` 3D printed case with room for 3rd party modules & 2x WiFi dev board slots.](https://www.printables.com/model/527482-ultimate-flipper-case)
 - [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
 - [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases)
 - [`FlipperZero-Protoboards-Kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
