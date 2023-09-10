@@ -36,6 +36,7 @@
 <!-- DO NOT MODIFY ABOVE -->
 
 ## Databases & Dumps
+- [`My-Flipper-Shits` Free and open-source \[BadUSB\] payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/)
 - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
 - [`FlipperZero-TouchTunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes)
@@ -53,10 +54,17 @@
 - [`SerialHex2FlipperZeroInfrared` Convert IR serial messages into FlipperZero compatible IR files.](https://github.com/maehw/SerialHex2FlipperZeroInfrared)
 
 ## Applications & Plugins
+
+<table align="right">
+  <tr><th><strong>Try official apps</strong></th></tr>
+  <tr><td>📱 <em>The Flipper Zero also has<br>an <a href="https://lab.flipper.net/apps">official app store!</a></em></td></tr>
+</table>
+
 - [`Flipper-Plugin-Tutorial` Updated plugin tutorial based on new build methods.](https://github.com/csBlueChip/FlipperZero_plugin_howto)
 - [`Spectrum analyzer` Sub-GHz frequency spectrum analyzer.](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer)
 - [`Tetris` A rudimentary Tetris game.](https://github.com/jeffplang/flipperzero-firmware/tree/tetris_game/applications/tetris_game)
 - [`Flappy Bird` The name says it all.](https://github.com/DroomOne/flipperzero-firmware/tree/dev/applications%2Fflappy_bird)
+- [`T-Rex Runner` Flipper zero port of Chrome's game.](https://github.com/Rrycbarm/t-rex-runner)
 - [`Mouse jiggler` Keeps PC screens on by acting as a moving mouse.](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler)
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
 - [`NRF24 & Mousejacking` PoC NRF24 library and mousejack exploitation app.](https://github.com/mothball187/flipperzero-nrf24)
@@ -105,6 +113,7 @@
 - [`Flipper Zero Animation Process` Google Doc step by step from Talking Sasquach.](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub)
 - [`Flipper Animation Manager` Visualize and manage animations directly from your computer.](https://github.com/Ooggle/FlipperAnimationManager)
 - [`zip2Animation` Utility to assist in creating animations.](https://github.com/CharlesTheGreat77/zip2Animation)
+- [`H4XV's Gif2Anim` Gif2FlipperAnimation Converter](https://github.com/H4XV/flipper-animation-generator)
 - [`Haseosama Animations` Great collection of custom animations.](https://github.com/Haseosama/FZ_Animations)
 - [`Animations by stopoxy` Another great custom animation collection.](https://github.com/stopoxy/FZAnimations)
 - [`Wr3nch Animations` Some custom animations and scripts.](https://github.com/wrenchathome/flip0anims)
@@ -112,8 +121,10 @@
 - [`DoobTheGoober Animations` Custom animations from the creator of zip2Animation](https://github.com/CharlesTheGreat77/FlipperZeroAnimation)
 - [`UberGuidoZ Graphics` Brief description and links to resources, including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics)
 - [`Animations by mnenkov` A dump with animations and manifest creator for batch files.](https://github.com/mnenkov/flipper-zero-animations)
+- [`Oneamongthetrees Animations/Graphics` Collection of custom animations and passport icons.](https://github.com/oneamongthetrees/fz-gfx)
 
 ## Modules & Cases
+- [`Ultimate Flipper Zero Case` 3D printed case with room for 3rd party modules & 2x WiFi dev board slots.](https://www.printables.com/model/527482-ultimate-flipper-case)
 - [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
 - [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases)
 - [`FlipperZero-Protoboards-Kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
@@ -133,6 +144,7 @@
 - [`WiFi Devboard Pelican Case` Top case that works with the 4mm FZ Pelican case.](https://github.com/Z3BRO/Flipper-Zero-Pelican-Case-Wifi-Devboard)
 - [`FlipperZero RGB backlight` Replacing stock backlight with RGB](https://github.com/quen0n/flipperzero-firmware-rgb)
 - [`The Mayhem Fin` ESP32 with WiFi, BT/BLE, Micro-SD, Camera, Flashlight, NRF24/CC1101, and more.](https://github.com/eried/flipperzero-mayhem)
+- [`Flipper-Zero-Backpacks` Backpack addon boards with ESP32, Raspberry Pi, Protoboards etc.](https://github.com/Chrismettal/flipper-zero-backpacks)
 
 ## Off-device & Debugging
 - [`Official Web Interface` Web interface to interact with Flipper, including Paint and SUB/IR analyzer.](https://lab.flipper.net/)
@@ -161,8 +173,15 @@
 - [`fzfs` Flipper Zero filesystem driver.](https://github.com/dakhnod/fzfs)
 - [`Pagger` Sub-GHz generators for restaurants/kiosks paging systems.](https://meoker.github.io/pagger/)
 - [`FBT-AARCH64` A script that sets up FBT's toolchain on ARM devices.](https://github.com/qqmajikpp/FBT-AARCH64)
+- [`flipper2mct` A script to convert Flipper NFC files to Mifare Classic Tools format for MC 1k & 4k.](https://gist.github.com/ardubev16/339ee55e0e610e9241dd236c11ac3c3d)
 
 ## Notes & References
+
+<table align="right">
+  <tr><th><strong>Need help using your Flipper Zero?</strong></th></tr>
+  <tr><td>📕 <em>Give the <a href="https://docs.flipper.net/">official documentation</a> a read!</em></td></tr>
+</table>
+
 - [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
 - [`Official firmware recovery guide` How to troubleshoot firmware issues.](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
 - [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md)
@@ -185,7 +204,7 @@
 <!-- DO NOT MODIFY BELOW -->
 
 <hr>
-<h3 align="center">Want to make changes?</h3>
+<h3 align="center">🆕 Want to make changes? ✨</h3>
 <div align="center">
   You can <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
   or <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">Start a discussion</a></kbd> with your ideas.<br>

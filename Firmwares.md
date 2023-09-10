@@ -1,6 +1,6 @@
 <h1>Flipper Zero firmware differences</h1>
 <h3>
-    <code>::</code> Last updated Jan 20 2023. <code>::</code>
+    <code>::</code> Last updated Aug 24 2023. <code>::</code>
 </h3>
 <p>
     This document maintains a list of differences between various forks of the
@@ -15,7 +15,7 @@
         <td><a href="#unleashed">Unleashed</a></td>
         <td><a href="#plugins">RogueMaster</a></td>
         <td><a href="#Xtreme">Xtreme</a></td>
-        <td><a href="#Dexv">Dexv</a></td>
+        <td><a href="#Dexv">Xvirus</a></td>
         <td><a href="#SquachWare">SquachWare</a></td>
         <td><a href="#v1nc">v1nc</a></td>
         <td><a href="#wetox">Wetox</a></td>
@@ -91,9 +91,9 @@
     </ul>
 </ul>
 <h2 id="Xtreme">
-    💋 Flipper-Xtreme
+    💋 Xtreme
     <kbd>
-        <a href="https://github.com/ClaraCrazy/Flipper-Xtreme/">ClaraCrazy/Flipper-Xtreme/</a>
+        <a href="https://github.com/Flipper-XFW/Xtreme-Firmware">Flipper-XFW/Xtreme-Firmware</a>
     </kbd>
 </h2>
 <ul>
@@ -107,13 +107,13 @@
     <li>Also includes a number of other small tweaks, changes, and stability fixes.</li>
 </ul>
 <h2 id="Dexv">
-    💎Dexv
+    ❌Xvirus
     <kbd>
-        <a href="https://github.com/DXVVAY/Dexvmaster0">DXVVAY/Dexvmaster0</a>
+        <a href="https://github.com/Xvirus-Team/xvirus-firmware">Xvirus-Team/xvirus-firmware</a>
     </kbd>
 </h2>
 <ul>
-    <li>Fork of <a href="#Xtreme">Clara Crazy's Xtreme FW</a> (converted to fork of Unleashed for future development).</li>
+    <li>Fork of <a href="#unleashed">Unleashed FW</a></li>
     <li>Adds custom-themed graphics and some extra features that are not included in the Official Firmware.</li>
     <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
     <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
