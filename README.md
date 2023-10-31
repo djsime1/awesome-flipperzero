@@ -88,6 +88,7 @@
 - [`Xbox Controller` Easy controller for Xbox One with IR](https://github.com/gebeto/flipper-xbox-controller)
 - [`Reversi` The classic Reversi game](https://github.com/dimat/flipperzero-reversi)
 - [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
+- [`XRemote` Advanced IR remote app for Flipper Zero](https://github.com/kala13x/flipper-xremote)
 
 ## Firmwares & Tweaks
 
