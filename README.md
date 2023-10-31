@@ -207,6 +207,7 @@
 - [`Flipper Skylanders` How to read a Skylanders figure with Flipper.](https://github.com/V0lk3n/Flipper-Skylanders)
 - [`Flipper Zero Dimensions` Basic info on screen and case dimensions.](https://github.com/UberGuidoZ/Flipper/tree/main/FlipperZero_Dimensions)
 - [`Application CI/CD Guide` A complete guide on how to adopt flipper application to regular API changes.](https://gist.github.com/Th3Un1q3/233fa6900d13caa95c6383e53a92bed1)
+- [`TalkingSasquach`: Youtube channel exclusively of Flipper content.](https://www.youtube.com/@TalkingSasquach)
 
 <!-- DO NOT MODIFY BELOW -->
 
