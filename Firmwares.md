@@ -1,6 +1,6 @@
 <h1>Flipper Zero firmware differences</h1>
 <h3>
-    <code>::</code> Last updated Aug 24 2023. <code>::</code>
+    <code>::</code> Last updated Oct 30 2023. <code>::</code>
 </h3>
 <p>
     This document maintains a list of differences between various forks of the
@@ -48,15 +48,16 @@
     </kbd>
 </h2>
 <ul>
-    <li><em>(AKA Code Grabber firmware.)</em></li>
+    <li><em>Stable custom firmware focused on new features and improvements of original firmware components, with almost no UI changes</em></li>
     <li>Very active development and Discord community.</li>
     <li>Removes Sub-GHz regional transmission restrictions by default.</li>
     <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>dangerous_settings</em> file.</li>
-    <li>Adds extra Sub-GHz frequencies by default through Official <em>setting_user</em> file.</li>
+    <li>Allows changing Flipper's name via Settings->Desktop</li>
+    <li>Adds extra Sub-GHz frequencies by default without using <em>setting_user</em> file, <em>setting_user</em> is kept untouched for user settings.</li>
     <li>Adds extra Mifare classic keys to included dict file and leaves user file untouched.</li>
-    <li>Can be used to capture and send dynamic encrypted protocols/rolling codes. <em>(Modern garage doors, etc.)</em>
+    <li>Can be used to capture, send, or make new dynamic encrypted protocols/rolling codes thats present in Official FW but locked (no encoder code was made). <em>(Modern garage doors, etc.)</em>
     </li>
-    <li>Encrypted Sub-GHz signals and codes can be added manually.</li>
+    <li>Dynamic Sub-GHz signals and codes can be added manually to pair Flipper as new remote with your system.</li>
     <li>Current modified and new Sub-GHz protocols list <a
             href="https://github.com/DarkFlippers/unleashed-firmware#current-modified-and-new-subghz-protocols-list">can
             be found here</a>.</li>
@@ -74,12 +75,14 @@
     </kbd>
 </h2>
 <ul>
-    <li>Built off Unleashed as the base firmware (which is a fork of Official dev firmware.)</li>
+    <li>Built off <a href="#unleashed">Unleashed</a> as the base firmware (which is a fork of <a href="#official">Official</a> dev firmware.)</li>
+    <li>Contains copy of Xtreme Settings App with big parts of code removed and renamed to CFW Settings</li>
+    <li>Provides closed source builds (with code taken from opensource projects) on Patreon</li>
     <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
     <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
     <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
     <li>Adds extra custom assets <em>(Mifare classic dict, example files, etc)</em>.</li>
-    <li>Includes some PRs from Official firmware that are not yet merged in Official firmware <em>(bleeding edge)</em>.
+    <li>Includes some PRs from Official firmware that are not yet merged in Official firmware (Unfinished, WIP) <em>(bleeding edge)</em>.
     </li>
     <li>Includes experimental "Games Only Mode" (aka Dumb Mode).</li>
     <li>Includes an enhanced, but experimental, new "Dolphin Level" system.</li>
@@ -97,11 +100,13 @@
     </kbd>
 </h2>
 <ul>
-    <li>Built from RogueMaster (converted to fork of Official for future development).</li>
-    <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
-    <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
+    <li>Built from RogueMaster originally then converted to fork of <a href="#unleashed">Unleashed</a> + <a href="#official">Official</a> FW for future development.</li>
+    <li>Adds custom UI and custom Main Menu themes, and asset packs (icons, animations)</li>
+    <li>Removes Sub-GHz regional transmission restrictions by default.</li>
+    <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through Xtreme Settings App.</li>
+    <li>Allows changing Flipper's name via Xtreme Settings App</li>
     <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
-    <li>Adds extra custom assets <em>(Mifare classic dict, 18+ animations, example files, etc)</em>.</li>
+    <li>Adds extra custom assets <em>(Mifare classic dict, 18+ animations (installed separately), example files, etc)</em>.</li>
     <li>Includes an enhanced/improved "Dolphin Level" system similar to RogueMaster.</li>
     <li>Includes extra apps and plugins from the general community through SD Application loader (FAP files).</li>
     <li>Also includes a number of other small tweaks, changes, and stability fixes.</li>
@@ -114,7 +119,7 @@
 </h2>
 <ul>
     <li>Fork of <a href="#unleashed">Unleashed FW</a></li>
-    <li>Adds custom-themed graphics and some extra features that are not included in the Official Firmware.</li>
+    <li>Adds custom-themed graphics that are not included in the Official Firmware.</li>
     <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
     <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
     <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
@@ -129,7 +134,7 @@
 </h2>
 <ul>
     <li><em>(OEM+)</em></li>
-    <li>Fresh and active firmware forked from OFW.</li>
+    <li><em>SquachWare is abandonware for the time being! There are still some good files on it but the underlying firmware is very outdated!! I would love to resurrect the project in the future, but for now, we're on hiatus!</em></li>
     <li>Adds custom animations/moods.</li>
     <li>Includes built-in name changer! (No recompile required to change your devices name).</li>
     <li>Includes extra community based apps and plugins through SD Application loader (FAP files).</li>
@@ -160,6 +165,7 @@
 <ul>
     <li>The dev branch is intended for public use, while others are either testing or archived hackathon submissions.
     </li>
+    <li>Out of date with upstream Official firmware, appears to not be maintained.</li>
     <li>Cracking T5577 RFID passwords via dictionary attack.</li>
     <li>Desktop header branding [WTX].</li>
     <li>Has some frequently updated interesting experimental stuff in different <a
@@ -186,7 +192,7 @@
     <li>TX restriction removal is illegal in most circumstances, use at your own risk.</li>
     <li>MuddledBox was the first popular firmware fork, but didn't grow up.</li>
     <li>Unleashed is more focused on core functionality, stability, and Sub-GHz protocols.</li>
-    <li>RogueMaster is more focused on visual tweaks, new items, and changes (some experimental).</li>
+    <li>Xtreme is more focused on new visual tweaks, UI customisation, and other.</li>
     <li>RogueMaster is based on Unleashed, but may be less stable than Unleashed in some circumstances.</li>
     <li>SquachWare is forked from OFW, adding lots of custom stuff to play with out of the box all while retaining the securities and comfort of OFW.</li>
 </ul>
