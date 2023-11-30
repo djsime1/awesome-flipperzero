@@ -20,9 +20,15 @@
 - *This is a community FAQ. Please consider also reading the [Official docs](https://docs.flipperzero.one/).*
 - *It is written with information from the latest dev firmware, you may have to wait for a firmware (pre)release before some of the questions/answers become relevant.*
 - *This FAQ is still being worked on, and contributions are welcome.*
-- *If your question isn't answered here, **SEARCH** the [Discord](https://flipperzero.one/discord) and check pinned messages before asking there.*
 
+### Community
 
+- *If your question isn't answered here, you can search on this differents places :*
+
+- [Discord](https://flipperzero.one/discord) (check the pinned messages before asking there, the unique language here is in English)
+- [Telegram](https://t.me/flipperzero) (Telegram used by russian Community)
+- [Forum](https://forum.flipper.net/) (Multi language)
+- [reddit](https://www.reddit.com/r/flipperzero/) (Multi language)
 
 ## Meta [🔝](#top)
 
@@ -51,6 +57,12 @@
 
 ## General [🔝](#top)
 
+### Where to buy a Flipper zero ?
+
+> - [https://shop.flipperzero.one/](https://shop.flipperzero.one/)
+> - [https://lab401.com/](https://lab401.com/)
+> - [https://flipp.dev/joom-catalog](https://flipp.dev/joom-catalog)
+
 ### What MicroSD Card should I use?
 > - It should be a reputable brand (Like SanDisk, Sony, etc.) because often cheaper cards don't fully support the communication protocol Flipper uses. 
 > - The card should have a capacity between 4 and 64 GB, but an 8 GB card is MORE than enough.
@@ -67,6 +79,11 @@
 > - For plugging the SD Card into your PC, drop files in their corresponding folders (The folder names are similar to the file extensions).
 
 ### How do I install applications and plugins?
+
+> Recently, in the 0.87.0, a catalog app has been released. You can download from it a lot of applications through the mobile application, or through this links on your computer :
+- [https://lab.flipper.net/apps](https://lab.flipper.net/apps)
+- [https://flipc.org/](https://flipc.org/)
+
 > Assuming the application has been packaged as a `.fap` file, installing it is as easy as placing it inside the `apps` directory on your Flipper's SD card. You can launch the app from the `Applications` app. If the app hasn't been compiled into a `.fap`, either *kindly* ask the author or compile it yourself.
 
 ### How do I install custom firmwares?
@@ -382,3 +399,6 @@
 
 ## WiFi board [🔝](#top)
 > *(WIP)*
+
+https://update.flipperzero.one/builds/blackmagic-firmware/
+https://github.com/SkeletonMan03/FZEasyMarauderFlash
