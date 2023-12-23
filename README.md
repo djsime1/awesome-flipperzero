@@ -36,6 +36,12 @@
 <!-- DO NOT MODIFY ABOVE -->
 
 ## Databases & Dumps
+
+<table align="right">
+  <tr><th><strong>Got a need for speed?</strong></th></tr>
+  <tr><td>📥 <em><a href="https://github.com/katlol/awesome-flipperzero-pack/blob/main/README.md">Look at this</a> for an archive<br>containing every item listed below!</em></td></tr>
+</table>
+
 - [`My-Flipper-Shits` Free and open-source \[BadUSB\] payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/)
 - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
@@ -88,6 +94,7 @@
 - [`Xbox Controller` Easy controller for Xbox One with IR](https://github.com/gebeto/flipper-xbox-controller)
 - [`Reversi` The classic Reversi game](https://github.com/dimat/flipperzero-reversi)
 - [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
+- [`XRemote` Advanced IR remote app for Flipper Zero](https://github.com/kala13x/flipper-xremote)
 
 ## Firmwares & Tweaks
 
@@ -200,6 +207,7 @@
 - [`Flipper Skylanders` How to read a Skylanders figure with Flipper.](https://github.com/V0lk3n/Flipper-Skylanders)
 - [`Flipper Zero Dimensions` Basic info on screen and case dimensions.](https://github.com/UberGuidoZ/Flipper/tree/main/FlipperZero_Dimensions)
 - [`Application CI/CD Guide` A complete guide on how to adopt flipper application to regular API changes.](https://gist.github.com/Th3Un1q3/233fa6900d13caa95c6383e53a92bed1)
+- [`TalkingSasquach`: Youtube channel exclusively of Flipper content.](https://www.youtube.com/@TalkingSasquach)
 
 <!-- DO NOT MODIFY BELOW -->
 
