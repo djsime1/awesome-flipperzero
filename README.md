@@ -181,6 +181,7 @@
 - [`Pagger` Sub-GHz generators for restaurants/kiosks paging systems.](https://meoker.github.io/pagger/)
 - [`FBT-AARCH64` A script that sets up FBT's toolchain on ARM devices.](https://github.com/qqmajikpp/FBT-AARCH64)
 - [`flipper2mct` A script to convert Flipper NFC files to Mifare Classic Tools format for MC 1k & 4k.](https://gist.github.com/ardubev16/339ee55e0e610e9241dd236c11ac3c3d)
+- [`FBflipper` Facebook's Extensible open source tool to user Flipper to help debug iOS, Android, and React Apps.](https://github.com/facebook/flipper)
 
 ## Notes & References
 
