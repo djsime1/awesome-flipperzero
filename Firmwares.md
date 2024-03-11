@@ -1,6 +1,6 @@
 <h1>Flipper Zero firmware differences</h1>
 <h3>
-    <code>::</code> Last updated Oct 30 2023. <code>::</code>
+    <code>::</code> Last updated March 11 2024. <code>::</code>
 </h3>
 <p>
     This document maintains a list of differences between various forks of the
@@ -106,7 +106,7 @@
     <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through Xtreme Settings App.</li>
     <li>Allows changing Flipper's name via Xtreme Settings App</li>
     <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
-    <li>Adds extra custom assets <em>(Mifare classic dict, 18+ animations (installed separately), example files, etc)</em>.</li>
+    <li>Adds extra custom assets <em>(Mifare classic dict, more animations (installed separately), example files, etc)</em>.</li>
     <li>Includes an enhanced/improved "Dolphin Level" system similar to RogueMaster.</li>
     <li>Includes extra apps and plugins from the general community through SD Application loader (FAP files).</li>
     <li>Also includes a number of other small tweaks, changes, and stability fixes.</li>
