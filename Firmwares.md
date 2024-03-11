@@ -1,6 +1,6 @@
 <h1>Flipper Zero firmware differences</h1>
 <h3>
-    <code>::</code> Last updated Oct 30 2023. <code>::</code>
+    <code>::</code> Last updated March 11 2024. <code>::</code>
 </h3>
 <p>
     This document maintains a list of differences between various forks of the
