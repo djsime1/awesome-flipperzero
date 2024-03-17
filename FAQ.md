@@ -62,6 +62,7 @@
 > - [**Official Store** *https://shop.flipperzero.one/*](https://shop.flipperzero.one/)
 > - [**Lab401** *https://lab401.com/*](https://lab401.com/)
 > - [**Joom** *https://flipp.dev/joom-catalog*](https://flipp.dev/joom-catalog)
+>
 > To find out which of these retailers sell the Flipper Zero in your country, use this site: [https://flipperzero.one/how-to-buy](https://flipperzero.one/how-to-buy)
 
 ### What MicroSD Card should I use?
@@ -74,19 +75,19 @@
 
 ### How do I install databases and dumps?
 > Make sure there's a working MicroSD Card in the device first by following the steps above.
-> Once you download the dump, you can use qFlipper or the Flipper mobile app to transfer them. If you're transfering a large file or many at once, you can also eject the SD Card from Flipper and insert it in your computer for faster transfers.
+> Once you download the dump, you can use [qFlipper](https://flipperzero.one/update) or the [Flipper mobile app]((https://flpr.app/)) to transfer them. If you're transfering a large file or many at once, you can also eject the SD Card from Flipper and insert it in your computer for faster transfers.
 > - In qFlipper: Plug your device in, go to the file browser tab, navigate into the SD Card, and drop files in their corresponding folders (The folder names are similar to the file extensions).
 > - For mobile apps: Make sure you're connected via Bluetooth, save the file to the app's archive, and synchronize it back to the device.
 > - For plugging the SD Card into your PC, drop files in their corresponding folders (The folder names are similar to the file extensions).
 
 ### How do I install applications and plugins?
-> As of Firmware v0.87.0, applications can be easily side-loaded on the MicroSD card. These can be installed via the [Flipper mobile app](https://docs.flipper.net/mobile-app), or the online catalog at [https://lab.flipper.net/apps](https://lab.flipper.net/apps).
+> As of Firmware v0.87.0, applications can be easily side-loaded on the MicroSD card. These can be installed via the [Flipper mobile app](https://flpr.app/), or the online catalog at [https://lab.flipper.net/apps](https://lab.flipper.net/apps).
 
 ### How do I install custom firmwares?
 > First, ask yourself if you really need to. Sure, it might be fun to break out of Sub-GHz transmission restrictions, but how often are you actually going to do that? Is it really worth breaking the law?
 > After you've ignored the previous sentences, make sure there's a working MicroSD Card in your Flipper and head over to the repository of your perferred firmware. Look for releases and find the `.dfu` file or update package (typically a `.tar`, `.tar.gz`, or `.zip` file, it always contains a file named `update.fuf`).
 > - If you only have a `.dfu`, it must be installed using the "Install from file" option in qFlipper. Select the file and begin the installation.
-> - If you have an update package, you can either install it with qFlipper, or install it manually through the Micro SD card by following the steps below.
+> - If you have an update package, you can either install it with [qFlipper](https://flipperzero.one/update), or install it manually through the Micro SD card by following the steps below.
 > - To manually install an update package, extract and transfer the folder (not the original archive file) to the `update` folder on the SD Card (create the folder if it doesn't already exist). Once transferred, go to the desktop/idle screen of the Flipper, press down to access the file browser, then left to view all folders. From there, open the `update` folder (typically at the bottom of the list) and find the folder you just transferred. Lastly, select the file named `update` and choose "Run in app" to install the firmware.
 > 
 > If there was no pre-compiled update file/package, you'll have to build the firmware yourself. See the next question for details.
@@ -144,7 +145,7 @@
 > - To enter DFU/Recovery mode: Hold BACK and LEFT, then release BACK while still holding LEFT after a few seconds. When the screen lights up, you can release LEFT.
 > - To exit DFU/Recovery mode: Follow steps for a normal reboot under the first bullet point.
 > 
-> If nothing works or the device is completely bricked, first make sure it's charged by plugging it in for 15-30 minutes. As a final resort, if you can't get it to turn on after charging, *unplug the USB cable* and hold OK plus BACK for 30 seconds. **There will be no indication**, but the device is now in recovery mode. Plug it in to a PC and use qFlipper to recover the firmware.
+> If nothing works or the device is completely bricked, first make sure it's charged by plugging it in for 15-30 minutes. As a final resort, if you can't get it to turn on after charging, *unplug the USB cable* and hold OK plus BACK for 30 seconds. **There will be no indication**, but the device is now in recovery mode. Plug it in to a PC and use [qFlipper](https://flipperzero.one/update) to recover the firmware.
 > Read the official docs for [Control](https://docs.flipperzero.one/basics/control), [Reboot](https://docs.flipperzero.one/basics/reboot), and [Firmware recovery](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery).
 
 ### How do I access the CLI/Logs?
@@ -226,7 +227,7 @@
 
 ### What does "This frequency can only be used for RX in your region" mean?
 > Due to legal regulations, Flipper is not allowed to transmit on certain frequencies depending on your device's provisioned location.
-> Provisioning occurs whenever you update your firmware via qFlipper or the mobile app and is based on your rough location.
+> Provisioning occurs whenever you update your firmware via [qFlipper](https://flipperzero.one/update) or the [mobile app]((https://flpr.app/)) and is based on your rough location.
 
 ### How do I find the frequency of a device/transponder?
 > If it's a commonly used frequency, bring the device *really close* to the Flipper and use the Frequency analyzer.
@@ -313,7 +314,7 @@
 ### What does it mean when some but not all sectors could be read on a Mifare Classic?
 > The data on Mifare Classic cards is split up into sectors, and each sector is protected by two keys.
 > The read wasn't successful, but it didn't fail either. Some of the card's data was read and saved, but not all.
-> Even if not all sectors were read, you should inspect the dump with the mobile app to see if the missing data is necessary or not. In a few rare cases, semi-read cards can be emulated in place of the original without issue.
+> Even if not all sectors were read, you should inspect the dump with the [mobile app](https://flpr.app/) to see if the missing data is necessary or not. In a few rare cases, semi-read cards can be emulated in place of the original without issue.
 > If you still need the rest of the keys, read the next question.
 
 ### How to I get Mifare Classic keys from a reader? (mfkey32 attack)
@@ -368,7 +369,7 @@
 > (Note: When downloading, it's *highly recommended* to unmount the SD Card from your Flipper and directly plug it in to your computer.) If you only need a remote for one device, you can use [Flipper Maker's IR Device tool](https://flippermaker.github.io/) to create and transfer it on the go.
 
 ### The universal TV remote doesn't work besides the power button.
-> The stock universal tv remote database mostly contains power codes, and very few of everything else. This file (Located at `infrared/assets/tv.ir` on the SD Card) be manually replaced with one containing extra codes for all buttons. To do so, download [this file](https://raw.githubusercontent.com/UberGuidoZ/Flipper/main/Infrared/tv.ir) and use qFlipper to transfer it into the path from the previous sentence.
+> The stock universal tv remote database mostly contains power codes, and very few of everything else. This file (Located at `infrared/assets/tv.ir` on the SD Card) be manually replaced with one containing extra codes for all buttons. To do so, download [this file](https://raw.githubusercontent.com/UberGuidoZ/Flipper/main/Infrared/tv.ir) and use [qFlipper](https://flipperzero.one/update) to transfer it into the path from the previous sentence.
 
 ### What are CSV/Pronto/IR Plus codes?
 > All three are different formats of infrared databases. They are not natively compatible with Flipper, but repositories exist that hold converted and compatible versions, such as [Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB).
