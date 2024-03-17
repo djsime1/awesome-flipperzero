@@ -31,22 +31,79 @@
     </h3>
   </td>
 </tr>
-<tr>
-  <td colspan="2">
-    <details>
-      <summary><h3>🧭 Table of Contents <em>(Expand)</em></h3></summary>
-
-- Databases & Dumps
-  - General
-  - Sub-GHz
-  - NFC/RFID
-
-    </details>
-  </td>
-</tr>
 </table>
 
 <hr>
+
+## Table of Contents <small>(Expandable)</small>
+
+<details>
+  <summary><a href="#databases--dumps">Databases & Dumps</a></summary>
+
+  - [General](#general)
+  - [Sub-GHz](#sub-ghz)
+  - [NFC/RFID](#nfcrfid)
+  - [Infrared](#infrared)
+  - [BadUSB](#badusb)
+  - [Music](#music)
+  - [Other](#other)
+
+</details>
+<details>
+  <summary><a href="#applications--plugins">Applications & Plugins</a></summary>
+
+  - [General](#general-1)
+  - [Sub-GHz](#sub-ghz-1)
+  - [Infrared](#infrared-1)
+  - [BadUSB](#badusb-1)
+  - [GPIO](#gpio)
+  - [Bluetooth](#bluetooth)
+  - [Games](#games)
+  - [Utility/Other](#utilityother)
+
+</details>
+<details>
+  <summary><a href="#firmwares--tweaks">Firmwares & Tweaks</a></summary>
+
+  - [Official firmware (ofw)](#official-firmware-ofw)
+  - [Custom firmware (cfw)](#custom-firmware-cfw)
+  - [Outdated/Unmaintained firmware](#outdatedunmaintained-firmware)
+
+</details>
+<details>
+  <summary><a href="#graphics--animations">Graphics & Animations</a></summary>
+
+  - [Tutorials](#tutorials)
+  - [Pre-made animations](#pre-made-animations)
+  - [Utilities](#utilities)
+
+</details>
+<details>
+  <summary><a href="#modules--cases">Modules & Cases</a></summary>
+
+  - [Modules](#modules)
+  - [Cases](#cases)
+  - [Other](#other)
+
+</details>
+<details>
+  <summary><a href="#off-device--debugging">Off-device & Debugging</a></summary>
+
+  - [General](#general-2)
+  - [Converters](#converters)
+  - [Development](#development)
+  - [Utility](#utility)
+
+</details>
+<details>
+  <summary><a href="#notes--references">Notes & References</a></summary>
+
+  - [Disassembly/Repair](#disassemblyrepair)
+  - [Guides](#guides)
+  - [Specifications](#specifications)
+  - [Other](#other-2)
+
+</details>
 
 <!-- DO NOT MODIFY ABOVE -->
 
@@ -224,6 +281,8 @@
 
 ### *Modules*
 
+- [`ESP32 Marauder on WiFi dev board` Portable WiFi/Bluetooth pentesting.](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)
+- [`ESP32 Marauder guide video` Companion video for the above link.](https://youtu.be/_YLTpNo5xa0)
 - [`FlipperZero-Protoboards-Kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
 - [`WiFi Scanner Module` Scans for WiFi networks via a custom Wemos module board.](https://github.com/SequoiaSan/FlipperZero-WiFi-Scanner_Module)
 - [`WiFi Scanner Module Flasher` Web flasher for module firmware above.](https://sequoiasan.github.io/FlipperZero-WiFi-Scanner_Module/)
@@ -241,35 +300,45 @@
 
 ## Off-device & Debugging
 
+### *General*
+
 - [`Official Web Interface` Web interface to interact with Flipper, including Paint and SUB/IR analyzer.](https://lab.flipper.net/)
+- [`Flipper Maker` Generate Flipper Zero files on the fly.](https://flippermaker.github.io/)
+- [`Flipper File Toolbox` Scripts for generating Flipper data files.](https://github.com/evilpete/flipper_toolbox)
+
+### *Converters*
+
 - [`OOK to .sub` Python script to generate Flipper RAW .sub files from OOK bitstreams.](https://gist.github.com/jinschoi/f39dbd82e4e3d99d32ab6a9b8dfc2f55)
 - [`csv2ir` Script to convert IRDB CSV's to Flipper .ir files.](https://github.com/Spexivus/csv2ir)
-- [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
-- [`FlipperScripts` Modify the state and level of your dolphin.](https://github.com/DroomOne/FlipperScripts)
-- [`Viewing system logs` Dump system logs to serial CLI.](https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8)
 - [`AmiiboFlipperConverter` Script that converts Amiibo's to Flipper format.](https://github.com/Lucaslhm/AmiiboFlipperConverter/)
-- [`CLI Tools` Python scripts to screenshot/stream screen.](https://github.com/lomalkin/flipperzero-cli-tools)
-- [`Flipper File Toolbox` Scripts for generating Flipper data files.](https://github.com/evilpete/flipper_toolbox)
-- [`Marauder for Wifi Dev Board` See Flipper.bin in Releases by JustCallMeKoko.](https://github.com/justcallmekoko/ESP32Marauder)
 - [`VertProntoIR2FlipperIR` Converts Vert Pronto IR codes to Flipper format.](https://github.com/SkeletonMan03/VertProntoIR2FlipperIR)
 - [`FlippMibo` Yet another Amiibo to Flipper conversion script.](https://github.com/0xz00n/FlipMiibo)
-- [`mfkey32v2` MFC key recovery reader attack.](https://github.com/equipter/mfkey32v2)
-- [`Fztea` Connect to your Flipper's UI over serial or make it accessible via SSH.](https://github.com/jon4hz/fztea)
-- [`pyFlipper` Unofficial CLI wrapper writter in Python.](https://github.com/wh00hw/pyFlipper)
-- [`SUB Plotters / comparers` Python package to plot and compare multiple .sub files.](https://github.com/ShotokanZH/flipper_sub_plotters_comparers)
 - [`ClassicConverter` Converts Mifare Classic binary files to Flipper.](https://github.com/equipter/ClassicConverter)
 - [`ClassicConverterWeb` Converts between Mifare Classic binary and Flipper NFC file.](https://micsen.github.io/flipperNfcToBin/)
 - [`musicxml2fmf` Converts MusicXML files to Flipper Music Format.](https://github.com/white-gecko/musicxml2fmf)
 - [`BadUSB keyboard converter` Payload converted for non-US keyboard layouts.](http://helppox.com/badusbconvert.html)
-- [`U2F SSH Keys` U2F ECDSA SSH Key Generation using Flipper Zero.](https://gist.github.com/BlackPropaganda/44c40f7855a90e289a9477b654e54eb1)
+- [`flipper2mct` A script to convert Flipper NFC files to Mifare Classic Tools format for MC 1k & 4k.](https://gist.github.com/ardubev16/339ee55e0e610e9241dd236c11ac3c3d)
+- [`SerialHex2FlipperZeroInfrared` Convert IR serial messages into FlipperZero compatible IR files.](https://github.com/maehw/SerialHex2FlipperZeroInfrared)
+
+### *Development*
+
+- [`flipperzero-sesproject` Segger Embedded Studio project.](https://github.com/hedger/flipperzero-sesproject)
 - [`flipper0` Rusty crate with safe interface to Flipper Firmware and autogen bindings underneath.](https://crates.io/crates/flipper0)
 - [`flipperzero-rs` Hand-crafted bindings to Flipper Firmware with custom build tool.](https://github.com/dcoles/flipperzero-rs)
 - [`fzfs` Flipper Zero filesystem driver.](https://github.com/dakhnod/fzfs)
-- [`Pagger` Sub-GHz generators for restaurants/kiosks paging systems.](https://meoker.github.io/pagger/)
 - [`FBT-AARCH64` A script that sets up FBT's toolchain on ARM devices.](https://github.com/qqmajikpp/FBT-AARCH64)
-- [`flipper2mct` A script to convert Flipper NFC files to Mifare Classic Tools format for MC 1k & 4k.](https://gist.github.com/ardubev16/339ee55e0e610e9241dd236c11ac3c3d)
-- [`SerialHex2FlipperZeroInfrared` Convert IR serial messages into FlipperZero compatible IR files.](https://github.com/maehw/SerialHex2FlipperZeroInfrared)
-- [`Flipper Maker` Generate Flipper Zero files on the fly.](https://flippermaker.github.io/)
+
+
+### *Utility*
+
+- [`FlipperScripts` Modify the state and level of your dolphin.](https://github.com/DroomOne/FlipperScripts)
+- [`Viewing system logs` Dump system logs to serial CLI.](https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8)
+- [`CLI Tools` Python scripts to screenshot/stream screen.](https://github.com/lomalkin/flipperzero-cli-tools)
+- [`Fztea` Connect to your Flipper's UI over serial or make it accessible via SSH.](https://github.com/jon4hz/fztea)
+- [`pyFlipper` Unofficial CLI wrapper writter in Python.](https://github.com/wh00hw/pyFlipper)
+- [`SUB Plotters / comparers` Python package to plot and compare multiple .sub files.](https://github.com/ShotokanZH/flipper_sub_plotters_comparers)
+- [`U2F SSH Keys` U2F ECDSA SSH Key Generation using Flipper Zero.](https://gist.github.com/BlackPropaganda/44c40f7855a90e289a9477b654e54eb1)
+- [`Pagger` Sub-GHz generators for restaurants/kiosks paging systems.](https://meoker.github.io/pagger/)
 
 ## Notes & References
 
@@ -278,7 +347,7 @@
   <tr><td>📕 <em>Give the <a href="https://docs.flipper.net/">official documentation</a> a read!</em></td></tr>
 </table>
 
-### Repair or disassembly guides
+### *Disassembly/Repair*
 
 - [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
 - [`Official firmware recovery guide` How to troubleshoot firmware issues.](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
@@ -286,28 +355,23 @@
 - [`Alternative disassembly video` Third-party video for disassembling the Flipper.](https://youtu.be/38pHe7M4vl8)
 - [`Reset forgotten PIN` How to reset your device's PIN code.](https://gist.github.com/djsime1/18d73b981249859f17aab3e2bfd2b600)
 
-### Firmware roadmap
+### *Guides*
 
-- [`Firmware roadmap` Official stock firmware roadmap.](https://miro.com/app/board/uXjVO_3D6xU=/?moveToWidget=3458764522498020058&cot=14)
-
-### Other
-
-- [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md)
 - [`Flipper Zero Hacking 101` Guides with screenshots, files, and general help.](https://flipper.pingywon.com/)
-
 - [`Atmanos Flipper Software Docs` Flipper development tutorials and information.](https://flipper.atmanos.com/docs/overview/intro)
 - [`Flipper Zero GPIO Pinout` Official GPIO pinouts.](https://miro.com/app/board/uXjVO_LaYYI=/?moveToWidget=3458764522696947614&cot=10)
-- [`Add-on Modules GPIO Pinouts` ESP32, ESP8266, ESP32-CAM, ESP32-WROOM, NRF24.](https://github.com/UberGuidoZ/Flipper/tree/main/GPIO)
-
-- [`Flipper Zero SW&HW keynote` (OUTDATED) Hardware & software architecture document.](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
 - [`Flipper Skylanders` How to read a Skylanders figure with Flipper.](https://github.com/V0lk3n/Flipper-Skylanders)
-- [`Flipper Zero Dimensions` Basic info on screen and case dimensions.](https://github.com/UberGuidoZ/Flipper/tree/main/FlipperZero_Dimensions)
 - [`Application CI/CD Guide` A complete guide on how to adopt flipper application to regular API changes.](https://gist.github.com/Th3Un1q3/233fa6900d13caa95c6383e53a92bed1)
 
-### ESP32
+### *Specifications*
 
-- [`ESP32 Marauder on WiFi dev board` Portable WiFi/Bluetooth pentesting.](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)
-- [`ESP32 Marauder guide video` Companion video for the above link.](https://youtu.be/_YLTpNo5xa0)
+- [`Add-on Modules GPIO Pinouts` ESP32, ESP8266, ESP32-CAM, ESP32-WROOM, NRF24.](https://github.com/UberGuidoZ/Flipper/tree/main/GPIO)
+- [`Flipper Zero Dimensions` Basic info on screen and case dimensions.](https://github.com/UberGuidoZ/Flipper/tree/main/FlipperZero_Dimensions)
+
+### *Other*
+
+- [`Firmware roadmap` (outdated?) Official stock firmware roadmap.](https://miro.com/app/board/uXjVO_3D6xU=/?moveToWidget=3458764522498020058&cot=14)
+- [`Flipper Zero SW&HW keynote` (outdated) Hardware & software architecture document.](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
 
 <!-- DO NOT MODIFY BELOW -->
 
