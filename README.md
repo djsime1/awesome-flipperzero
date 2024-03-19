@@ -39,7 +39,7 @@
 
 <table align="right">
   <tr><th><strong>Got a need for speed?</strong></th></tr>
-  <tr><td>📥 <em><a href="https://github.com/katlol/awesome-flipperzero-pack/blob/main/README.md">Look at this</a> for an archive<br>containing every item listed below!</em></td></tr>
+  <tr><td>📥 <em><a href="https://github.com/unresolv/awesome-flipperzero-pack/blob/main/README.md">Look at this</a> for an archive<br>containing every item listed below!</em></td></tr>
 </table>
 
 - [`My-Flipper-Shits` Free and open-source \[BadUSB\] payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/)
