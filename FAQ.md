@@ -20,9 +20,15 @@
 - *This is a community FAQ. Please consider also reading the [Official docs](https://docs.flipperzero.one/).*
 - *It is written with information from the latest dev firmware, you may have to wait for a firmware (pre)release before some of the questions/answers become relevant.*
 - *This FAQ is still being worked on, and contributions are welcome.*
-- *If your question isn't answered here, **SEARCH** the [Discord](https://flipperzero.one/discord) and check pinned messages before asking there.*
 
+### Other Communities
 
+- *If your question isn't answered here, consider searching for it in other communities:*
+
+- [Discord](https://flipperzero.one/discord) (Check the pinned messages to see if you question was already answered, primarily English)
+- [Telegram](https://t.me/flipperzero) (Russian)
+- [Flipper Forum](https://forum.flipper.net/) (Multi-language)
+- [Reddit](https://old.reddit.com/r/flipperzero/) (Multi-language)
 
 ## Meta [🔝](#top)
 
@@ -44,12 +50,20 @@
 
 ### This is really cool! Is there a way I can donate to you?
 > I really appreciate the kind words, however I'm not accepting personal monetary donations.
-> If you're really insistent, I'll accept a Discord Nitro gift ([`@DJ#9822`](https://discord.gg/9rduBhctJ6)) or Steam Game ([`/id/djsime1`](https://steamcommunity.com/id/djsime1/))!
+> If you're really insistent, I'll accept a Discord Nitro gift ([`@djsime1`](https://discord.gg/9rduBhctJ6)) or Steam Game ([`/id/djsime1`](https://steamcommunity.com/id/djsime1/))!
 > Besides that, why not support a local charity/organization instead? My personal recommendation is the [Electronic Frontier Foundation](https://supporters.eff.org/donate).
 
 
 
 ## General [🔝](#top)
+
+### Where can I buy a Flipper zero ?
+> Below are official (re)sellers for the Flipper Zero. Any retailer not on this list may be selling the device deceptively!
+> - [**Official Store** *https://shop.flipperzero.one/*](https://shop.flipperzero.one/)
+> - [**Lab401** *https://lab401.com/*](https://lab401.com/)
+> - [**Joom** *https://flipp.dev/joom-catalog*](https://flipp.dev/joom-catalog)
+>
+> To find out which of these retailers sell the Flipper Zero in your country, use this site: [https://flipperzero.one/how-to-buy](https://flipperzero.one/how-to-buy)
 
 ### What MicroSD Card should I use?
 > - It should be a reputable brand (Like SanDisk, Sony, etc.) because often cheaper cards don't fully support the communication protocol Flipper uses. 
@@ -61,26 +75,27 @@
 
 ### How do I install databases and dumps?
 > Make sure there's a working MicroSD Card in the device first by following the steps above.
-> Once you download the dump, you can use qFlipper or the Flipper mobile app to transfer them. If you're transfering a large file or many at once, you can also eject the SD Card from Flipper and insert it in your computer for faster transfers.
+> Once you download the dump, you can use [qFlipper](https://flipperzero.one/update) or the [Flipper mobile app]((https://flpr.app/)) to transfer them. If you're transfering a large file or many at once, you can also eject the SD Card from Flipper and insert it in your computer for faster transfers.
 > - In qFlipper: Plug your device in, go to the file browser tab, navigate into the SD Card, and drop files in their corresponding folders (The folder names are similar to the file extensions).
 > - For mobile apps: Make sure you're connected via Bluetooth, save the file to the app's archive, and synchronize it back to the device.
 > - For plugging the SD Card into your PC, drop files in their corresponding folders (The folder names are similar to the file extensions).
 
 ### How do I install applications and plugins?
-> Assuming the application has been packaged as a `.fap` file, installing it is as easy as placing it inside the `apps` directory on your Flipper's SD card. You can launch the app from the `Applications` app. If the app hasn't been compiled into a `.fap`, either *kindly* ask the author or compile it yourself.
+> As of Firmware v0.87.0, applications can be easily side-loaded on the MicroSD card. These can be installed via the [Flipper mobile app](https://flpr.app/), or the online catalog at [https://lab.flipper.net/apps](https://lab.flipper.net/apps).
 
 ### How do I install custom firmwares?
 > First, ask yourself if you really need to. Sure, it might be fun to break out of Sub-GHz transmission restrictions, but how often are you actually going to do that? Is it really worth breaking the law?
 > After you've ignored the previous sentences, make sure there's a working MicroSD Card in your Flipper and head over to the repository of your perferred firmware. Look for releases and find the `.dfu` file or update package (typically a `.tar`, `.tar.gz`, or `.zip` file, it always contains a file named `update.fuf`).
 > - If you only have a `.dfu`, it must be installed using the "Install from file" option in qFlipper. Select the file and begin the installation.
-> - If you have an update package, you can either install it with qFlipper, or install it manually through the Micro SD card by following the steps below.
+> - If you have an update package, you can either install it with [qFlipper](https://flipperzero.one/update), or install it manually through the Micro SD card by following the steps below.
 > - To manually install an update package, extract and transfer the folder (not the original archive file) to the `update` folder on the SD Card (create the folder if it doesn't already exist). Once transferred, go to the desktop/idle screen of the Flipper, press down to access the file browser, then left to view all folders. From there, open the `update` folder (typically at the bottom of the list) and find the folder you just transferred. Lastly, select the file named `update` and choose "Run in app" to install the firmware.
 > 
 > If there was no pre-compiled update file/package, you'll have to build the firmware yourself. See the next question for details.
 > For more information, read the [official documentation](https://docs.flipperzero.one/basics/firmware-update).
 
 ### Where and when are developer Q&A sessions held?
-> Question and Answer session are held every week on Saturday, at 01:00 and 13:00 (GMT)
+> **Maintainer note: Unsure if these are still held.**
+> Question and Answer session are held every week on Saturday at 01:00 and 13:00 (GMT) on the [Flipper Discord](https://flipperzero.one/discord).
 > 
 > | Time zone      | Side A  |  Side B |
 > | :------------: | :-----: | :-----: |
@@ -92,11 +107,12 @@
 > | China Standard | 09:00   | 21:00   |
 > | India Standard | 06:30   | 18:30   |
 
-### Are there archives of past Q&A sessions?
+<!-- ### Are there archives of past Q&A sessions?
 > Archival is a community effort, so only some are available.
-> [https://github.com/flipperdevices/flipper-questions-and-answers](https://github.com/flipperdevices/flipper-questions-and-answers)
+> [https://github.com/flipperdevices/flipper-questions-and-answers](https://github.com/flipperdevices/flipper-questions-and-answers) -->
 
 ### How do I write/compile my own applications/plugins/firmware/assets?
+> **Maintainer note: this needs to be updated.**
 <blockquote>
   <em>(The following is a summary of the <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md">official FBT docs</a>.)</em><br>
   Since the introduction of <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md">Flipper Build Tool (FBT)</a>, this has become very easy! You should have a basic understanding of working on a command line before proceeding. The only prerequisite install is <a href="https://git-scm.com/downloads">Git</a>. You should also have an IDE installed, <a href="https://code.visualstudio.com/">VSCode</a> is recommended since the <a href="https://github.com/flipperdevices/flipperzero-firmware">firmware repo</a> has <a href="https://github.com/flipperdevices/flipperzero-firmware/blob/dev/documentation/fbt.md#vscode-integration">config files</a> for it.
@@ -109,26 +125,27 @@
 ### Can I make my own Flipper instead of buying one?
 > Probably not. While the firmware and schematics are mostly public, actually sourcing the components is extremely difficult. Multiple core pieces, such as the screen, were specifically produced to be used in Flipper manufacturing.
   
-### How do I get a black-shell Flipper?
-> This is no longer possible*, they were Kickstarter-backer exclusives.
+### How do I get a black/clear-shell Flipper?
+> This is no longer possible*, black-shells were Kickstarter-backer exclusives and clear-shells were a limited production run.
 > (*No longer possible unless you're willing to shill out hundreds of dollars for one on eBay.)
   
 ### How do I invert the screen/change backlight color/change case cover, etc.
 > These are all hardware mods, generally inaccessible to the average user. Look up/ask around on how to do them if you're really interested, [r/flipperzero](https://old.reddit.com/r/flipperzero/) is a good place to start.
 
 ### Will there be future hardware revisions?
-> Technically speaking, there's going to be a **very minor** hardware revision in the near future. Functionally speaking, it will be identical to every other Flipper Zero already sold. The revision only replaces a few internal components and doesn't offer any new features compared to existing devices, so don't bother waiting to buy it.
-> Besides that, there are concepts for a [Flipper One](https://flipperzero.one/one), but without a timeline for release.
+> Regarding the Flipper Zero, no. There was a minor hardware revision in 2023 to address component shortages, but this changed nothing functionally.
+> There are plans for a new device called the Flipper Nano, which is solely focused on being a hub for GPIO devices. It will not feature any internal radios (Sub-GHz, NFC, RFID, IR, etc.) like the Flipper Zero does, but will have double the GPIO pins. Check out [this video by Talking Sasquach](https://youtu.be/WB86ZOI6DAw) for more information.
+> Long ago, there were concepts for a 'Flipper One,' which was rumored to be something akin to a Pi Zero with an SDR running Kali, however there's been no information nor confirmation of its development for quite some time.
 
 ### What is Dummy Mode?
-> Currently, it only allows the Snake game to be opened when active. In the future, it will hide every app except games, in case your device is ever inspected or seized.
+> Dummy mode is a basic toggle to make the Flipper appear like a hand-held toy/game device by remapping the buttons to launch specific apps from the desktop instead of opening the app list.
 
 ### My device is frozen, how do I reboot/fix it?
 > - To reboot the device: hold the BACK and LEFT buttons, then release simultaneously. If that didn't work, *disconnect the USB cable* and hold BACK for 30 seconds. This will preform a normal reboot.
 > - To enter DFU/Recovery mode: Hold BACK and LEFT, then release BACK while still holding LEFT after a few seconds. When the screen lights up, you can release LEFT.
 > - To exit DFU/Recovery mode: Follow steps for a normal reboot under the first bullet point.
 > 
-> If nothing works or the device is completely bricked, first make sure it's charged by plugging it in for 15-30 minutes. As a final resort, if you can't get it to turn on after charging, *unplug the USB cable* and hold OK plus BACK for 30 seconds. **There will be no indication**, but the device is now in recovery mode. Plug it in to a PC and use qFlipper to recover the firmware.
+> If nothing works or the device is completely bricked, first make sure it's charged by plugging it in for 15-30 minutes. As a final resort, if you can't get it to turn on after charging, *unplug the USB cable* and hold OK plus BACK for 30 seconds. **There will be no indication**, but the device is now in recovery mode. Plug it in to a PC and use [qFlipper](https://flipperzero.one/update) to recover the firmware.
 > Read the official docs for [Control](https://docs.flipperzero.one/basics/control), [Reboot](https://docs.flipperzero.one/basics/reboot), and [Firmware recovery](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery).
 
 ### How do I access the CLI/Logs?
@@ -201,16 +218,6 @@
   Once you have the CLI open, type <code>log</code> and press enter to start watching logs. Press <code>Ctrl-C</code> or <code>Cmd-C</code> to exit log mode.
 </blockquote>
 
-### How can I tell if I'm running the Iceman edition firmware?
-<blockquote>
-  From the idle screen, press right to open your Flipper's passport.
-  Check for the Iceman logo on the left, like in this screenshot:
-  <details>
-    <summary>(Click to reveal screenshot)</summary>
-    <img src="https://user-images.githubusercontent.com/8518150/203851157-e0ce2065-dd55-4e37-a5aa-5b07ed62e872.png" alt="Iceman firmware screenshot">
-  </details>
-</blockquote>
-
 
 
 ## Sub-GHz [🔝](#top)
@@ -220,7 +227,7 @@
 
 ### What does "This frequency can only be used for RX in your region" mean?
 > Due to legal regulations, Flipper is not allowed to transmit on certain frequencies depending on your device's provisioned location.
-> Provisioning occurs whenever you update your firmware via qFlipper or the mobile app and is based on your rough location.
+> Provisioning occurs whenever you update your firmware via [qFlipper](https://flipperzero.one/update) or the [mobile app]((https://flpr.app/)) and is based on your rough location.
 
 ### How do I find the frequency of a device/transponder?
 > If it's a commonly used frequency, bring the device *really close* to the Flipper and use the Frequency analyzer.
@@ -252,7 +259,7 @@
 
 ### Can I attach a more powerful antenna?
 > Yes and no. You can't just attach any antenna directly via the GPIO pins, however you could use a separate processor on a protoboard and control it from Flipper, assuming you write your own code to do that.
-> For example, you could write your own code on a NRF24 and accompanying Flipper app to control it over GPIO. 
+> For example, you could write your own code on a NRF24 and accompanying Flipper app to control it over GPIO.
 
 
 
@@ -281,6 +288,7 @@
 
 ### How do I identify which type of card/tag I have?
 > To determine the protocol (NFC, RFID, or iClass/PicoPass) you'll need to attempt reading in each corresponding app. If nothing works, check the tag/card for any markings or indications. As a last resort, take a picture of the card/fob and the reader and ask in the [Flipper Discord server](https://flipperzero.one/discord).
+> If you have access to the card reader, you can use the [RFID Detector app](https://lab.flipper.net/apps/nfc_rfid_detector) to determine whether it's looking for a high-frequency (NFC/iClass/PicoPass) or low-frequency (RFID) card.
 
 ### How do I identify which type of NFC tag I have?
 > Run the "Read card" action in the NFC app. Only NFC-A type tags are supported (Mifare/NTAG/Some EMV).
@@ -301,16 +309,16 @@
 ### What does it mean when no sectors could be read on a Mifare Classic?
 > The data on Mifare Classic cards is split up into sectors, and each sector is protected by two keys.
 > If no sectors were read, then Flipper's dictionary attack has failed to find any valid keys.
-> If you know the keys, you can manually input them under the "Extra Actions" menu of the NFC app. Otherwise, try attacking the reader with mfkey32v2 as described a few questions down.
+> If you know the keys, you can manually input them under the "Extra Actions" menu of the NFC app. Otherwise, try attacking the reader with mfkey32 as described a few questions down.
 
 ### What does it mean when some but not all sectors could be read on a Mifare Classic?
 > The data on Mifare Classic cards is split up into sectors, and each sector is protected by two keys.
 > The read wasn't successful, but it didn't fail either. Some of the card's data was read and saved, but not all.
-> Even if not all sectors were read, you should inspect the dump with the mobile app to see if the missing data is necessary or not. In a few rare cases, semi-read cards can be emulated in place of the original without issue.
+> Even if not all sectors were read, you should inspect the dump with the [mobile app](https://flpr.app/) to see if the missing data is necessary or not. In a few rare cases, semi-read cards can be emulated in place of the original without issue.
 > If you still need the rest of the keys, read the next question.
 
-### How to I get Mifare Classic keys from a reader with [mfkey32v2](https://github.com/equipter/mfkey32v2)?
-> (WIP, Note to self: https://regex101.com/r/iXmE2N/2)
+### How to I get Mifare Classic keys from a reader? (mfkey32 attack)
+> Read this documentation article: [https://docs.flipper.net/nfc/mfkey32](https://docs.flipper.net/nfc/mfkey32)
 
 ### Why isn't Mifare Classic emulation working?
 > Flipper emulates Mifare Classics according to official specification docs (at 13.56 mhz), however certain card readers operate at slightly different frequencies (such as 13.50 mhz). Since Flipper is unable to detect the frequency (like a real card does), it also can't correct for these minor errors.
@@ -352,6 +360,8 @@
 > - Common RFID Standards and protocols: https://www.asiarfid.com/common-rfid-standards-and-protocols.html
 > - RFID Standards: ISO, IEC, EPCglobal: https://www.electronics-notes.com/articles/connectivity/rfid-radio-frequency-identification/standards-iec-iso-epcglobal.php
 
+
+
 ## Infrared [🔝](#top)
 
 ### How do I add more devices to the "Universal Remotes" menu?
@@ -359,7 +369,7 @@
 > (Note: When downloading, it's *highly recommended* to unmount the SD Card from your Flipper and directly plug it in to your computer.) If you only need a remote for one device, you can use [Flipper Maker's IR Device tool](https://flippermaker.github.io/) to create and transfer it on the go.
 
 ### The universal TV remote doesn't work besides the power button.
-> The stock universal tv remote database mostly contains power codes, and very few of everything else. This file (Located at `infrared/assets/tv.ir` on the SD Card) be manually replaced with one containing extra codes for all buttons. To do so, download [this file](https://raw.githubusercontent.com/UberGuidoZ/Flipper/main/Infrared/tv.ir) and use qFlipper to transfer it into the path from the previous sentence.
+> The stock universal tv remote database mostly contains power codes, and very few of everything else. This file (Located at `infrared/assets/tv.ir` on the SD Card) be manually replaced with one containing extra codes for all buttons. To do so, download [this file](https://raw.githubusercontent.com/UberGuidoZ/Flipper/main/Infrared/tv.ir) and use [qFlipper](https://flipperzero.one/update) to transfer it into the path from the previous sentence.
 
 ### What are CSV/Pronto/IR Plus codes?
 > All three are different formats of infrared databases. They are not natively compatible with Flipper, but repositories exist that hold converted and compatible versions, such as [Flipper-IRDB](https://github.com/logickworkshop/Flipper-IRDB).
@@ -381,4 +391,13 @@
 
 
 ## WiFi board [🔝](#top)
-> *(WIP)*
+
+### What can I do with the Wi-Fi dev board?
+> Since the WiFi dev board is an entirely separate computer from the Flipper, certain tasks can be offloaded from the Flipper and run on the integrated ESP32 chip instead. There are two primary use cases for the dev board so far:
+> - [Blackmagic firmware (for debugging firmware/apps on the Flipper)](https://docs.flipper.net/development/hardware/wifi-developer-board)
+> - [Marauder firmware (for performing basic Wi-Fi attacks, please don't use this maliciously)](https://github.com/justcallmekoko/ESP32Marauder/wiki/flipper-zero)
+
+### How do I flash firmware to the dev board?
+> - Flashing Blackmagic: [Use ufbt](https://docs.flipper.net/development/hardware/wifi-developer-board/update).
+> - Flashing Marauder: [Choose one of these options](https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware#using-spacehuhn-web-updater).
+> - Flashing anything else: Use the [ESP Flasher app](https://lab.flipper.net/apps/esp_flasher) or [ESPWebTool](https://esp.huhn.me/).
