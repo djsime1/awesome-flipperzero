@@ -184,6 +184,7 @@
 - [`GPS` Display data from a serial GPS module.](https://github.com/ezod/flipperzero-gps)
 - [`Unitemp` Temperature, humidity and pressure sensors reader (DHT11/22, DS18B20, BMP280, HTU21x and more)](https://github.com/quen0n/unitemp-flipperzero)
 - [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
+- [`Noptel LRF rangefinder sampler` App to get range measurements from a Noptel LRF rangefinder](https://github.com/Giraut/flipper_zero_noptel_lrf_sampler)
 
 ### *Bluetooth*
 
