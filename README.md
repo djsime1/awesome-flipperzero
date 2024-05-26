@@ -172,10 +172,11 @@
 - [`XRemote` Advanced IR remote app for Flipper Zero](https://github.com/kala13x/flipper-xremote)
 
 ### *BadUSB*
-
+- [`Vulnerability Scanner` Scans a PC for vulnerabilities and saves results.](https://github.com/MarkCyber/BadUSB/blob/main/HackStuff/VulnerabilityScanner.txt)
 - [`COM Port Scanner Emulator` Barcode Scanner Emulator.](https://github.com/polarikus/flipper-zero_bc_scanner_emulator)
 - [`USB HID Autofire` Send left-clicks as a USB HID device.](https://github.com/pbek/usb_hid_autofire)
 - [`Mouse jiggler` Keeps PC screens on by acting as a moving mouse.](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler)
+- [`Ransomware Simulator` Simulates a ransomware attack by changing extensions of files to ".locked".](https://github.com/MarkCyber/BadUSB/tree/main/RansomwareSimulation)
 
 ### *GPIO*
 
