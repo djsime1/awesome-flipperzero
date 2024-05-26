@@ -135,6 +135,7 @@
 
 ### *BadUSB*
 
+- [`MarkCyber` Free BadUSB payloads for ethical hacking (and fun)](https://github.com/MarkCyber/BadUSB)
 - [`My-Flipper-Shits` Free and open-source \[BadUSB\] payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/)
 - [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 - [`UNC0V3R3D BadUSB collection` Yet another BadUSB collection.](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
@@ -176,7 +177,6 @@
 - [`COM Port Scanner Emulator` Barcode Scanner Emulator.](https://github.com/polarikus/flipper-zero_bc_scanner_emulator)
 - [`USB HID Autofire` Send left-clicks as a USB HID device.](https://github.com/pbek/usb_hid_autofire)
 - [`Mouse jiggler` Keeps PC screens on by acting as a moving mouse.](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler)
-- [`Ransomware Simulator` Simulates a ransomware attack by changing extensions of files to ".locked".](https://github.com/MarkCyber/BadUSB/tree/main/RansomwareSimulation)
 
 ### *GPIO*
 
