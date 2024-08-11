@@ -40,68 +40,68 @@
 <details>
   <summary><a href="#databases--dumps">Databases & Dumps</a></summary>
 
-  - [General](#general)
-  - [Sub-GHz](#sub-ghz)
-  - [NFC/RFID](#nfcrfid)
-  - [Infrared](#infrared)
-  - [BadUSB](#badusb)
-  - [Music](#music)
-  - [Other](#other)
+- [General](#general)
+- [Sub-GHz](#sub-ghz)
+- [NFC/RFID](#nfcrfid)
+- [Infrared](#infrared)
+- [BadUSB](#badusb)
+- [Music](#music)
+- [Other](#other)
 
 </details>
 <details>
   <summary><a href="#applications--plugins">Applications & Plugins</a></summary>
 
-  - [General](#general-1)
-  - [Sub-GHz](#sub-ghz-1)
-  - [Infrared](#infrared-1)
-  - [BadUSB](#badusb-1)
-  - [GPIO](#gpio)
-  - [Bluetooth](#bluetooth)
-  - [Games](#games)
-  - [Utility/Other](#utilityother)
+- [General](#general-1)
+- [Sub-GHz](#sub-ghz-1)
+- [Infrared](#infrared-1)
+- [BadUSB](#badusb-1)
+- [GPIO](#gpio)
+- [Bluetooth](#bluetooth)
+- [Games](#games)
+- [Utility/Other](#utilityother)
 
 </details>
 <details>
   <summary><a href="#firmwares--tweaks">Firmwares & Tweaks</a></summary>
 
-  - [Official firmware (ofw)](#official-firmware-ofw)
-  - [Custom firmware (cfw)](#custom-firmware-cfw)
-  - [Outdated/Unmaintained firmware](#outdatedunmaintained-firmware)
+- [Official firmware (ofw)](#official-firmware-ofw)
+- [Custom firmware (cfw)](#custom-firmware-cfw)
+- [Outdated/Unmaintained firmware](#outdatedunmaintained-firmware)
 
 </details>
 <details>
   <summary><a href="#graphics--animations">Graphics & Animations</a></summary>
 
-  - [Tutorials](#tutorials)
-  - [Pre-made animations](#pre-made-animations)
-  - [Utilities](#utilities)
+- [Tutorials](#tutorials)
+- [Pre-made animations](#pre-made-animations)
+- [Utilities](#utilities)
 
 </details>
 <details>
   <summary><a href="#modules--cases">Modules & Cases</a></summary>
 
-  - [Modules](#modules)
-  - [Cases](#cases)
-  - [Other](#other)
+- [Modules](#modules)
+- [Cases](#cases)
+- [Other](#other)
 
 </details>
 <details>
   <summary><a href="#off-device--debugging">Off-device & Debugging</a></summary>
 
-  - [General](#general-2)
-  - [Converters](#converters)
-  - [Development](#development)
-  - [Utility](#utility)
+- [General](#general-2)
+- [Converters](#converters)
+- [Development](#development)
+- [Utility](#utility)
 
 </details>
 <details>
   <summary><a href="#notes--references">Notes & References</a></summary>
 
-  - [Disassembly/Repair](#disassemblyrepair)
-  - [Guides](#guides)
-  - [Specifications](#specifications)
-  - [Other](#other-2)
+- [Disassembly/Repair](#disassemblyrepair)
+- [Guides](#guides)
+- [Specifications](#specifications)
+- [Other](#other-2)
 
 </details>
 
@@ -210,7 +210,6 @@
 - [`MultiConverter` Multi-unit converter that can be easily expanded with new units and conversion methods.](https://github.com/theisolinearchip/flipperzero_stuff/tree/main/applications/multi_converter)
 - [`bpm-tapper` Tap along to a song to measure beats per minute.](https://github.com/panki27/bpm-tapper)
 - [`Flipp Pomodoro` Pomodoro Timer Tool for productivity.](https://github.com/Th3Un1q3/flipp_pomodoro)
-
 
 ## Firmwares & Tweaks
 
@@ -328,7 +327,6 @@
 - [`flipperzero-rs` Hand-crafted bindings to Flipper Firmware with custom build tool.](https://github.com/dcoles/flipperzero-rs)
 - [`fzfs` Flipper Zero filesystem driver.](https://github.com/dakhnod/fzfs)
 - [`FBT-AARCH64` A script that sets up FBT's toolchain on ARM devices.](https://github.com/qqmajikpp/FBT-AARCH64)
-
 
 ### *Utility*
 
