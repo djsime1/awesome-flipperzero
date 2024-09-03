@@ -117,6 +117,7 @@
 ### *General*
 
 - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
+- [`DefinetlyNotAI Full Flipper Database` Largest Cocktail mix of files doumentation, dumps and animations.](https://github.com/DefinetlyNotAI/Full_Flipper_Database)
 
 ### *Sub-GHz*
 
