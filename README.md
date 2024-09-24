@@ -258,7 +258,7 @@
 - [`UberGuidoZ Graphics` Brief description and links to resources, including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics)
 - [`Animations by mnenkov` A dump with animations and manifest creator for batch files.](https://github.com/mnenkov/flipper-zero-animations)
 - [`Oneamongthetrees Animations/Graphics` Collection of custom animations and passport icons.](https://github.com/oneamongthetrees/fz-gfx)
-- - [`Kf637/Animations-for-Flipper-Zero` A collection of over 420 public animations from tons of different creators.](https://github.com/Kf637/Animations-for-Flipper-Zero)
+- [`Kf637/Animations-for-Flipper-Zero` A collection of over 420 public animations from tons of different creators.](https://github.com/Kf637/Animations-for-Flipper-Zero)
 
 ### *Utilities*
 
