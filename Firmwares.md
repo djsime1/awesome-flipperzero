@@ -21,6 +21,7 @@
         <td><a href="#wetox">Wetox</a></td>
         <td><a href="#muddledbox">MuddledBox</a></td>
         <td><a href="#summary">Summary (TL;DR)</a></td>
+        <td><a href="#matrix">Feature Matrix (Comparison)</a></td>
     </tr>
 </table>
 <h2 id="official">
@@ -196,3 +197,273 @@
     <li>RogueMaster is based on Unleashed, but may be less stable than Unleashed in some circumstances.</li>
     <li>SquachWare is forked from OFW, adding lots of custom stuff to play with out of the box all while retaining the securities and comfort of OFW.</li>
 </ul>
+<h2 id="matrix">
+    🔍 Feature Matrix
+    <kbd>Comparison</kbd>
+</h2>
+<table>
+    <tr>
+        <th>Feature/Characteristic</th>
+        <th>Official flipperdevices/flipperzero-firmware</th>
+        <th>🔓 Unleashed DarkFlippers/unleashed-firmware</th>
+        <th>💫 RogueMaster RogueMaster/flipperzero-firmware-wPlugins</th>
+        <th>💋 Xtreme Flipper-XFW/Xtreme-Firmware</th>
+        <th>❌Xvirus Xvirus-Team/xvirus-firmware</th>
+        <th>🌲 SquachWare skizzophrenic/SquachWare-CFW</th>
+        <th>⌨ v1nc v1nc/flipperzero-firmware</th>
+        <th>🎩 Wetox wetox-team/flipperzero-firmware</th>
+        <th>📦 MuddledBox MuddledBox/flipperzero-firmware</th>
+    </tr>
+    <tr>
+        <td>Region-Locked Sub-GHz Transmission</td>
+        <td>Yes</td>
+        <td>No</td>
+        <td>No</td>
+        <td>No</td>
+        <td>No</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>Ability to Save/Send Rolling Codes in Sub-GHz</td>
+        <td>No</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Factory-Set Device Name</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>No</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Active Development and Community</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Outdated</td>
+        <td>Yes</td>
+        <td>Abandoned</td>
+    </tr>
+    <tr>
+        <td>Extended Sub-GHz Frequency Range</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>Extra Sub-GHz Frequencies</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Extra Mifare Classic Keys</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Capture/Send Dynamic Encrypted Protocols</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Manual Addition of Encrypted Signals/Codes</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Extra Apps and Plugins Through SD Application Loader</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Some</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Custom Assets</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>Enhanced "Dolphin Level" System</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Other Small Tweaks and Changes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+    </tr>
+    <tr>
+        <td>Custom Animations/Moods</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Built-in Name Changer</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Community Based Bad USB Scripts</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Community Based Sub-GHz Files</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Different Keyboard Layouts for Duckyscripts</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>-</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Cracking RFID Passwords via Dictionary Attack</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Desktop Header Branding</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+        <td>-</td>
+    </tr>
+    <tr>
+        <td>Self-Promo Images in Settings</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>-</td>
+        <td>Yes</td>
+    </tr>
+</table>
