@@ -109,14 +109,18 @@
 
 ## Databases & Dumps
 
+<!--
+*** No longer maintained, much of the included files no longer work. ***
+
 <table align="right">
   <tr><th><strong>Got a need for speed?</strong></th></tr>
   <tr><td>📥 <em><a href="https://github.com/unresolv/awesome-flipperzero-pack/blob/main/README.md">Look at this</a> for an archive<br>containing every item listed below!</em></td></tr>
 </table>
+ -->
 
 ### *General*
 
-- [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
+- [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds, including everything below.](https://github.com/UberGuidoZ/Flipper)
 
 ### *Sub-GHz*
 
@@ -128,17 +132,18 @@
 ### *NFC/RFID*
 
 - [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
+- [`Flipper-Zero-Tonies` Database of Tonies for the Toniebox.](https://github.com/nortakales/flipper-zero-tonies)
 
 ### *Infrared*
 
-- [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
+- [`Flipper-IRDB` Many IR dumps for various devices.](https://github.com/logickworkshop/Flipper-IRDB)
 
 ### *BadUSB*
 
-- [`My-Flipper-Shits` Free and open-source \[BadUSB\] payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/)
+- [`MarkCyber` Free BadUSB payloads for ethical hacking (and fun).](https://github.com/MarkCyber/BadUSB)
+- [`My-Flipper-Shits` Free and open-source BadUSB payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/)
 - [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
-- [`UNC0V3R3D BadUSB collection` Yet another BadUSB collection.](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
-- [`FalsePhilosophers Flipper BadUSB` Flipper zero community ducky payload repo.](https://github.com/FalsePhilosopher/badusb)
+- [`FalsePhilosophers Flipper BadUSB` Flipper Zero community ducky payload repo.](https://github.com/FalsePhilosopher/badusb)
 
 ### *Music*
 
@@ -173,17 +178,27 @@
 
 ### *BadUSB*
 
+- [`Vulnerability Scanner` Scans a PC for vulnerabilities and saves results.](https://github.com/MarkCyber/BadUSB/blob/main/HackStuff/VulnerabilityScanner.txt)
 - [`COM Port Scanner Emulator` Barcode Scanner Emulator.](https://github.com/polarikus/flipper-zero_bc_scanner_emulator)
 - [`USB HID Autofire` Send left-clicks as a USB HID device.](https://github.com/pbek/usb_hid_autofire)
 - [`Mouse jiggler` Keeps PC screens on by acting as a moving mouse.](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler)
 
 ### *GPIO*
 
+- [`UberGuidoZ Documentation` Many different pinouts, modules, and protocol documentation.](https://github.com/UberGuidoZ/Flipper/tree/main/GPIO)
 - [`NRF24 & Mousejacking` (outdated) PoC NRF24 library and mousejack exploitation app.](https://github.com/mothball187/flipperzero-nrf24)
 - [`Sentry Safe` Plugin that can open any Sentry Safe and Master Lock electronic safe without entering pin code.](https://github.com/H4ckd4ddy/flipperzero-sentry-safe-plugin)
 - [`GPS` Display data from a serial GPS module.](https://github.com/ezod/flipperzero-gps)
 - [`Unitemp` Temperature, humidity and pressure sensors reader (DHT11/22, DS18B20, BMP280, HTU21x and more)](https://github.com/quen0n/unitemp-flipperzero)
 - [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
+
+### *Wifi Devboard*
+
+- [`UberGuidoZ Files and Documentation` Documentation, Marauder, BlackMagic, and links.](https://github.com/UberGuidoZ/Flipper/tree/main/Wifi_DevBoard)
+- [`FZEE Flasher` Easy web flasher for various different wifi boards.](https://fzeeflasher.com/)
+- [`SkeletonMan's ESP32 Flasher` Python script to flash multiple boards with Marauder or BlackMagic.](https://github.com/SkeletonMan03/FZEasyMarauderFlash)
+- [`Maraduer Official` Official site from JustCallMeKoko, including various ESP32 options.](https://github.com/justcallmekoko/ESP32Marauder)
+- [`Flipper Zero Evil Portal` An evil captive portal Wi-Fi access point using the Flipper Zero and Wi-Fi dev board](https://github.com/bigbrodude6119/flipper-zero-evil-portal)
 
 ### *Bluetooth*
 
@@ -225,15 +240,15 @@
 
 ### *Custom firmware (cfw)*
 
-- [`Momentum` Feature-rich, stable and customizable Flipper firmware: a direct continuation of the Xtreme firmware.](https://github.com/Next-Flip/Momentum-Firmware)
-- [`Xtreme` Official fork with cleaned up codebase, more module extensions and custom assets.](https://github.com/ClaraCrazy/Flipper-Xtreme)
 - [`Unleashed` Unlocked firmware with rolling codes support & community plugins, stable tweaks, and games.](https://github.com/DarkFlippers/unleashed-firmware)
+- [`Momentum` Feature-rich, stable and customizable Flipper firmware: a direct continuation of the Xtreme firmware.](https://github.com/Next-Flip/Momentum-Firmware)
 - [`RogueMaster` Fork of Unleashed firmware with custom graphics, experimental tweaks, community plugins and games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
-- [`Dexv` Xtreme fork; The "Will it blend?" of custom firmwares.](https://github.com/DXVVAY/Dexvmaster0)
 
 ### *Outdated/Unmaintained firmware*
 
+- [`Xtreme` Official fork with cleaned up codebase, more module extensions and custom assets.](https://github.com/ClaraCrazy/Flipper-Xtreme)
 - [`SquachWare` Fork of official firmware which adds custom graphics, community applications & files.](https://github.com/skizzophrenic/SquachWare-CFW)
+- [`Dexv` Xtreme fork; The "Will it blend?" of custom firmwares.](https://github.com/DXVVAY/Dexvmaster0)
 - [`Wetox` Very similar to the official branch, with a few small tweaks.](https://github.com/wetox-team/flipperzero-firmware)
 - [`Muddled Forks` Less-active firmware modifications.](https://github.com/MuddledBox/flipperzero-firmware/tree/muddled_dev)
 - [`OpenHaystack BLE mod` Very old PoC that makes Flipper behave like an AirTag.](https://github.com/AlexStrNik/flipperzero-firmware)
@@ -258,6 +273,13 @@
 - [`UberGuidoZ Graphics` Brief description and links to resources, including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics)
 - [`Animations by mnenkov` A dump with animations and manifest creator for batch files.](https://github.com/mnenkov/flipper-zero-animations)
 - [`Oneamongthetrees Animations/Graphics` Collection of custom animations and passport icons.](https://github.com/oneamongthetrees/fz-gfx)
+- [`Kf637/Animations-for-Flipper-Zero` A collection of over 420 public animations from tons of different creators.](https://github.com/Kf637/Animations-for-Flipper-Zero)
+
+### *Utilities*
+
+- [`Flipper Animation Manager` Visualize and manage animations directly from your computer.](https://github.com/Ooggle/FlipperAnimationManager)
+- [`H4XV's Gif2Anim` Gif2FlipperAnimation Converter](https://github.com/H4XV/flipper-animation-generator)
+- [`zip2Animation` Utility to assist in creating animations.](https://github.com/CharlesTheGreat77/zip2Animation)
 
 ### *Utilities*
 
@@ -306,6 +328,7 @@
 - [`Official Web Interface` Web interface to interact with Flipper, including Paint and SUB/IR analyzer.](https://lab.flipper.net/)
 - [`Flipper Maker` Generate Flipper Zero files on the fly.](https://flippermaker.github.io/)
 - [`Flipper File Toolbox` Scripts for generating Flipper data files.](https://github.com/evilpete/flipper_toolbox)
+- [`Flipper Zero Syntax Highlighting` VSCode extension that will add syntax highlighting for Flipper Zero files.](https://marketplace.visualstudio.com/items?itemName=nortakales.flipper-zero-syntax-highlighting)
 
 ### *Converters*
 
