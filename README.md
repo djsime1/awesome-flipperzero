@@ -203,7 +203,7 @@
 ### *Bluetooth*
 
 - [`USB Keyboard` (outdated) A refactor of the BT remote to work over USB. Allows the Flipper to act as an USB HID keyboard.](https://github.com/huuck/FlipperZeroUSBKeyboard)
-- [`ble_spam_ofw` Application that spams broadcast packets to Apple, Android, and Windows.](https://github.com/noproto/ble_spam_ofw)
+- [`ofw_ble_spam` Application that spams broadcast packets to Apple, Android, and Windows.](https://github.com/wrenchathome/ofw_ble_spam)
 
 ### *Games*
 
