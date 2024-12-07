@@ -191,6 +191,7 @@
 - [`GPS` Display data from a serial GPS module.](https://github.com/ezod/flipperzero-gps)
 - [`Unitemp` Temperature, humidity and pressure sensors reader (DHT11/22, DS18B20, BMP280, HTU21x and more)](https://github.com/quen0n/unitemp-flipperzero)
 - [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
+- [`Bluetooth Jammer` Bluetooth jammer using an nRF24 module](https://github.com/huuck/FlipperZeroNRFJammer)
 
 ### *Wifi Devboard*
 
