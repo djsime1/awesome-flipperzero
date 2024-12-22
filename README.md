@@ -267,7 +267,6 @@
 - [`Haseosama Animations` Great collection of custom animations.](https://github.com/Haseosama/FZ_Animations)
 - [`Animations by stopoxy` Another great custom animation collection.](https://github.com/stopoxy/FZAnimations)
 - [`Wr3nch Animations` Some custom animations and scripts.](https://github.com/wrenchathome/flip0anims)
-- [`Dexv Graphics` Custom animations and resources.](https://github.com/DXVVAY/dexv-graphics)
 - [`DoobTheGoober Animations` Custom animations from the creator of zip2Animation](https://github.com/CharlesTheGreat77/FlipperZeroAnimation)
 - [`UberGuidoZ Graphics` Brief description and links to resources, including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics)
 - [`Animations by mnenkov` A dump with animations and manifest creator for batch files.](https://github.com/mnenkov/flipper-zero-animations)
