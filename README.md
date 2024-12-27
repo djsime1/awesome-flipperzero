@@ -144,6 +144,7 @@
 - [`My-Flipper-Shits` Free and open-source BadUSB payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/)
 - [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 - [`FalsePhilosophers Flipper BadUSB` Flipper Zero community ducky payload repo.](https://github.com/FalsePhilosopher/badusb)
+- [`Beigeworm's BadUSB Files` BadUSB payloads updated specifically for the Flipper Zero.](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)
 
 ### *Music*
 
