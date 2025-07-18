@@ -128,6 +128,7 @@
 - [`T119 bruteforcer` Triggers Retekess T119 restaurant pagers.](https://github.com/xb8/t119bruteforcer)
 - [`flipperzero-bruteforce` Generate .sub files to brute force Sub-GHz OOK.](https://github.com/tobiabocchi/flipperzero-bruteforce)
 - [`Flipperzero-Concert-Bracelets` Sub-GHz file to trigger event LED bracelets.](https://github.com/MakeTotalSense/Flipper-Concert-bracelets)
+- [`HC-11 wireless modem` HC-11 wireless modem emulator](https://github.com/Giraut/flipper_zero_hc11_wireless_modem)
 
 ### *NFC/RFID*
 
@@ -191,6 +192,7 @@
 - [`GPS` Display data from a serial GPS module.](https://github.com/ezod/flipperzero-gps)
 - [`Unitemp` Temperature, humidity and pressure sensors reader (DHT11/22, DS18B20, BMP280, HTU21x and more)](https://github.com/quen0n/unitemp-flipperzero)
 - [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
+- [`Noptel LRF sampler` Noptel LRF rangefinder sampler app](https://github.com/Giraut/flipper_zero_noptel_lrf_sampler)
 
 ### *Wifi Devboard*
 
@@ -301,6 +303,7 @@
 - [`Flipper Zero Car Mount` Uses foam from the original box.](https://www.thingiverse.com/thing:5464899)
 - [`Soft TPU cover` Similar to the official silicone case.](https://www.printables.com/en/model/272676-soft-tpu-flipper-zero-cover)
 - [`Flipper-Boy` Flipper Zero Case with 22mm Watch Strap Adapter.](https://www.printables.com/model/304243-flipper-boy)
+- [`Noptel LRF sampler 3D-printed case` Specialized case for use with Noptel LRF rangefinders.](https://github.com/Giraut/flipper_zero_noptel_lrf_sampler_3d_printed_case)
 
 ### *Modules*
 
@@ -363,6 +366,7 @@
 - [`SUB Plotters / comparers` Python package to plot and compare multiple .sub files.](https://github.com/ShotokanZH/flipper_sub_plotters_comparers)
 - [`U2F SSH Keys` U2F ECDSA SSH Key Generation using Flipper Zero.](https://gist.github.com/BlackPropaganda/44c40f7855a90e289a9477b654e54eb1)
 - [`Pagger` Sub-GHz generators for restaurants/kiosks paging systems.](https://meoker.github.io/pagger/)
+- [`tFlipper` Flipper Zero console remote control.](https://github.com/Giraut/tFlipper)
 
 ## Notes & References
 
