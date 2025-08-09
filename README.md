@@ -359,7 +359,7 @@
 - [`Viewing system logs` Dump system logs to serial CLI.](https://gist.github.com/jaflo/50c35c46f3ecada7a18c9e5cc203a3f8)
 - [`CLI Tools` Python scripts to screenshot/stream screen.](https://github.com/lomalkin/flipperzero-cli-tools)
 - [`Fztea` Connect to your Flipper's UI over serial or make it accessible via SSH.](https://github.com/jon4hz/fztea)
-- [`pyFlipper` Unofficial CLI wrapper writter in Python.](https://github.com/wh00hw/pyFlipper)
+- [`pyFlipper` Unofficial CLI wrapper written in Python.](https://github.com/wh00hw/pyFlipper)
 - [`SUB Plotters / comparers` Python package to plot and compare multiple .sub files.](https://github.com/ShotokanZH/flipper_sub_plotters_comparers)
 - [`U2F SSH Keys` U2F ECDSA SSH Key Generation using Flipper Zero.](https://gist.github.com/BlackPropaganda/44c40f7855a90e289a9477b654e54eb1)
 - [`Pagger` Sub-GHz generators for restaurants/kiosks paging systems.](https://meoker.github.io/pagger/)
