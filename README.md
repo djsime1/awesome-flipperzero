@@ -199,6 +199,7 @@
 - [`SkeletonMan's ESP32 Flasher` Python script to flash multiple boards with Marauder or BlackMagic.](https://github.com/SkeletonMan03/FZEasyMarauderFlash)
 - [`Maraduer Official` Official site from JustCallMeKoko, including various ESP32 options.](https://github.com/justcallmekoko/ESP32Marauder)
 - [`Flipper Zero Evil Portal` An evil captive portal Wi-Fi access point using the Flipper Zero and Wi-Fi dev board](https://github.com/bigbrodude6119/flipper-zero-evil-portal)
+- [`PineFlip Manager` Desktop app for managing Flipper Zero and WiFi Pineapple devices with unified C2 capabilities.](https://github.com/bad-antics/pineflip-manager)
 
 ### *Bluetooth*
 
