@@ -162,6 +162,7 @@
   <tr><td>📱 <em>The Flipper Zero also has<br>an <a href="https://lab.flipper.net/apps">official app store!</a></em></td></tr>
 </table>
 
+- [Gitstar](https://gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=djsime1_awesome-flipperzero) - Social feed for GitHub. Follow developers, discover trending repos, activity feeds.
 ### *General*
 
 - [`Officially maintained apps` Official apps maintained by the Flipper Team and collaborators.](https://github.com/flipperdevices/flipperzero-good-faps)
