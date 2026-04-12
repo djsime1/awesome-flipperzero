@@ -191,6 +191,7 @@
 - [`GPS` Display data from a serial GPS module.](https://github.com/ezod/flipperzero-gps)
 - [`Unitemp` Temperature, humidity and pressure sensors reader (DHT11/22, DS18B20, BMP280, HTU21x and more)](https://github.com/quen0n/unitemp-flipperzero)
 - [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
+- [`Tesla Mod` Tesla CAN bus toolkit — 37 handlers for FSD region-gate, nag killer, track mode, BMS dashboard, blind spot, strobe and more. Connects via CAN Add-On or ESP32.](https://github.com/hypery11/flipper-tesla-fsd)
 
 ### *Wifi Devboard*
 
