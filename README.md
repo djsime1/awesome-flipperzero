@@ -144,6 +144,7 @@
 - [`My-Flipper-Shits` Free and open-source BadUSB payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/)
 - [`Flipper BadUSB Payloads` Collection of payloads formatted to work on the Flipper Zero.](https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB)
 - [`FalsePhilosophers Flipper BadUSB` Flipper Zero community ducky payload repo.](https://github.com/FalsePhilosopher/badusb)
+- [`NullSec Flipper Suite` 430+ Flipper Zero files — 80 BadUSB payloads, 40 Sub-GHz signals, NFC dumps, infrared remotes, and more.](https://github.com/bad-antics/nullsec-flipper-suite)
 
 ### *Music*
 
