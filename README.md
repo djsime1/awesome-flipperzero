@@ -260,6 +260,7 @@
 
 - [`Flipper Zero Animation Process` Google Doc step by step from Talking Sasquach.](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub)
 - [`Lab401 Animation Video` YouTube video with a step by step from Talking Sasquach.](https://www.youtube.com/watch?v=Nq5DXhOMo5s)
+- [TutorialSearch](https://tutorialsearch.io/?q=flipperzero) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ### *Pre-made animations*
 
