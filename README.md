@@ -133,6 +133,7 @@
 
 - [`FlipperAmiibo` Bank vault of Amiibos to Flipper's format.](https://github.com/Gioman101/FlipperAmiibo)
 - [`Flipper-Zero-Tonies` Database of Tonies for the Toniebox.](https://github.com/nortakales/flipper-zero-tonies)
+- [`NFC_bridge` Offline two-way converter between Flipper `.nfc` and Chameleon Ultra `.json` dumps (MIFARE Classic 1K/4K).](https://github.com/bosund/NFC_bridge)
 
 ### *Infrared*
 
