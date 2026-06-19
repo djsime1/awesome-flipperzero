@@ -217,6 +217,7 @@
 
 ### *Utility/Other*
 
+- [`Access Audit` Defensive NFC/RFID/iCLASS access-control auditing — instant risk score and SD-card report, aligned with the OWASP Risk Rating Methodology.](https://github.com/matthewkayne/flipper-access-audit)
 - [`Flipper-Plugin-Tutorial` Updated plugin tutorial based on new build methods.](https://github.com/csBlueChip/FlipperZero_plugin_howto)
 - [`Flipper Authenticator` Generate TOTP authentication codes.](https://github.com/akopachov/flipper-zero_authenticator/)
 - [`Tuning Fork` Use your Flipper as a tuning fork.](https://github.com/besya/flipperzero-tuning-fork)
