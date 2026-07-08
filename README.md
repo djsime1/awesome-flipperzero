@@ -225,6 +225,7 @@
 - [`MultiConverter` Multi-unit converter that can be easily expanded with new units and conversion methods.](https://github.com/theisolinearchip/flipperzero_stuff/tree/main/applications/multi_converter)
 - [`bpm-tapper` Tap along to a song to measure beats per minute.](https://github.com/panki27/bpm-tapper)
 - [`Flipp Pomodoro` Pomodoro Timer Tool for productivity.](https://github.com/Th3Un1q3/flipp_pomodoro)
+- [`PocketLab` Gamified, on-device learning: short interactive labs that teach your Flipper's own features, with XP, levels and badges.](https://github.com/PerfectoWeb/flipper-pocketlab)
 
 
 ## Firmwares & Tweaks
