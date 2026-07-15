@@ -1,4 +1,4 @@
-<hr>
+ <hr>
 
 <a href="https://github.com/djsime1/awesome-flipperzero">
   <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
@@ -121,6 +121,7 @@
 ### *General*
 
 - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds, including everything below.](https://github.com/UberGuidoZ/Flipper)
+- [`Flipper Zero Downloads` Curated collection of files for Flipper Zero](https://github.com/SYOP200/Flipper-Zero-Downloads)
 
 ### *Sub-GHz*
 
@@ -225,6 +226,7 @@
 - [`MultiConverter` Multi-unit converter that can be easily expanded with new units and conversion methods.](https://github.com/theisolinearchip/flipperzero_stuff/tree/main/applications/multi_converter)
 - [`bpm-tapper` Tap along to a song to measure beats per minute.](https://github.com/panki27/bpm-tapper)
 - [`Flipp Pomodoro` Pomodoro Timer Tool for productivity.](https://github.com/Th3Un1q3/flipp_pomodoro)
+- [`Flippermind-lite`Super Tiny Language Model (STLM) library for Flipper Zero](https://github.com/SYOP200/flippermind-lite)
 
 
 ## Firmwares & Tweaks
