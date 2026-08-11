@@ -191,6 +191,7 @@
 - [`GPS` Display data from a serial GPS module.](https://github.com/ezod/flipperzero-gps)
 - [`Unitemp` Temperature, humidity and pressure sensors reader (DHT11/22, DS18B20, BMP280, HTU21x and more)](https://github.com/quen0n/unitemp-flipperzero)
 - [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
+- [`Fake Chip Detector` Identifies an I2C sensor by its factory ID register, so a relabelled part is caught before it is soldered in. 80 chips, wiring diagnosis, live tests that prove the sensor works.](https://github.com/hleserg/flipper-fake-chip-detector)
 
 ### *Wifi Devboard*
 
