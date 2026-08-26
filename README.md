@@ -336,6 +336,7 @@
 - [`csv2ir` Script to convert IRDB CSV's to Flipper .ir files.](https://github.com/Spexivus/csv2ir)
 - [`AmiiboFlipperConverter` Script that converts Amiibo's to Flipper format.](https://github.com/Lucaslhm/AmiiboFlipperConverter/)
 - [`VertProntoIR2FlipperIR` Converts Vert Pronto IR codes to Flipper format.](https://github.com/SkeletonMan03/VertProntoIR2FlipperIR)
+- [`Xcene IR Converter` Browser tool to convert IR codes to Flipper .ir, plus NEC to Pronto Hex, Broadlink base64 to raw, and Global Caché. No install.](https://xcene.com.br/ferramentas-ir.html)
 - [`FlippMibo` Yet another Amiibo to Flipper conversion script.](https://github.com/0xz00n/FlipMiibo)
 - [`ClassicConverter` Converts Mifare Classic binary files to Flipper.](https://github.com/equipter/ClassicConverter)
 - [`ClassicConverterWeb` Converts between Mifare Classic binary and Flipper NFC file.](https://micsen.github.io/flipperNfcToBin/)
